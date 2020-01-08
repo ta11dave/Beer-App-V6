@@ -1,0 +1,146 @@
+{
+   "Water": [
+      {
+         "ID": "1",
+         "Name": "Balanced",
+         "Calcium": "80",
+         "Magnesium": "5",
+         "Sulfate": "80",
+         "Sodium": "25",
+         "Chloride": "75",
+         "Bicarbonate": "100"
+      },
+      {
+         "ID": "2",
+         "Name": "Balanced II",
+         "Calcium": "150",
+         "Magnesium": "10",
+         "Sulfate": "160",
+         "Sodium": "80",
+         "Chloride": "150",
+         "Bicarbonate": "220"
+      },
+      {
+         "ID": "3",
+         "Name": "Burton",
+         "Calcium": "275",
+         "Magnesium": "40",
+         "Sulfate": "610",
+         "Sodium": "25",
+         "Chloride": "35",
+         "Bicarbonate": "270"
+      },
+      {
+         "ID": "4",
+         "Name": "Dusseldorf (Altbier)",
+         "Calcium": "90",
+         "Magnesium": "12",
+         "Sulfate": "45",
+         "Sodium": "82",
+         "Chloride": "65",
+         "Bicarbonate": "223"
+      },
+      {
+         "ID": "5",
+         "Name": "Dortmund",
+         "Calcium": "230",
+         "Magnesium": "15",
+         "Sulfate": "330",
+         "Sodium": "40",
+         "Chloride": "130",
+         "Bicarbonate": "235"
+      },
+      {
+         "ID": "6",
+         "Name": "Dublin (Dry Stout)",
+         "Calcium": "120",
+         "Magnesium": "4",
+         "Sulfate": "55",
+         "Sodium": "12",
+         "Chloride": "19",
+         "Bicarbonate": "315"
+      },
+      {
+         "ID": "7",
+         "Name": "Edinburgh (Scottish/Malty Ale)",
+         "Calcium": "100",
+         "Magnesium": "20",
+         "Sulfate": "140",
+         "Sodium": "55",
+         "Chloride": "50",
+         "Bicarbonate": "285"
+      },
+      {
+         "ID": "8",
+         "Name": "Malty Balanced",
+         "Calcium": "90",
+         "Magnesium": "5",
+         "Sulfate": "60",
+         "Sodium": "25",
+         "Chloride": "95",
+         "Bicarbonate": "100"
+      },
+      {
+         "ID": "9",
+         "Name": "London (Porter)",
+         "Calcium": "70",
+         "Magnesium": "6",
+         "Sulfate": "40",
+         "Sodium": "15",
+         "Chloride": "38",
+         "Bicarbonate": "166"
+      },
+      {
+         "ID": "10",
+         "Name": "Munich (Dark Lager)",
+         "Calcium": "77",
+         "Magnesium": "17",
+         "Sulfate": "18",
+         "Sodium": "4",
+         "Chloride": "8",
+         "Bicarbonate": "295"
+      },
+      {
+         "ID": "11",
+         "Name": "Pilsen (Light Lager)",
+         "Calcium": "7",
+         "Magnesium": "2",
+         "Sulfate": "8",
+         "Sodium": "2",
+         "Chloride": "6",
+         "Bicarbonate": "16"
+      },
+      {
+         "ID": "12",
+         "Name": "Vienna",
+         "Calcium": "75",
+         "Magnesium": "15",
+         "Sulfate": "60",
+         "Sodium": "10",
+         "Chloride": "15",
+         "Bicarbonate": "225"
+      },
+      {
+         "ID": "13",
+         "Name": "Light & Hoppy",
+         "Calcium": "75",
+         "Magnesium": "5",
+         "Sulfate": "150",
+         "Sodium": "10",
+         "Chloride": "50",
+         "Bicarbonate": "0"
+      },
+      {
+         "ID": "14",
+         "Name": "Light & Malty",
+         "Calcium": "60",
+         "Magnesium": "5",
+         "Sulfate": "55",
+         "Sodium": "10",
+         "Chloride": "95",
+         "Bicarbonate": "0"
+      }
+   ],
+   "_xmlns:od": "urn:schemas-microsoft-com:officedata",
+   "_generated": "2019-12-30T11:01:48"
+}

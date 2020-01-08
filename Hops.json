@@ -1,0 +1,1029 @@
+﻿{
+   "Hops": [
+      {
+         "ID": "1",
+         "Name": "Admiral",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Possible_x0020_Substitutions": "U.K. Target, U.K. Northdown, U.K. Challenger",
+         "Flavor_x0020_Description": "Known for its bittering potential."
+      },
+      {
+         "ID": "2",
+         "Name": "Ahtanum",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.3%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Flavor_x0020_Description": "Floral, citrus, sharp, and piney."
+      },
+      {
+         "ID": "3",
+         "Name": "Amarillo",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "8.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.0%",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Possible_x0020_Substitutions": "Cascade, Centennial",
+         "Flavor_x0020_Description": "Citrusy, flowery."
+      },
+      {
+         "ID": "4",
+         "Name": "Apollo",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.19",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "5",
+         "Name": "Aurora",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "6",
+         "Name": "Azacca",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "14.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Possible_x0020_Substitutions": "Citra, Mosaic, Galaxy, and other new age fruity hops",
+         "Flavor_x0020_Description": "Aromas of tropical fruits and citrus. Tasting notes of spicy mango, pineapple, tangerine and pine."
+      },
+      {
+         "ID": "7",
+         "Name": "B. C. Goldings",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "8",
+         "Name": "Banner",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "9",
+         "Name": "Boadicea",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "8.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "10.0%",
+         "Average_x0020_AA_x0025_": "0.09"
+      },
+      {
+         "ID": "10",
+         "Name": "Bramling Cross",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.0%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Possible_x0020_Substitutions": "U.K. Kent Golding, U.K. Progress, Whitbread Golding Variety",
+         "Flavor_x0020_Description": "Quite mild, fruity currant aroma."
+      },
+      {
+         "ID": "11",
+         "Name": "Bravo",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "12",
+         "Name": "Brewer's Gold",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Possible_x0020_Substitutions": "Northdown, Northern Brewer, Galena, Bullion",
+         "Flavor_x0020_Description": "Ale, heavier German-style lagers"
+      },
+      {
+         "ID": "13",
+         "Name": "BRU-1",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "15.0%",
+         "Average_x0020_AA_x0025_": "0.14"
+      },
+      {
+         "ID": "14",
+         "Name": "Bullion",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.0%",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Possible_x0020_Substitutions": "Columbus, Northern Brewer, German Brewer's Gold",
+         "Flavor_x0020_Description": "IPA, ESB, stout"
+      },
+      {
+         "ID": "15",
+         "Name": "Calypso",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.14",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "16",
+         "Name": "Cascade",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.0%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "Centennial, Amarillo, possibly Columbus",
+         "Flavor_x0020_Description": "Pale ale, IPA, porter, barleywine"
+      },
+      {
+         "ID": "17",
+         "Name": "Cashmere",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.7%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.1%",
+         "Average_x0020_AA_x0025_": "0.085"
+      },
+      {
+         "ID": "18",
+         "Name": "Centennial",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "8.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "11.5%",
+         "Average_x0020_AA_x0025_": "0.111",
+         "Possible_x0020_Substitutions": "Cascade, possibly Columbus",
+         "Flavor_x0020_Description": "All ale styles, has been used with wheat beer"
+      },
+      {
+         "ID": "19",
+         "Name": "Challenger",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Possible_x0020_Substitutions": "U.S. or German Perle, Northern Brewer",
+         "Flavor_x0020_Description": "English-style ales, porter, stout, ESB, bitter"
+      },
+      {
+         "ID": "20",
+         "Name": "Chinook",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.114",
+         "Possible_x0020_Substitutions": "Nugget, Columbus, Northern Brewer, U.K. Target",
+         "Flavor_x0020_Description": "Pale ale, IPA, stout, porter, lager"
+      },
+      {
+         "ID": "21",
+         "Name": "Citra",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.111",
+         "Possible_x0020_Substitutions": "Hallertauer, Tettnanger, possibly Columbus",
+         "Flavor_x0020_Description": "IPA, pale ale, stout"
+      },
+      {
+         "ID": "22",
+         "Name": "Cluster",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Possible_x0020_Substitutions": "Galena",
+         "Flavor_x0020_Description": "Ale and lager (good aroma for ale, good bittering for lager)"
+      },
+      {
+         "ID": "23",
+         "Name": "Columbia",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "24",
+         "Name": "Columbus",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Possible_x0020_Substitutions": "Nugget, Chinook, U.K. Target, Northern Brewer",
+         "Flavor_x0020_Description": "IPA, pale ale, stout"
+      },
+      {
+         "ID": "25",
+         "Name": "Comet",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.11",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "26",
+         "Name": "Crystal",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "2.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.5%",
+         "Average_x0020_AA_x0025_": "0.03",
+         "Possible_x0020_Substitutions": "Mt. Hood, Hersbrucker, French Strisslespalt, Liberty, Hallertauer",
+         "Flavor_x0020_Description": "Lager, pilsner, ESB"
+      },
+      {
+         "ID": "27",
+         "Name": "Dr. Rudi",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.11"
+      },
+      {
+         "ID": "28",
+         "Name": "East Kent Golding",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "29",
+         "Name": "El Dorado",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.15"
+      },
+      {
+         "ID": "30",
+         "Name": "Eroica",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "9.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.11",
+         "Possible_x0020_Substitutions": "Galena, Nugget, Chinook",
+         "Flavor_x0020_Description": "Wheat"
+      },
+      {
+         "ID": "31",
+         "Name": "Ekuanot",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "14.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.15"
+      },
+      {
+         "ID": "32",
+         "Name": "Falconer's Flight",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.1",
+         "Flavor_x0020_Description": "Dry Hop"
+      },
+      {
+         "ID": "33",
+         "Name": "First Gold",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Possible_x0020_Substitutions": "U.K. Kent Golding, maybe Crystal",
+         "Flavor_x0020_Description": "Ale, ESB"
+      },
+      {
+         "ID": "34",
+         "Name": "Fuggle",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.K. Fuggle, Willamette, Styrian Golding, U.S. Tettnanger",
+         "Flavor_x0020_Description": "Any English-style beer or American ale"
+      },
+      {
+         "ID": "35",
+         "Name": "Galaxy",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.6%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.12",
+         "Possible_x0020_Substitutions": "Citra, Amarillo, Simcoe",
+         "Flavor_x0020_Description": "IPA, Saison, Fruit Beers, Wheat Beers, Wild Ales"
+      },
+      {
+         "ID": "36",
+         "Name": "Galena",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.14",
+         "Possible_x0020_Substitutions": "Nugget, Pride of Ringwood, Chinook",
+         "Flavor_x0020_Description": "Ale, porter, stout, ESB, bitter"
+      },
+      {
+         "ID": "37",
+         "Name": "Glacier",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "38",
+         "Name": "Golding",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.K. Golding, Whitbread Golding Variety, U.K. Progress, and possibly the Fuggle family",
+         "Flavor_x0020_Description": "Pale ale, ESB, all English-style beer"
+      },
+      {
+         "ID": "39",
+         "Name": "Green Bullet",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.125"
+      },
+      {
+         "ID": "40",
+         "Name": "Hallertauer",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "Liberty, Ultra, Hallertauer Tradition",
+         "Flavor_x0020_Description": "Lager, pilsner, bock, wheat"
+      },
+      {
+         "ID": "41",
+         "Name": "Hallertau Blanc",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "9.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "11.0%",
+         "Average_x0020_AA_x0025_": "0.1"
+      },
+      {
+         "ID": "42",
+         "Name": "Hersbrucker",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "1.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.0%",
+         "Possible_x0020_Substitutions": "Mt. Hood, French Strisslespalt",
+         "Flavor_x0020_Description": "Lager, pilsner, bock, wheat"
+      },
+      {
+         "ID": "43",
+         "Name": "Hallertauer Mittelfrüh",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.04",
+         "Possible_x0020_Substitutions": "Liberty, German Tradition, Ultra",
+         "Flavor_x0020_Description": "Lager, bock, wheat, maybe pilsner"
+      },
+      {
+         "ID": "44",
+         "Name": "Horizon",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Possible_x0020_Substitutions": "Magnum or a high-alpha hop",
+         "Flavor_x0020_Description": "Ale, lager"
+      },
+      {
+         "ID": "45",
+         "Name": "Huell Melon",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.0%",
+         "Average_x0020_AA_x0025_": "0.075"
+      },
+      {
+         "ID": "46",
+         "Name": "Huller Bitterer",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "47",
+         "Name": "Idaho 7",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "15.0%",
+         "Average_x0020_AA_x0025_": "0.14"
+      },
+      {
+         "ID": "48",
+         "Name": "Idaho Gem",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.125"
+      },
+      {
+         "ID": "49",
+         "Name": "Jarrylo",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "15.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.16"
+      },
+      {
+         "ID": "50",
+         "Name": "Kazbek",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.0%",
+         "Average_x0020_AA_x0025_": "0.065"
+      },
+      {
+         "ID": "51",
+         "Name": "Kent Golding",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.S. Golding, Whitbread Golding Variety, U.K. Progress",
+         "Flavor_x0020_Description": "All English-style ales, ESB, bitter"
+      },
+      {
+         "ID": "52",
+         "Name": "Kohatu",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.0%",
+         "Average_x0020_AA_x0025_": "0.065"
+      },
+      {
+         "ID": "53",
+         "Name": "Liberty",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "Hallertauer Tradition, Hallertauer, Mt. Hood",
+         "Flavor_x0020_Description": "Lager, pilsner, bock, wheat"
+      },
+      {
+         "ID": "54",
+         "Name": "Loral",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.03",
+         "Flavor_x0020_Description": "citrus, floral, herbal"
+      },
+      {
+         "ID": "55",
+         "Name": "Lublin",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.14",
+         "Flavor_x0020_Description": "Dry Hop"
+      },
+      {
+         "ID": "56",
+         "Name": "Mandarina Bavaria",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "10.0%",
+         "Average_x0020_AA_x0025_": "0.085"
+      },
+      {
+         "ID": "57",
+         "Name": "Magnum",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "15.0%",
+         "Average_x0020_AA_x0025_": "0.14",
+         "Possible_x0020_Substitutions": "Northern Brewer",
+         "Flavor_x0020_Description": "All beers, particularly lager, pilsner, stout"
+      },
+      {
+         "ID": "58",
+         "Name": "Medusa",
+         "Average_x0020_AA_x0025_": "0.038",
+         "Flavor_x0020_Description": "intense guava, melon, apricot, and citrus fruit"
+      },
+      {
+         "ID": "59",
+         "Name": "Millenium",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "60",
+         "Name": "Mosaic",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "10.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Possible_x0020_Substitutions": "Simcoe, Citra, Nugget",
+         "Flavor_x0020_Description": "IPA, Saison, Fruit Beer, Wheat Beer, Pale Ale"
+      },
+      {
+         "ID": "61",
+         "Name": "Motueka",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.5%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "62",
+         "Name": "Mount Rainier",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.12",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "63",
+         "Name": "Mount Hood",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.0%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "Crystal, French Strisslespalt, Hersbrucker",
+         "Flavor_x0020_Description": "Lager, pilsner, bock, wheat"
+      },
+      {
+         "ID": "64",
+         "Name": "Moutere",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "17.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "19.5%",
+         "Average_x0020_AA_x0025_": "0.185"
+      },
+      {
+         "ID": "65",
+         "Name": "Nelson Sauvin",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "12.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "13.0%",
+         "Average_x0020_AA_x0025_": "0.125",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "66",
+         "Name": "Newport",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.14",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "67",
+         "Name": "Northdown",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.5%",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Flavor_x0020_Description": "All ales, porter"
+      },
+      {
+         "ID": "68",
+         "Name": "Northern Brewer",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "10.0%",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Possible_x0020_Substitutions": "Nugget, Chinook",
+         "Flavor_x0020_Description": "ESB, bitter, English pale ale, porter, California (steam) beer"
+      },
+      {
+         "ID": "69",
+         "Name": "Northwest Golding",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Flavor_x0020_Description": "Ale, porter, stout, ESB, bitter"
+      },
+      {
+         "ID": "70",
+         "Name": "Nugget",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.5%",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Possible_x0020_Substitutions": "Columbus, Chinook, U.K. Target, Galena",
+         "Flavor_x0020_Description": "Light lager"
+      },
+      {
+         "ID": "71",
+         "Name": "Olympic",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "13.0%",
+         "Average_x0020_AA_x0025_": "0.12",
+         "Possible_x0020_Substitutions": "Chinook"
+      },
+      {
+         "ID": "72",
+         "Name": "Pacifica",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.055"
+      },
+      {
+         "ID": "73",
+         "Name": "Pacific Gem",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "74",
+         "Name": "Pacific Jade",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "12.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Flavor_x0020_Description": "Lemon, blackberry, cracked pepper"
+      },
+      {
+         "ID": "75",
+         "Name": "Pahto",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "17.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "20.0%",
+         "Average_x0020_AA_x0025_": "0.185"
+      },
+      {
+         "ID": "76",
+         "Name": "Palisade",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Flavor_x0020_Description": "Aroma"
+      },
+      {
+         "ID": "77",
+         "Name": "Perle",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.5%",
+         "Average_x0020_AA_x0025_": "0.07",
+         "Possible_x0020_Substitutions": "Northern Brewer, Cluster, Galena, Chinook",
+         "Flavor_x0020_Description": "Pale ale, porter, German styles"
+      },
+      {
+         "ID": "78",
+         "Name": "Phoenix",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.2%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.K. Northdown, U.K. Kent Golding, U.K. Challenger",
+         "Flavor_x0020_Description": "All ales"
+      },
+      {
+         "ID": "79",
+         "Name": "Pioneer",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "8.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "10.0%",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Possible_x0020_Substitutions": "U.K. Kent Golding",
+         "Flavor_x0020_Description": "Ale, ESB"
+      },
+      {
+         "ID": "80",
+         "Name": "Polaris",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "18.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "24.0%",
+         "Average_x0020_AA_x0025_": "0.21"
+      },
+      {
+         "ID": "81",
+         "Name": "Polish Lublin",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.5%",
+         "Average_x0020_AA_x0025_": "0.04",
+         "Possible_x0020_Substitutions": "U.S. Saaz, Czech Saaz, U.S. Tettnanger",
+         "Flavor_x0020_Description": "Pilsner"
+      },
+      {
+         "ID": "82",
+         "Name": "Pride of Ringwood",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "7.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "10.0%",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Possible_x0020_Substitutions": "Galena, Cluster",
+         "Flavor_x0020_Description": "Australian lager"
+      },
+      {
+         "ID": "83",
+         "Name": "Progress",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.5%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "U.K. Kent Golding, Fuggle",
+         "Flavor_x0020_Description": "Ale, bitter, ESB, porter"
+      },
+      {
+         "ID": "84",
+         "Name": "Rakau",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "9.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "11.0%",
+         "Average_x0020_AA_x0025_": "0.1"
+      },
+      {
+         "ID": "85",
+         "Name": "Saaz",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.5%",
+         "Average_x0020_AA_x0025_": "0.04",
+         "Possible_x0020_Substitutions": "Polish Lublin",
+         "Flavor_x0020_Description": "Pilsner"
+      },
+      {
+         "ID": "86",
+         "Name": "Sabro",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "12.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "16.0%",
+         "Average_x0020_AA_x0025_": "0.14"
+      },
+      {
+         "ID": "87",
+         "Name": "Santiam",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.9%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "German Tettnanger, German Spalt, German Spalt Select",
+         "Flavor_x0020_Description": "Lager, American ale, pilsner"
+      },
+      {
+         "ID": "88",
+         "Name": "Saphir",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "2.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.5%",
+         "Average_x0020_AA_x0025_": "0.03"
+      },
+      {
+         "ID": "89",
+         "Name": "Satus",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "12.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Possible_x0020_Substitutions": "Galena"
+      },
+      {
+         "ID": "90",
+         "Name": "Simcoe",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "12.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.13"
+      },
+      {
+         "ID": "91",
+         "Name": "Sorachi Ace",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.12",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "92",
+         "Name": "Sovereign",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.5%",
+         "Average_x0020_AA_x0025_": "0.055"
+      },
+      {
+         "ID": "93",
+         "Name": "Spalt",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.S. Saaz, U.S. Tettnanger, German Spalt Select",
+         "Flavor_x0020_Description": "Lager"
+      },
+      {
+         "ID": "94",
+         "Name": "Select",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.5%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "Saaz, Tettnanger, Spalt",
+         "Flavor_x0020_Description": "Lager, and any beer where noble aroma is wanted"
+      },
+      {
+         "ID": "95",
+         "Name": "Smaragd",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05"
+      },
+      {
+         "ID": "96",
+         "Name": "Southern Cross",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "11.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "14.0%",
+         "Average_x0020_AA_x0025_": "0.125"
+      },
+      {
+         "ID": "97",
+         "Name": "Sterling",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "9.0%",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Possible_x0020_Substitutions": "Saaz, Polish Lublin",
+         "Flavor_x0020_Description": "Lager, ale, pilsner"
+      },
+      {
+         "ID": "98",
+         "Name": "Sticklebract",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.12",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "99",
+         "Name": "Strisslespalt",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.0%",
+         "Average_x0020_AA_x0025_": "0.03",
+         "Possible_x0020_Substitutions": "Mt. Hood, Crystal, Hersbrucker",
+         "Flavor_x0020_Description": "Pilsner, lager, wheat"
+      },
+      {
+         "ID": "100",
+         "Name": "Styrian Golding",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.S. Fuggle, U.K. Fuggle, Willamette",
+         "Flavor_x0020_Description": "All English-style ales, ESB, bitter, lager"
+      },
+      {
+         "ID": "101",
+         "Name": "Summer",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.6%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.4%",
+         "Average_x0020_AA_x0025_": "0.058"
+      },
+      {
+         "ID": "102",
+         "Name": "Summit",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "15.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "18.0%",
+         "Average_x0020_AA_x0025_": "0.18",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "103",
+         "Name": "Super Alpha",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.13",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "104",
+         "Name": "Super Styrians",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.09",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "105",
+         "Name": "Talisman",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.08",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "106",
+         "Name": "Target",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "9.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.5%",
+         "Average_x0020_AA_x0025_": "0.11",
+         "Possible_x0020_Substitutions": "Fuggle, Willamette",
+         "Flavor_x0020_Description": "All ale and lager"
+      },
+      {
+         "ID": "107",
+         "Name": "Tettnang",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.5%",
+         "Average_x0020_AA_x0025_": "0.023",
+         "Possible_x0020_Substitutions": "German Spalt, German Spalt Select, U.S. Tettnanger, Saaz",
+         "Flavor_x0020_Description": "Lager, ale"
+      },
+      {
+         "ID": "108",
+         "Name": "Tomahawk",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "15.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.16",
+         "Possible_x0020_Substitutions": "Columbus",
+         "Flavor_x0020_Description": "Ale"
+      },
+      {
+         "ID": "109",
+         "Name": "Triumph",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "9.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "12.0%",
+         "Average_x0020_AA_x0025_": "0.105"
+      },
+      {
+         "ID": "110",
+         "Name": "Tradition",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.0%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "Hersbrucker, Hallertauer Mittelfrüh",
+         "Flavor_x0020_Description": "Lager, pilsner"
+      },
+      {
+         "ID": "111",
+         "Name": "Ultra",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "2.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "4.1%",
+         "Average_x0020_AA_x0025_": "0.03",
+         "Possible_x0020_Substitutions": "Liberty, Hallertauer Tradition, Saaz",
+         "Flavor_x0020_Description": "Lager, pilsner, wheat, finish hop in ales"
+      },
+      {
+         "ID": "112",
+         "Name": "Vanguard",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "4.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "5.7%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "Saaz, Hallertauer Mittelfrüh"
+      },
+      {
+         "ID": "113",
+         "Name": "Vic Secret",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "14.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.155"
+      },
+      {
+         "ID": "114",
+         "Name": "Warrior",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "15.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.16",
+         "Possible_x0020_Substitutions": "Nugget",
+         "Flavor_x0020_Description": "Ale, stout"
+      },
+      {
+         "ID": "115",
+         "Name": "Wai-iti",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "2.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "3.5%",
+         "Average_x0020_AA_x0025_": "0.03"
+      },
+      {
+         "ID": "116",
+         "Name": "Waimea",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "16.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "19.0%",
+         "Average_x0020_AA_x0025_": "0.175"
+      },
+      {
+         "ID": "117",
+         "Name": "Wakatu",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.075"
+      },
+      {
+         "ID": "118",
+         "Name": "WGV (Whitbread Golding Variety)",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "5.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "7.0%",
+         "Average_x0020_AA_x0025_": "0.06",
+         "Possible_x0020_Substitutions": "U.K. Kent Golding, U.K. Progress",
+         "Flavor_x0020_Description": "Ale"
+      },
+      {
+         "ID": "119",
+         "Name": "Willamette",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "3.5%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "6.0%",
+         "Average_x0020_AA_x0025_": "0.05",
+         "Possible_x0020_Substitutions": "U.S. Fuggle, U.S. Tettnanger, Styrian Golding",
+         "Flavor_x0020_Description": "Pale ale, ESB, bitter, English-style ale, porter, stout"
+      },
+      {
+         "ID": "120",
+         "Name": "Wye Target",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.1",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "121",
+         "Name": "Yakima Cluster",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.5%",
+         "Average_x0020_AA_x0025_": "0.07"
+      },
+      {
+         "ID": "122",
+         "Name": "Yamhill Goldings",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.04",
+         "Flavor_x0020_Description": "Aroma"
+      },
+      {
+         "ID": "123",
+         "Name": "Zappa",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "6.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "8.0%",
+         "Average_x0020_AA_x0025_": "0.07"
+      },
+      {
+         "ID": "124",
+         "Name": "Zenith",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.1",
+         "Flavor_x0020_Description": "Boil"
+      },
+      {
+         "ID": "125",
+         "Name": "Zeus",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "13.0%",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "17.0%",
+         "Average_x0020_AA_x0025_": "0.15",
+         "Possible_x0020_Substitutions": "Columbus"
+      },
+      {
+         "ID": "126",
+         "Name": "Zythos",
+         "Alpha_x0020_Acid_x0020_Min_x0020__x0025_": "-",
+         "Alpha_x0020_Acid_x0020_Max_x0020__x0025_": "-",
+         "Average_x0020_AA_x0025_": "0.11",
+         "Flavor_x0020_Description": "Boil"
+      }
+   ],
+   "_xmlns:od": "urn:schemas-microsoft-com:officedata",
+   "_generated": "2019-12-30T11:01:23"
+}
