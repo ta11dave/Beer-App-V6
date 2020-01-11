@@ -22,7 +22,7 @@ body {
   font-weight: 500;
 }
   
-.box input[type = "text"], .box input[type = "password"]{
+.box input[type = "text"]{
   border: 0;
   background: none;
   display: block;
@@ -37,7 +37,7 @@ body {
   transition: 0.25s;
 }
 
-.box input[type = "text"]:focus, .box input[type = "password"]:focus{
+.box input[type = "text"]:focus{
   width: 280px;
   border-color: #3498db;
   border: 2px solid #db0dd4;
