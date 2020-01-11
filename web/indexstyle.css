@@ -1,0 +1,41 @@
+.stats { grid-area: a; }
+.maltclass { grid-area: b; }
+.hopclass { grid-area: c; }
+.adjclass { grid-area: d; }
+.yeastclass { grid-area: e; }
+.mashclass { grid-area: f; }
+
+
+.grid-container {
+	display: grid;
+	grid-template-areas:
+		'a a a'
+		'b f f'
+		'c d e';
+	grid-gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+}
+
+@media (max-width: 700px) {
+	.grid-container {
+		display: grid;
+		grid-template-areas:
+			'a'
+			'b'
+			'c'
+			'd'
+			'e'
+			'f';
+	grid-gap: 10px;
+	background-color: #2196F3;
+	padding: 10px;
+	}
+}
+
+.grid-container > div {
+	background-color: rgba(255, 255, 255, 0.8);
+	text-align: center;
+	padding: 20px 0;
+	font-size: 30px;
+}
