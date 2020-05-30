@@ -57,10 +57,10 @@ class malt:
 		
 	
 class hop:
-	def __init__(self, name, AA_AVG, AA_Temp, AA_Min, AA_Max, Subs, Flav):
+	def __init__(self, name, AA_Min, AA_Max, AA_AVG, Subs, Flav):
 		self.name = name
 		self.AA_AVG = AA_AVG
-		self.AA_Temp = AA_Temp
+		self.AA_Temp = AA_AVG
 		self.AA_Min = AA_Min
 		self.AA_Max = AA_Max
 		self.Subs = Subs 
@@ -116,6 +116,37 @@ class style:
 #https://docs.python.org/3/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
 def load_water():
 	myroot = ET.parse('data/Water.xml').getroot()
+	for child in myroot:
+		myobj = water(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text, child[6].text)
+		waters.append(myobj)
 
+def load_ferms():
+	myroot = ET.parse('data/fermentables.xml').getroot()
+	for child in myroot:
+		myobj = malt(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text, child[6].text, child[7].text)
+		malts.append(myobj)
 
-load_water()
+def load_hops():
+	myroot = ET.parse('data/Hops.xml').getroot()
+	for child in myroot:
+		myobj = hop(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text)
+		hops.append(myobj)
+
+def load_yeasts():
+	myroot = ET.parse('data/Yeast.xml').getroot()
+	for child in myroot:
+		myobj = yeast(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text, child[6].text, child[7].text, child[8].text)
+		yeasts.append(myobj)
+
+def load_styles():
+	myroot = ET.parse('data/Styles.xml').getroot()
+	for child in myroot:
+		myobj = style(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text, child[6].text, child[7].text, child[8].text, child[9].text, child[10].text, child[11].text, child[12].text, child[13].text, child[14].text, child[15].text)
+		styles.append(myobj)
+
+def load_all():
+	load_water()
+	load_ferms()
+	load_hops()
+	load_yeasts()
+	load_styles()

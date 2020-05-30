@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-
-import databases
+import databases as db
 
 recipes = []
 
@@ -12,19 +11,27 @@ different ingedients and mash steps"""
 
 class recipe:
 	def __init__(self, name):
+	#recipe name
 		self.name = name
+	#fermentable and weight in oz
 		self.fermentables = []
+	#hop, weight in oz, and boil time
 		self.hops = []
+	#step name, temp, and time
 		self.mashsteps = []
+	#adjunct, amount, and boil time
 		self.adjuncts = []
+	#yeast and amount
 		self.yeast = "Empty"
+	#water
 		self.water = [0,0,0,0,0,0]
 
 	def update_name(self, myname):
 		self.name = myname
 
 	def add_fermentable(self, myfermentable):
-		self.fermentable.append(myfermentable)
+		x = input("What how many oz? ")
+		self.fermentables.append((myfermentable, x))
 
 	def remove_fermentable(self, myfermentable):
 		for ferm in self.fermentables:
@@ -32,7 +39,9 @@ class recipe:
 				self.fermentables.remove(myfermentable)
 
 	def add_hop(self, myhop):
-		self.hops.append(myhop)
+		x = input("What how many oz? ")
+		y = input("What long in the boil? ")
+		self.hops.append((myhop, x, y))
 
 	def remove_hop(self, myhop):
 		for ahop in self.hops:
@@ -62,14 +71,13 @@ class recipe:
 		self.water = [Ca, Mg, SO4, Na, Cl, HCO3]
 
 	def show(self):
-		print("Name: ")
-		print(self.name)
+		print('**' + self.name + '**')
 		print("Fermentables: ")
 		for x in self.fermentables:
-			print(x)
+			print(x[0].name, x[1])
 		print("Hops: ")
 		for x in self.hops:
-			print(x)
+			print(x[0].name, x[1], x[2])
 		print("Mash Steps: ")
 		for x in self.mashsteps:
 			print(x)
@@ -87,6 +95,9 @@ class recipe:
 		print("  HCO3: " + str(self.water[5]))
 
 #tests
-
-#testrecipe = recipe("My IPA")
+db.load_all()
+testrecipe = recipe("My beer")
+testrecipe.show()
+#print("X")
+#testrecipe.add_hop(db.hops[0])
 #testrecipe.show()
