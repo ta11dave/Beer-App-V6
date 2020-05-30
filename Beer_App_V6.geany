@@ -28,4 +28,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=-1
+current_page=4
+FILE_NAME_0=0;Python;0;EUTF-8;1;1;0;D%3A%5CDocuments%5CCode%5CPython%5CBeer-App-V6%5Cexport.py;0;4
+FILE_NAME_1=213;Python;0;EUTF-8;1;1;0;D%3A%5CDocuments%5CCode%5CPython%5CBeer-App-V6%5Cimport.py;0;4
+FILE_NAME_2=161;Python;0;EUTF-8;1;1;0;D%3A%5CDocuments%5CCode%5CPython%5CBeer-App-V6%5Cmain.py;0;4
+FILE_NAME_3=2151;Python;0;EUTF-8;1;1;0;D%3A%5CDocuments%5CCode%5CPython%5CBeer-App-V6%5Crecipes.py;0;4
+FILE_NAME_4=3121;Python;0;EUTF-8;1;1;0;D%3A%5CDocuments%5CCode%5CPython%5CBeer-App-V6%5Cdatabases.py;0;4
+FILE_NAME_5=698;Python;0;EUTF-8;1;1;0;C%3A%5CUsers%5CE7440%5CDesktop%5Cuntitled.py;0;4

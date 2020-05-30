@@ -1,0 +1,6337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Yeast.xsd" generated="2020-05-24T17:37:02">
+<Yeast>
+<ID>House &amp;&amp; Imperial Yeast</ID>
+<Yeast>House</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A01</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Barbarian &amp;&amp; Imperial Yeast</ID>
+<Yeast>Barbarian</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A04</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Four Square &amp;&amp; Imperial Yeast</ID>
+<Yeast>Four Square</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A05</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>68</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Flagship &amp;&amp; Imperial Yeast</ID>
+<Yeast>Flagship</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A07</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pub &amp;&amp; Imperial Yeast</ID>
+<Yeast>Pub</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A09</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Darkness &amp;&amp; Imperial Yeast</ID>
+<Yeast>Darkness</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A10</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sovereign &amp;&amp; Imperial Yeast</ID>
+<Yeast>Sovereign</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A13</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Independence &amp;&amp; Imperial Yeast</ID>
+<Yeast>Independence</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A15</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Joystick &amp;&amp; Imperial Yeast</ID>
+<Yeast>Joystick</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A18</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Citrus &amp;&amp; Imperial Yeast</ID>
+<Yeast>Citrus</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A20</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dry Hop &amp;&amp; Imperial Yeast</ID>
+<Yeast>Dry Hop</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A24</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Tartan &amp;&amp; Imperial Yeast</ID>
+<Yeast>Tartan</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A31</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Juice &amp;&amp; Imperial Yeast</ID>
+<Yeast>Juice</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A38</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Loki &amp;&amp; Imperial Yeast</ID>
+<Yeast>Loki</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>A43</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>100</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Abbaye Ale Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Abbaye Ale Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med/High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Abbey Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Abbey Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP530</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Abbey IV Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Abbey IV Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP540</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Achouffe Belgian Ale yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Achouffe Belgian Ale yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY003</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>82.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>All The Bretts  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>All The Bretts </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-218</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Alt Ale  &amp;&amp; Siebel Institute</ID>
+<Yeast>Alt Ale </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 144</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Altstadt Ale &amp;&amp; GigaYeast</ID>
+<Yeast>Altstadt Ale</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY016</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Amalgamation - Brett Super Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Amalgamation - Brett Super Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>American Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>60.8</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale  &amp;&amp; Wyeast</ID>
+<Yeast>American Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1056</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale  &amp;&amp; Siebel Institute</ID>
+<Yeast>American Ale </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 96</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale II  &amp;&amp; Wyeast</ID>
+<Yeast>American Ale II </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1272</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale Yeast Blend  &amp;&amp; White Labs</ID>
+<Yeast>American Ale Yeast Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP060</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale Yeast  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>American Ale Yeast </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-007</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Farmhouse Blend  &amp;&amp; White Labs</ID>
+<Yeast>American Farmhouse Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP670</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Hefeweizen Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>American Hefeweizen Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP320</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager  &amp;&amp; Wyeast</ID>
+<Yeast>American Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2035</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager  &amp;&amp; Siebel Institute</ID>
+<Yeast>American Lager </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 118</Code>
+<Type>Lager</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>American Lager Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY030</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>60</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>American Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP840</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American West Coast Yeast  &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>American West Coast Yeast </Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>BRY-97</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Wheat  &amp;&amp; Wyeast</ID>
+<Yeast>American Wheat </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1010</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Whiskey  &amp;&amp; White Labs</ID>
+<Yeast>American Whiskey </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP065</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>82</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Anchorman Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Anchorman Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Antwerp Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Antwerp Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP515</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Ardennes Belgian Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Ardennes Belgian Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Australian Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Australian Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP009</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Whiteout &amp;&amp; Imperial Yeast</ID>
+<Yeast>Whiteout</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B44</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Gnome &amp;&amp; Imperial Yeast</ID>
+<Yeast>Gnome</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B45</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-high</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Triple Double &amp;&amp; Imperial Yeast</ID>
+<Yeast>Triple Double</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B48</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Workhorse &amp;&amp; Imperial Yeast</ID>
+<Yeast>Workhorse</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B51</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Fish Finder &amp;&amp; Imperial Yeast</ID>
+<Yeast>Fish Finder</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B53</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Rustic &amp;&amp; Imperial Yeast</ID>
+<Yeast>Rustic</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B56</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>90</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Monastic &amp;&amp; Imperial Yeast</ID>
+<Yeast>Monastic</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B63</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Napoleon &amp;&amp; Imperial Yeast</ID>
+<Yeast>Napoleon</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>B64</Code>
+<Type>Belgian Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Baltic Lager  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Baltic Lager </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY22</Code>
+<Type>Lager</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>54</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Hefe Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Bavarian Hefe Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY017</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Bavarian Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2206</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Lager  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Bavarian Lager </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M76</Code>
+<Type>Lager</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>45</MinTemp>
+<MaxTemp>57</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Weizen Ale  &amp;&amp; Siebel Institute</ID>
+<Yeast>Bavarian Weizen Ale </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 235</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>57</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Weizen Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Bavarian Weizen Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP351</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Wheat  &amp;&amp; Wyeast</ID>
+<Yeast>Bavarian Wheat </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3056</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Wheat  &amp;&amp; Wyeast</ID>
+<Yeast>Bavarian Wheat </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3638</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bavarian Wheat Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Bavarian Wheat Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M20</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>86</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bedford British  &amp;&amp; White Labs</ID>
+<Yeast>Bedford British </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP006</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Beersel Brettanomyces Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Beersel Brettanomyces Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Abbaye  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Belgian Abbaye </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY09</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Abbey  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Belgian Abbey </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M47</Code>
+<Type>Ale</Type>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Abby Ale II  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Abby Ale II </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1762</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1214</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ale A  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Belgian Ale A </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-024</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ale W  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Belgian Ale W </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-028</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>11-12% </Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ale Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Belgian Ale Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M41</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>82</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP550</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Ardennes  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Ardennes </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3522</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Bastogne Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Bastogne Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP510</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Dark Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Dark Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3822</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Gnome Ale  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Belgian Gnome Ale </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-222</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Golden Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Golden Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP570</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP815</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Lambic Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Lambic Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3278</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Mix &amp;&amp; GigaYeast</ID>
+<Yeast>Belgian Mix</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY007</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Saison  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Saison </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3724</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Saison I Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Saison I Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP565</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Saison II Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Saison II Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP566</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Saison III Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Saison III Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP585</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low-Med</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Schelde  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Schelde </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3655</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Med</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Sour Mix  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Sour Mix </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP655</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>80</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Stout  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Stout </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1581</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Strong Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Strong Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1388</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Strong Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Strong Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP545</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Style Ale Yeast Blend  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Style Ale Yeast Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP575</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Style Saison Blend  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Style Saison Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP568</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Tripel  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Belgian Tripel </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M31</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>82</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Wheat  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Wheat </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3942</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian White  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Belgian White </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY11</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Wit Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Wit Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP400</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low-Med</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Wit II Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Belgian Wit II Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP410</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low-Med</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Wit  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Belgian Wit </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M21</Code>
+<Type>Ale</Type>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Wit Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Belgian Wit Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY028</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Witbier  &amp;&amp; Wyeast</ID>
+<Yeast>Belgian Witbier </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3944</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belle Saison Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Belle Saison Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Berliner Blend &amp;&amp; GigaYeast</ID>
+<Yeast>Berliner Blend</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB122</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>89</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Berliner Blend  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Berliner Blend </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY06</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Berliner Weisse Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Berliner Weisse Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3191</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.06</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Berliner Weisse Blend  &amp;&amp; White Labs</ID>
+<Yeast>Berliner Weisse Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP630</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bier de Garde  &amp;&amp; Wyeast</ID>
+<Yeast>Bier de Garde </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3725</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bit O&apos;Funk  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Bit O&apos;Funk </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-211</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Very Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bohemian Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Bohemian Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2124</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bohemian Lager Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Bohemian Lager Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M84</Code>
+<Type>Lager</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bourbon Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Bourbon Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP070</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>72</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett B &amp;&amp; Escarpment Labs</ID>
+<Yeast>Brett B</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>80</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Barrel Yeast III  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Brett Barrel Yeast III </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-913</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Blend #1 Anomala  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Brett Blend #1 Anomala </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY04</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Blend #9  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Brett Blend #9 </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY05</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Custersianus  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Brett Custersianus </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY19</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett D &amp;&amp; Escarpment Labs</ID>
+<Yeast>Brett D</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>71.6</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Nanus  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Brett Nanus </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY24</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brett Q &amp;&amp; Escarpment Labs</ID>
+<Yeast>Brett Q</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces bruxellensis  &amp;&amp; Wyeast</ID>
+<Yeast>Brettanomyces bruxellensis </Yeast>
+<Brand>Wyeast</Brand>
+<Code>5112</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces Bruxellensis Trois Vrai  &amp;&amp; White Labs</ID>
+<Yeast>Brettanomyces Bruxellensis Trois Vrai </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP648</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces Bruxellensis  &amp;&amp; White Labs</ID>
+<Yeast>Brettanomyces Bruxellensis </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP650</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>85</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces Claussenii  &amp;&amp; White Labs</ID>
+<Yeast>Brettanomyces Claussenii </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP645</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>85</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces lambicus  &amp;&amp; Wyeast</ID>
+<Yeast>Brettanomyces lambicus </Yeast>
+<Brand>Wyeast</Brand>
+<Code>5526</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brettanomyces Lambicus  &amp;&amp; White Labs</ID>
+<Yeast>Brettanomyces Lambicus </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP653</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>85</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brewferm Blanche &amp;&amp; -</ID>
+<Yeast>Brewferm Blanche</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brewferm Lager &amp;&amp; -</ID>
+<Yeast>Brewferm Lager</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brewferm Top &amp;&amp; -</ID>
+<Yeast>Brewferm Top</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med/High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bring on da Funk  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Bring on da Funk </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-212</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Very Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale #3 &amp;&amp; GigaYeast</ID>
+<Yeast>British Ale #3</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY041</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale  &amp;&amp; Wyeast</ID>
+<Yeast>British Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1098</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale  &amp;&amp; Wyeast</ID>
+<Yeast>British Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1335</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>74.5</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale I  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>British Ale I </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-006</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale VIII  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>British Ale VIII </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-016</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>67</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale Yeast #1 &amp;&amp; GigaYeast</ID>
+<Yeast>British Ale Yeast #1</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY011</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale Yeast #2 &amp;&amp; GigaYeast</ID>
+<Yeast>British Ale Yeast #2</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY031</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>British Ale Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M07</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>57</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>British Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP005</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Cask Ale  &amp;&amp; Wyeast</ID>
+<Yeast>British Cask Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1026</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med/High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>British Mild  &amp;&amp; East Coast Yeast</ID>
+<Yeast>British Mild </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY18</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>68</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brussels Brett &amp;&amp; Escarpment Labs</ID>
+<Yeast>Brussels Brett</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>71.6</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Brussels Brettanomyces Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Brussels Brettanomyces Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Budvar Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Budvar Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2000</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>BugCounty  &amp;&amp; East Coast Yeast</ID>
+<Yeast>BugCounty </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY20</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>BugFarm  &amp;&amp; East Coast Yeast</ID>
+<Yeast>BugFarm </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY01</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Burlington Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Burlington Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP095</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Burton Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Burton Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP023</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Burton Union  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Burton Union </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY17</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Burton Union Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Burton Union Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M79</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>C2C American Farmhouse  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>C2C American Farmhouse </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-217</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cali Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Cali Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cali Common Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Cali Common Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>67.5</Attenuation>
+<MinTemp>57.2</MinTemp>
+<MaxTemp>64.4</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>California Ale V Yeast  &amp;&amp; White Labs</ID>
+<Yeast>California Ale V Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP051</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>California Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>California Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP001</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>California Lager  &amp;&amp; Wyeast</ID>
+<Yeast>California Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2112</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Californian Lager  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Californian Lager </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M54</Code>
+<Type>Lager</Type>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>79.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Canadian/Belgian Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Canadian/Belgian Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3864</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cask and Bottle Conditioning  &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Cask and Bottle Conditioning </Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>CBC-1</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Champagne Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Champagne Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP715</Code>
+<Type>Champagne</Type>
+<Alcoholtolerance>0.17</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Chardonnay &amp;&amp; Bootleg Biology</ID>
+<Yeast>Chardonnay</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BB99301A</Code>
+<Type>S. boulardii</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cider  &amp;&amp; Wyeast</ID>
+<Yeast>Cider </Yeast>
+<Brand>Wyeast</Brand>
+<Code>4766</Code>
+<Type>Wine</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London&apos;s Calling &amp;&amp; Crescat Labs</ID>
+<Yeast>London&apos;s Calling</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL001</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Northern Shire &amp;&amp; Crescat Labs</ID>
+<Yeast>Northern Shire</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL002</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bagpipes Chanter &amp;&amp; Crescat Labs</ID>
+<Yeast>Bagpipes Chanter</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL003</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Black Clover &amp;&amp; Crescat Labs</ID>
+<Yeast>Black Clover</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL004</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60.8</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Flemish Rhapsody &amp;&amp; Crescat Labs</ID>
+<Yeast>Flemish Rhapsody</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL005</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>73.5</Attenuation>
+<MinTemp>60.8</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison&apos;s Season &amp;&amp; Crescat Labs</ID>
+<Yeast>Saison&apos;s Season</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL006</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Low/Medium</Flocculation>
+<Attenuation>79.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Abbey&apos;s Sellection &amp;&amp; Crescat Labs</ID>
+<Yeast>Abbey&apos;s Sellection</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL007</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low/Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>66.2</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Meander &amp;&amp; Crescat Labs</ID>
+<Yeast>Belgian Meander</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL008</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trapeze Trappist &amp;&amp; Crescat Labs</ID>
+<Yeast>Trapeze Trappist</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL009</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>66.2</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Moravian Vale &amp;&amp; Crescat Labs</ID>
+<Yeast>Moravian Vale</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL010</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>46.4</MinTemp>
+<MaxTemp>53.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Bayernfest &amp;&amp; Crescat Labs</ID>
+<Yeast>Bayernfest</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL011</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>46.4</MinTemp>
+<MaxTemp>57.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Witty Pretty &amp;&amp; Crescat Labs</ID>
+<Yeast>Witty Pretty</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL012</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Very low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cologne Definition &amp;&amp; Crescat Labs</ID>
+<Yeast>Cologne Definition</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL013</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Low/Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>57.2</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Cream &amp;&amp; Crescat Labs</ID>
+<Yeast>American Cream</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL014</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>57.2</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Piwo Cells &amp;&amp; Crescat Labs</ID>
+<Yeast>Piwo Cells</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL015</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>69.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>USA1933 &amp;&amp; Crescat Labs</ID>
+<Yeast>USA1933</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL016</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60.8</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Friar&apos;s Strong &amp;&amp; Crescat Labs</ID>
+<Yeast>Friar&apos;s Strong</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL017</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.15</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kveik &amp; Fox &amp;&amp; Crescat Labs</ID>
+<Yeast>Kveik &amp; Fox</Yeast>
+<Brand>Crescat Labs</Brand>
+<Code>CL018</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>104</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Classic Witbier &amp;&amp; Escarpment Labs</ID>
+<Yeast>Classic Witbier</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>66.2</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Colorado IPA Yeast  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Colorado IPA Yeast </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-003</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Coopers Ale &amp;&amp; -</ID>
+<Yeast>Coopers Ale</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Copenhagen Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Copenhagen Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>46.4</MinTemp>
+<MaxTemp>55.4</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Copenhagen Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Copenhagen Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP850</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Craft Series Cider Yeast &amp;&amp; Mangrove Jack</ID>
+<Yeast>Craft Series Cider Yeast</Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>-</Code>
+<Type>Cider</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cream Ale Yeast Blend  &amp;&amp; White Labs</ID>
+<Yeast>Cream Ale Yeast Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP080</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cry Havoc  &amp;&amp; White Labs</ID>
+<Yeast>Cry Havoc </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP862</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>68</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Czech Budejovice Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Czech Budejovice Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP802</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Czech Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Czech Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>48.2</MinTemp>
+<MaxTemp>55.4</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Czech Pils  &amp;&amp; Wyeast</ID>
+<Yeast>Czech Pils </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2278</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Czech Pilsner Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Czech Pilsner Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY002</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Danish Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Danish Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2042</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Denny&apos;s Favorite 50  &amp;&amp; Wyeast</ID>
+<Yeast>Denny&apos;s Favorite 50 </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1450</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Diamond Lager &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Diamond Lager</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>DIPA Ale  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>DIPA Ale </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-052</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Doric Ale &amp;&amp; -</ID>
+<Yeast>Doric Ale</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dry Belgian Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Dry Belgian Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>72</MinTemp>
+<MaxTemp>79</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dry Belgian Ale &amp;&amp; The Yeast Bay</ID>
+<Yeast>Dry Belgian Ale</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/High</Flocculation>
+<Attenuation>92.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dry English Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Dry English Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP007</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dry Mead  &amp;&amp; Wyeast</ID>
+<Yeast>Dry Mead </Yeast>
+<Brand>Wyeast</Brand>
+<Code>4632</Code>
+<Type>Wine</Type>
+<Alcoholtolerance>0.18</Alcoholtolerance>
+<Flocculation>Low-Med</Flocculation>
+<Attenuation>95</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dusseldorf Alt Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Dusseldorf Alt Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP036</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>68.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>East Coast Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>East Coast Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP008</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>East Midlands Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>East Midlands Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP039</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Eccentric Ale Yeast  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Eccentric Ale Yeast </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-006</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Edinburgh Scottish Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Edinburgh Scottish Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP028</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Edme Ale &amp;&amp; -</ID>
+<Yeast>Edme Ale</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Empire Ale  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Empire Ale </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M15</Code>
+<Type>Ale</Type>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale Blend  &amp;&amp; White Labs</ID>
+<Yeast>English Ale Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP085</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale  &amp;&amp; Siebel Institute</ID>
+<Yeast>English Ale </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 264</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale I &amp;&amp; Escarpment Labs</ID>
+<Yeast>English Ale I</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>67</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale II &amp;&amp; Escarpment Labs</ID>
+<Yeast>English Ale II</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale V  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>English Ale V </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-315</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>66.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>English Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP002</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>66.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Cider Yeast  &amp;&amp; White Labs</ID>
+<Yeast>English Cider Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP775</Code>
+<Type>Wine</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Dry Ale  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>English Dry Ale </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-318</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Special Bitter  &amp;&amp; Wyeast</ID>
+<Yeast>English Special Bitter </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1768</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Essex Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Essex Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP022</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>73.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>European Ale  &amp;&amp; Wyeast</ID>
+<Yeast>European Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1338</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>European Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>European Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP011</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>67.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>European Lager  &amp;&amp; Wyeast</ID>
+<Yeast>European Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2247</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sour Batch Kidz &amp;&amp; Imperial Yeast</ID>
+<Yeast>Sour Batch Kidz</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>F08</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Farmhouse Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Farmhouse Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3726</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Variable</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Farmhouse Brett  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Farmhouse Brett </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY03</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Farmhouse Sour &amp;&amp; GigaYeast</ID>
+<Yeast>Farmhouse Sour</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB121</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>89</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Farmhouse Sour Ale &amp;&amp; The Yeast Bay</ID>
+<Yeast>Farmhouse Sour Ale</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Fast Souring Lacto &amp;&amp; GigaYeast</ID>
+<Yeast>Fast Souring Lacto</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB110</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>40</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>98</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Flanders Golden Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Flanders Golden Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3739</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Flemish Ale Blend  &amp;&amp; White Labs</ID>
+<Yeast>Flemish Ale Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP665</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low/Med</Flocculation>
+<Attenuation>83</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Flemish Ale  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Flemish Ale </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY02</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Foggy London Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Foggy London Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>73.4</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Forbidden Fruit  &amp;&amp; Wyeast</ID>
+<Yeast>Forbidden Fruit </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3463</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Franconian Dark Lager &amp;&amp; The Yeast Bay</ID>
+<Yeast>Franconian Dark Lager</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>51</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>French Ale  &amp;&amp; White Labs</ID>
+<Yeast>French Ale </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP072</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>71.5</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>67</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>French Saison  &amp;&amp; Wyeast</ID>
+<Yeast>French Saison </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3711</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>French Saison Ale  &amp;&amp; Mangrove Jack</ID>
+<Yeast>French Saison Ale </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M29</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>87.5</Attenuation>
+<MinTemp>79</MinTemp>
+<MaxTemp>90</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>French Saison Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>French Saison Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP590</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>69</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Fruit Bomb Saison &amp;&amp; Escarpment Labs</ID>
+<Yeast>Fruit Bomb Saison</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>72</MinTemp>
+<MaxTemp>81</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Fruity Witbier &amp;&amp; Escarpment Labs</ID>
+<Yeast>Fruity Witbier</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>62.6</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Funk Weapon #1 &amp;&amp; Bootleg Biology</ID>
+<Yeast>Funk Weapon #1</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BB0022</Code>
+<Type>B. bruxellensis</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Funk Weapon #2 &amp;&amp; Bootleg Biology</ID>
+<Yeast>Funk Weapon #2</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BB0035C</Code>
+<Type>B. bruxellensis</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Funk Weapon #3 &amp;&amp; Bootleg Biology</ID>
+<Yeast>Funk Weapon #3</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BB0022</Code>
+<Type>B. bruxellensis</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Funktown Pale Ale &amp;&amp; The Yeast Bay</ID>
+<Yeast>Funktown Pale Ale</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Stefon &amp;&amp; Imperial Yeast</ID>
+<Yeast>Stefon</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>G01</Code>
+<Type>German Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kaiser &amp;&amp; Imperial Yeast</ID>
+<Yeast>Kaiser</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>G02</Code>
+<Type>German Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>65</MaxTemp>
+</Yeast>
+<Yeast>
+<ID> Dieter &amp;&amp; Imperial Yeast</ID>
+<Yeast> Dieter</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>G03</Code>
+<Type>German Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Gambrinus Style Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Gambrinus Style Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2002-PC</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Ale  &amp;&amp; Wyeast</ID>
+<Yeast>German Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1007</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Ale II  &amp;&amp; White Labs</ID>
+<Yeast>German Ale II </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP003</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Ale/ Kölsch Yeast  &amp;&amp; White Labs</ID>
+<Yeast>German Ale/ Kölsch Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP029</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Bock Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>German Bock Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP833</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Bock  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>German Bock </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OLY-111</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Kölsch  &amp;&amp; Siebel Institute</ID>
+<Yeast>German Kölsch </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 401</Code>
+<Type>Ale</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Lager I  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>German Lager I </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-106</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>45</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Lager X Yeast  &amp;&amp; White Labs</ID>
+<Yeast>German Lager X Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP835</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>54</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Lager Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>German Lager Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY045</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>60</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>German Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP830</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Monk Lager  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>German Monk Lager </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-711</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>54</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Wheat  &amp;&amp; Wyeast</ID>
+<Yeast>German Wheat </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3333</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Gervin Ale (by Muntons)  &amp;&amp; -</ID>
+<Yeast>Gervin Ale (by Muntons) </Yeast>
+<Brand>-</Brand>
+<Code>GV-12</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>57</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Golden Gate Lager Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Golden Gate Lager Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY005</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Golden Pear Belgian Ale Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Golden Pear Belgian Ale Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY048</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>84</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hefeweizen Ale  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Hefeweizen Ale </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-021</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hefeweizen Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Hefeweizen Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP300</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hefeweizen IV Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Hefeweizen IV Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP380</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hella Bock  &amp;&amp; Wyeast</ID>
+<Yeast>Hella Bock </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2487</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hessian Pils &amp;&amp; The Yeast Bay</ID>
+<Yeast>Hessian Pils</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73.5</Attenuation>
+<MinTemp>43</MinTemp>
+<MaxTemp>49</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hornindal Kveik Blend &amp;&amp; Escarpment Labs</ID>
+<Yeast>Hornindal Kveik Blend</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>77</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hornindal Kveik &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Hornindal Kveik</Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-091</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High/Low</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>HotHead Ale  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>HotHead Ale </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-057</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>98</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>HP Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>HP Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP925</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Irish Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Irish Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Irish Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Irish Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1084</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Irish Ale  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Irish Ale </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-005</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Irish Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Irish Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP004</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>71.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Isar Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Isar Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Klassic Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Klassic Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP033</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kölsch  &amp;&amp; Wyeast</ID>
+<Yeast>Kölsch </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2565</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>56</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kölsch Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Kölsch Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kölsch Bier Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Kölsch Bier Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY021</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kölsch II  &amp;&amp; Wyeast</ID>
+<Yeast>Kölsch II </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2575</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Kölschbier  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Kölschbier </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY21</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>66</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Fest &amp;&amp; Imperial Yeast</ID>
+<Yeast>Fest</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L02</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Cablecar &amp;&amp; Imperial Yeast</ID>
+<Yeast>Cablecar</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L05</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium High</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>65</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Que Bueno &amp;&amp; Imperial Yeast</ID>
+<Yeast>Que Bueno</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L09</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>47</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Gateway &amp;&amp; Imperial Yeast</ID>
+<Yeast>Gateway</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L11</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>47</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Global &amp;&amp; Imperial Yeast</ID>
+<Yeast>Global</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L13</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Harvest &amp;&amp; Imperial Yeast</ID>
+<Yeast>Harvest</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L17</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>60</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Urkel &amp;&amp; Imperial Yeast</ID>
+<Yeast>Urkel</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>L28</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>52</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lactobacillus  &amp;&amp; Wyeast</ID>
+<Yeast>Lactobacillus </Yeast>
+<Brand>Wyeast</Brand>
+<Code>5335</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>-</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lactobacillus Blend &amp;&amp; Escarpment Labs</ID>
+<Yeast>Lactobacillus Blend</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>-</Flocculation>
+<Attenuation>0</Attenuation>
+<MinTemp>89.6</MinTemp>
+<MaxTemp>107.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lactobacillus Blend  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Lactobacillus Blend </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-605</Code>
+<Type>Bacterial Cultures</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>0</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lactobacillus brevis &amp;&amp; Escarpment Labs</ID>
+<Yeast>Lactobacillus brevis</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>-</Flocculation>
+<Attenuation>0</Attenuation>
+<MinTemp>95</MinTemp>
+<MaxTemp>113</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lalbrew New England East Coast Ale Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Lalbrew New England East Coast Ale Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Leeuwenhoek Saison Yeast Blend  &amp;&amp; White Labs</ID>
+<Yeast>Leeuwenhoek Saison Yeast Blend </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP564</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Leuven Pale Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Leuven Pale Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3538</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Liberty Bell Ale  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Liberty Bell Ale </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M36</Code>
+<Type>Ale</Type>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lochristi Brettanomyces Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Lochristi Brettanomyces Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London Ale  &amp;&amp; Wyeast</ID>
+<Yeast>London Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1028</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London Ale III  &amp;&amp; Wyeast</ID>
+<Yeast>London Ale III </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1318</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>London Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP013</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>71</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London ESB Ale  &amp;&amp; Wyeast</ID>
+<Yeast>London ESB Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1968</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London ESB Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>London ESB Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>London Fog Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>London Fog Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP066</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>67.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lucky No. 7 &amp;&amp; Real Brewers</ID>
+<Yeast>Lucky No. 7</Yeast>
+<Brand>Real Brewers</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Manchester Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Manchester Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP038</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Mead  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Mead </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M05</Code>
+<Type>Mead</Type>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>97.5</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>86</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Mélange - Sour Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Mélange - Sour Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Mexican Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Mexican Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>57.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Mexican Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Mexican Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP940</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Classic Wheat Beer Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Munich Classic Wheat Beer Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>63</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Dry Wheat Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Munich Dry Wheat Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Festbier  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Munich Festbier </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY15</Code>
+<Type>Lager</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>46</MinTemp>
+<MaxTemp>54</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Helles Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Munich Helles Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP860</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>52</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Lager &amp;&amp; Escarpment Labs</ID>
+<Yeast>Munich Lager</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>53.6</MinTemp>
+<MaxTemp>59</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Munich Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2308</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munich Lager II  &amp;&amp; Wyeast</ID>
+<Yeast>Munich Lager II </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2352</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>52</MinTemp>
+<MaxTemp>62</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Munton and Fison &amp;&amp; -</ID>
+<Yeast>Munton and Fison</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Muntons Premium Gold &amp;&amp; -</ID>
+<Yeast>Muntons Premium Gold</Yeast>
+<Brand>-</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>57</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>NB NeoBritannia  &amp;&amp; Wyeast</ID>
+<Yeast>NB NeoBritannia </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1945</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Neutral Grain Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Neutral Grain Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP078</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>76</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>New World Saison &amp;&amp; Escarpment Labs</ID>
+<Yeast>New World Saison</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>New World Strong Ale  &amp;&amp; Mangrove Jack</ID>
+<Yeast>New World Strong Ale </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M42</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>79.5</Attenuation>
+<MinTemp>61</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Newcastle Dark Ale Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Newcastle Dark Ale Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M03</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>NorCal Ale #1 &amp;&amp; GigaYeast</ID>
+<Yeast>NorCal Ale #1</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY001</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>NorCal Ale #5 &amp;&amp; GigaYeast</ID>
+<Yeast>NorCal Ale #5</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY029</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>North American Lager  &amp;&amp; Wyeast</ID>
+<Yeast>North American Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2272</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>52</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>North European Lager  &amp;&amp; Siebel Institute</ID>
+<Yeast>North European Lager </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 203</Code>
+<Type>Lager</Type>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Northeast Ale  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Northeast Ale </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY29</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>NortheasternAbbey &amp;&amp; The Yeast Bay</ID>
+<Yeast>NortheasternAbbey</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Northern California Ale Yeast  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Northern California Ale Yeast </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-001</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Northwest Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Northwest Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1332</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Nottingham Ale Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Nottingham Ale Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>57</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Octoberfest Lager Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Octoberfest Lager Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2633</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Oktoberfest/Märzen Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Oktoberfest/Märzen Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP820</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>52</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Old Bavarian Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Old Bavarian Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP920</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>69.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Old Newark Ale  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Old Newark Ale </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY10</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Old Newark Beer  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Old Newark Beer </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY12</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Old Sonoma Ale  &amp;&amp; White Labs</ID>
+<Yeast>Old Sonoma Ale </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP076</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Old World Saison Blend &amp;&amp; Escarpment Labs</ID>
+<Yeast>Old World Saison Blend</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>71.6</MinTemp>
+<MaxTemp>80.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Ontario Farmhouse Ale Blend &amp;&amp; Escarpment Labs</ID>
+<Yeast>Ontario Farmhouse Ale Blend</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>71.6</MinTemp>
+<MaxTemp>80.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Oud Brune  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Oud Brune </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY23</Code>
+<Type>Ale</Type>
+<Flocculation>n/a</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pacific Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Pacific Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP041</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>67.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pediococcus  &amp;&amp; Wyeast</ID>
+<Yeast>Pediococcus </Yeast>
+<Brand>Wyeast</Brand>
+<Code>5733</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>-</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pilsen Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Pilsen Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2007</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pilsner Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Pilsner Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP800</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>74.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Portland Hefe Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Portland Hefe Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY020</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Premium Bitter Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Premium Bitter Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP026</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>60</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Private Collection West Coast IPA  &amp;&amp; Wyeast</ID>
+<Yeast>Private Collection West Coast IPA </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1217</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Rasenmäher Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Rasenmäher Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2252</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Ringwood Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Ringwood Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1187</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Rocky Mountain Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Rocky Mountain Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2105</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med/High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>56</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Roeselare Ale Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Roeselare Ale Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3763</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Variable</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Rogue Pacman  &amp;&amp; Wyeast</ID>
+<Yeast>Rogue Pacman </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1764</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Chico Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Chico Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 101</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Boston Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Boston Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 102</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Pacman Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Pacman Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 103</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium-High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Hoptopper Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Hoptopper Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 104</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium-Low</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Chiswick Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Chiswick Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 131</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Very High</Flocculation>
+<Attenuation>68.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Manchester Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Manchester Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 132</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scotch Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Scotch Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 141</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Dublin Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Dublin Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 151</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium-High</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Ale I &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>German Ale I</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 161</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale I &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Trappist Ale I</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 201</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale II &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Trappist Ale II</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 202</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale III &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Trappist Ale III</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 203</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale IV &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Trappist Ale IV</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 204</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian 1833 Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Belgian 1833 Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 221</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Gnome Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Belgian Gnome Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 222</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Verboten Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Verboten Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 241</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Golden Strong Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Golden Strong Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 251</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison I &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Saison I</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 261</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison II &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Saison II</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 262</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>67</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Ghost Ale &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Ghost Ale</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 263</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>American Lager</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 301</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>München Lager &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>München Lager</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 302</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium-High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>65</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Oktoberfest Lager &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Oktoberfest Lager</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 303</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium-High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>52</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Czech Lager &amp;&amp; RVA Yeast Labs</ID>
+<Yeast>Czech Lager</Yeast>
+<Brand>RVA Yeast Labs</Brand>
+<Code>RVA 304</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>S. arlingtonesis &amp;&amp; Bootleg Biology</ID>
+<Yeast>S. arlingtonesis</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BB22204</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saccharomyces &quot;Bruxellensis&quot; Trois  &amp;&amp; White Labs</ID>
+<Yeast>Saccharomyces &quot;Bruxellensis&quot; Trois </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP644</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>American Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>US-05</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.095</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>American Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>US-56</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Belgian Saison Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>Belgian Saison Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>BE-134</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>82</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>English Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>English Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>S-04</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.0975</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>German Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>K-97</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.104</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Abbaye Yeast &amp;&amp; Fermentis / Safale</ID>
+<Yeast>Abbaye Yeast</Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>Abbaye</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>82</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>General/Belgian Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>General/Belgian Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>S-33</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.115</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Specialty Ale Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>Specialty Ale Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>T-58</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.115</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Wheat Beer Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>Wheat Beer Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>WB-06</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.105</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>86</Attenuation>
+<MinTemp>54</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>American Lager Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>American Lager Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>S-23</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.105</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>82</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>German Lager Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>German Lager Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>W-34/70</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.105</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>83</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Swiss Lager Yeast  &amp;&amp; Fermentis / Safale</ID>
+<Yeast>Swiss Lager Yeast </Yeast>
+<Brand>Fermentis / Safale</Brand>
+<Code>S-189</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.105</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>84</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison : Farmhouse  &amp;&amp; Inland Island Yeast</ID>
+<Yeast>Saison : Farmhouse </Yeast>
+<Brand>Inland Island Yeast</Brand>
+<Code>INIS-291</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76.5</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Blend &amp;&amp; GigaYeast</ID>
+<Yeast>Saison Blend</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY047</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>81.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Saison Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>79</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Brasserie  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Saison Brasserie </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY08</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Parfait &amp;&amp; Bootleg Biology</ID>
+<Yeast>Saison Parfait</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BBX0104</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Single  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Saison Single </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY14</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>82</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Sour &amp;&amp; GigaYeast</ID>
+<Yeast>Saison Sour</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB124</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Yeast #1 &amp;&amp; GigaYeast</ID>
+<Yeast>Saison Yeast #1</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY018</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>82</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison Yeast #2 &amp;&amp; GigaYeast</ID>
+<Yeast>Saison Yeast #2</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY027</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison-Brett Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Saison-Brett Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3031-PC</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saison/Brettanomyces Blend &amp;&amp; The Yeast Bay</ID>
+<Yeast>Saison/Brettanomyces Blend</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Saisonsteins Monster  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Saisonsteins Monster </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-500</Code>
+<Type>hybrid </Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>San Diego Super Yeast  &amp;&amp; White Labs</ID>
+<Yeast>San Diego Super Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP090</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>79.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>San Francisco Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>San Francisco Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP810</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>67.5</Attenuation>
+<MinTemp>58</MinTemp>
+<MaxTemp>65</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scotch Ale #1 &amp;&amp; GigaYeast</ID>
+<Yeast>Scotch Ale #1</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY044</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>81</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scotch Whiskey  &amp;&amp; White Labs</ID>
+<Yeast>Scotch Whiskey </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP045</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>72</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scottish Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Scottish Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73.5</Attenuation>
+<MinTemp>57.2</MinTemp>
+<MaxTemp>71.6</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scottish Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Scottish Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1728</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>71</Attenuation>
+<MinTemp>55</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scottish Heavy  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Scottish Heavy </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY07</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Scourmont Abbey Ale Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Scourmont Abbey Ale Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY014</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sigmund&apos;s Voss Kveik &amp;&amp; The Yeast Bay</ID>
+<Yeast>Sigmund&apos;s Voss Kveik</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>80.5</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>100</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sour Plum Belgian &amp;&amp; GigaYeast</ID>
+<Yeast>Sour Plum Belgian</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB123</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sour Solera Blend &amp;&amp; Bootleg Biology</ID>
+<Yeast>Sour Solera Blend</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BBXSS</Code>
+<Type>Blend</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>95</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sour Weapon &amp;&amp; Bootleg Biology</ID>
+<Yeast>Sour Weapon</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BBX0089</Code>
+<Type>P. pentosaceus</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>n/a</Flocculation>
+<Attenuation>0</Attenuation>
+<MinTemp>80</MinTemp>
+<MaxTemp>100</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Southern German Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Southern German Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP838</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Southwold Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Southwold Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP025</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>71.5</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>St-Remy Abbey Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>St-Remy Abbey Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>St. Lucifer Belgian Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>St. Lucifer Belgian Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>76</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Staro Prague Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Staro Prague Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2782</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Super High Gravity Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Super High Gravity Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP099</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Very High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sweet Flemish Brett &amp;&amp; GigaYeast</ID>
+<Yeast>Sweet Flemish Brett</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GB144</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>N/A</Flocculation>
+<Attenuation>83</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sweet Mead  &amp;&amp; Wyeast</ID>
+<Yeast>Sweet Mead </Yeast>
+<Brand>Wyeast</Brand>
+<Code>4184</Code>
+<Type>Wine</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Sweet Mead/Wine Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Sweet Mead/Wine Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP720</Code>
+<Type>Wine</Type>
+<Alcoholtolerance>0.15</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Tennessee Whiskey  &amp;&amp; White Labs</ID>
+<Yeast>Tennessee Whiskey </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP050</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>79</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Thames Valley Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Thames Valley Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1275</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Thames Valley II  &amp;&amp; Wyeast</ID>
+<Yeast>Thames Valley II </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1882</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>The Mad Fermentationist Saison Blend &amp;&amp; Bootleg Biology</ID>
+<Yeast>The Mad Fermentationist Saison Blend</Yeast>
+<Brand>Bootleg Biology</Brand>
+<Code>BBXMAD1</Code>
+<Type>Blend</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>90</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>The Monk &amp;&amp; Real Brewers</ID>
+<Yeast>The Monk</Yeast>
+<Brand>Real Brewers</Brand>
+<Code>RBY12</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.15</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>The One &amp;&amp; Real Brewers</ID>
+<Yeast>The One</Yeast>
+<Brand>Real Brewers</Brand>
+<Code>RBY1</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale  &amp;&amp; Siebel Institute</ID>
+<Yeast>Trappist Ale </Yeast>
+<Brand>Siebel Institute</Brand>
+<Code>BRY 204</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale  &amp;&amp; East Coast Yeast</ID>
+<Yeast>Trappist Ale </Yeast>
+<Brand>East Coast Yeast</Brand>
+<Code>ECY13</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Trappist Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP500</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Blend  &amp;&amp; Wyeast</ID>
+<Yeast>Trappist Blend </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3789</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>77</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist High Gravity  &amp;&amp; Wyeast</ID>
+<Yeast>Trappist High Gravity </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3787</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Trappist Tripel Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Trappist Tripel Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY015</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Tropical IPA  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Tropical IPA </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-200</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>85</Attenuation>
+<MinTemp>75</MinTemp>
+<MaxTemp>85</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>UK Dark Ale Yeast &amp;&amp; Mangrove Jack</ID>
+<Yeast>UK Dark Ale Yeast</Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Urquell Lager  &amp;&amp; Wyeast</ID>
+<Yeast>Urquell Lager </Yeast>
+<Brand>Wyeast</Brand>
+<Code>2001</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Med-High</Flocculation>
+<Attenuation>74</Attenuation>
+<MinTemp>48</MinTemp>
+<MaxTemp>58</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>US West Coast Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>US West Coast Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M44</Code>
+<Type>Ale</Type>
+<Flocculation>High</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Vermont Ale &amp;&amp; Escarpment Labs</ID>
+<Yeast>Vermont Ale</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>High</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Vermont Ale &amp;&amp; The Yeast Bay</ID>
+<Yeast>Vermont Ale</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Med/Low</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Vermont IPA Yeast &amp;&amp; GigaYeast</ID>
+<Yeast>Vermont IPA Yeast</Yeast>
+<Brand>GigaYeast</Brand>
+<Code>GY054</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>62</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Voss Kveik  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Voss Kveik </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-061</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.12</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>98</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Suburban Brett &amp;&amp; Imperial Yeast</ID>
+<Yeast>Suburban Brett</Yeast>
+<Brand>Imperial Yeast</Brand>
+<Code>W15</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>77.5</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>74</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Wallonian Farmhouse &amp;&amp; The Yeast Bay</ID>
+<Yeast>Wallonian Farmhouse</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>84.5</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>78</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Weihenstephan Weizen  &amp;&amp; Wyeast</ID>
+<Yeast>Weihenstephan Weizen </Yeast>
+<Brand>Wyeast</Brand>
+<Code>3068</Code>
+<Type>Wheat</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Weizen I &amp;&amp; Escarpment Labs</ID>
+<Yeast>Weizen I</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Low</Flocculation>
+<Attenuation>72.5</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Weizen II &amp;&amp; Escarpment Labs</ID>
+<Yeast>Weizen II</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>Med-Low</Flocculation>
+<Attenuation>76</Attenuation>
+<MinTemp>64.4</MinTemp>
+<MaxTemp>75.2</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>West Coast Ale I OYL-004 &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>West Coast Ale I OYL-004</Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL 004</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.11</Alcoholtolerance>
+<Flocculation>Medium-low</Flocculation>
+<Attenuation>73</Attenuation>
+<MinTemp>60</MinTemp>
+<MaxTemp>73</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>West Yorkshire  &amp;&amp; Wyeast</ID>
+<Yeast>West Yorkshire </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1469</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>69</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>72</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Where da Funk?  &amp;&amp; Omega Yeast Labs</ID>
+<Yeast>Where da Funk? </Yeast>
+<Brand>Omega Yeast Labs</Brand>
+<Code>OYL-210</Code>
+<Type>Brettanomyces</Type>
+<Alcoholtolerance>-</Alcoholtolerance>
+<Flocculation>Very Low</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>68</MinTemp>
+<MaxTemp>80</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Whitbread Ale  &amp;&amp; Wyeast</ID>
+<Yeast>Whitbread Ale </Yeast>
+<Brand>Wyeast</Brand>
+<Code>1099</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.1</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>75</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Whitbread Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Whitbread Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP017</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>66</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Wild Thing &amp;&amp; Escarpment Labs</ID>
+<Yeast>Wild Thing</Yeast>
+<Brand>Escarpment Labs</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>0.09</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78.5</Attenuation>
+<MinTemp>77</MinTemp>
+<MaxTemp>77</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Windsor Ale Yeast &amp;&amp; Lallemand/Danstar</ID>
+<Yeast>Windsor Ale Yeast</Yeast>
+<Brand>Lallemand/Danstar</Brand>
+<Code>-</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>72</Attenuation>
+<MinTemp>64</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Lactobacillus Brevis &amp;&amp; The Yeast Bay</ID>
+<Yeast>Lactobacillus Brevis</Yeast>
+<Brand>The Yeast Bay</Brand>
+<Code>WLP672</Code>
+<Type>Ale</Type>
+<Flocculation>N/A</Flocculation>
+<Attenuation>80</Attenuation>
+<MinTemp>70</MinTemp>
+<MaxTemp>95</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Workhorse Beer Yeast  &amp;&amp; Mangrove Jack</ID>
+<Yeast>Workhorse Beer Yeast </Yeast>
+<Brand>Mangrove Jack</Brand>
+<Code>M10</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>78</Attenuation>
+<MinTemp>59</MinTemp>
+<MaxTemp>68</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Ye Olde English &amp;&amp; Real Brewers</ID>
+<Yeast>Ye Olde English</Yeast>
+<Brand>Real Brewers</Brand>
+<Code>RBY3</Code>
+<Type>Ale</Type>
+<Flocculation>Medium</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>70</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Yorkshire Square Ale Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Yorkshire Square Ale Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP037</Code>
+<Type>Ale</Type>
+<Alcoholtolerance>Med-High</Alcoholtolerance>
+<Flocculation>High</Flocculation>
+<Attenuation>70</Attenuation>
+<MinTemp>65</MinTemp>
+<MaxTemp>69</MaxTemp>
+</Yeast>
+<Yeast>
+<ID>Zurich Lager Yeast  &amp;&amp; White Labs</ID>
+<Yeast>Zurich Lager Yeast </Yeast>
+<Brand>White Labs</Brand>
+<Code>WLP885</Code>
+<Type>Lager</Type>
+<Alcoholtolerance>Medium</Alcoholtolerance>
+<Flocculation>Medium</Flocculation>
+<Attenuation>75</Attenuation>
+<MinTemp>50</MinTemp>
+<MaxTemp>55</MaxTemp>
+</Yeast>
+<Yeast/>
+<Yeast>
+<ID>Row Labels</ID>
+<Yeast>Brand</Yeast>
+<Brand>Fermentis / Safale</Brand>
+</Yeast>
+<Yeast>
+<ID>-</ID>
+</Yeast>
+<Yeast>
+<ID>Bootleg Biology</ID>
+<Yeast>Row Labels</Yeast>
+</Yeast>
+<Yeast>
+<ID>Crescat Labs</ID>
+<Yeast>American Ale Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>East Coast Yeast</ID>
+<Yeast>American Lager Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Escarpment Labs</ID>
+<Yeast>English Ale Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Fermentis / Safale</ID>
+<Yeast>German Lager Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>GigaYeast</ID>
+<Yeast>Belgian Saison Ale Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Imperial Yeast</ID>
+<Yeast>German Ale Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Inland Island Yeast</ID>
+<Yeast>Abbaye Yeast</Yeast>
+</Yeast>
+<Yeast>
+<ID>Lallemand/Danstar</ID>
+<Yeast>General/Belgian Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Mangrove Jack</ID>
+<Yeast>Specialty Ale Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Omega Yeast Labs</ID>
+<Yeast>Wheat Beer Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>Real Brewers</ID>
+<Yeast>Swiss Lager Yeast </Yeast>
+</Yeast>
+<Yeast>
+<ID>RVA Yeast Labs</ID>
+<Yeast>Grand Total</Yeast>
+</Yeast>
+<Yeast>
+<ID>Siebel Institute</ID>
+</Yeast>
+<Yeast>
+<ID>The Yeast Bay</ID>
+</Yeast>
+<Yeast>
+<ID>White Labs</ID>
+</Yeast>
+<Yeast>
+<ID>Wyeast</ID>
+</Yeast>
+<Yeast>
+<ID>Grand Total</ID>
+</Yeast>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+<Yeast/>
+</dataroot>

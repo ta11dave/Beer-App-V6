@@ -1,0 +1,2082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="fermentables.xsd" generated="2020-05-24T17:36:11">
+<fermentables>
+<Grain>Apple Juice</Grain>
+<Origin>N/A</Origin>
+<Color>5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.05</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Juice. Really it&apos;s hard cider if you&apos;re using 100%. </Notes>
+<Power>0</Power>
+<PH>3.675</PH>
+</fermentables>
+<fermentables>
+<Grain>Amber Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>22</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Roasted specialty malt used in some English browns, milds and old ales to add color and a biscuit taste. Intense flavor - so limit use. Low diastatic power so must be mashed with well modified malts.</Notes>
+<Power>20</Power>
+<PH>5.5</PH>
+</fermentables>
+<fermentables>
+<Grain>Aromatic Malt</Grain>
+<Origin>Belgium</Origin>
+<Color>26</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Provides a very strong malt flavor and aroma to your beer.</Notes>
+<Power>29</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Barley, Flaked</Grain>
+<Origin>US</Origin>
+<Color>1.7</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds significant body to Porters and Stouts. High haze producing protein prevents use in light beers.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Barley, Raw</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Raw, unmalted barley can be used to add body to your beer. Use in homebrew requires very fine milling combined with a decoction or multi-stage mash. Performs best when used in small quantities with well modified grains.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Barley, Roasted</Grain>
+<Origin>US</Origin>
+<Color>300</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Roasted at high temperature to create a burnt, grainy, coffee like flavor. Imparts a red to deep brown color to beer, and very strong roasted flavor. Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for coffee flavor.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Barley, Torrefied</Grain>
+<Origin>US</Origin>
+<Color>1.7</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Raw barley that has been &quot;popped&quot; open to open kernels Used in place of raw barley for faster conversion and higher yields. High in haze producing protein</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Belgian Debittered Black Malt</Grain>
+<Origin>Belgian</Origin>
+<Color>550</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.01</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Biscuit Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>23</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Use for English ales, brown ales and porters. Adds a biscuit like flavor and aroma. Can be used as a substitute for toasted malt.</Notes>
+<Power>6</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Black (Patent) Malt</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark color and dry roasted flavor characteristic of Stouts and Porters Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger amounts.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Black Barley (Briess)</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Black Barley (Stout)</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Unmalted barley roasted at high temperature to create a dry, coffee like flavor. Imparts a sharp acrid flavor characteristic of dry stouts. Gives &quot;dryness&quot; to a stout or porter -- much more so than regular Roasted Barley</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Blackprinz Malt</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark color and dry roasted flavor characteristic of Stouts and Porters Use for: Coloring in small amounts, or flavoring of Stouts and Porters in larger amounts.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Blackprinz Malt (Briess)</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dehusked Black Malt, similar to Weyermann CARAFA® Special. Very delicate roasted flavors. No astrigent or bitter aftertaste. Color: 500 L</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Brewers Malt 6-Row (Briess)</Grain>
+<Origin>US</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Flavor:Mild Grainy Malty More husk than 2-row, well suited for high adjunct brewing</Notes>
+<Power>160</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Brown Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>65</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Imparts a dry, biscuit flavor. Used in nut brown ales, porters and some Belgian ales.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Brown Sugar, Light</Grain>
+<Origin>-</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Sugar. Caramel notes.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Brown Sugar, Dark</Grain>
+<Origin>-</Origin>
+<Color>20</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Sugar. Caramel notes. More intense than other sugars</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Brumalt</Grain>
+<Origin>Germany</Origin>
+<Color>23</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark German malt developed to add malt flavor of Alt, Marzen and Oktoberfest beers. Helps create authentic maltiness without having to do a decoction mash. Rarely available for homebrewers.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Cara-Pils/Dextrine</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Significantly increases foam/head retention and body of the beer. Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Foam&quot;</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Caraamber</Grain>
+<Origin>US</Origin>
+<Color>30</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Caraaroma</Grain>
+<Origin>Germany</Origin>
+<Color>130</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Very dark crystal malt - similar to a crystal 120 or Caramunich 120 malt. Adds strong caramel flavor, red color, and malty aroma.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa I</Grain>
+<Origin>Germany</Origin>
+<Color>337</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Used to intensify aroma and color in dark, Munich beers and stouts.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa I (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>320</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Chocolate malt. Dark beers, Alts, Bockbiers. Adds color and aroma. </Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa II</Grain>
+<Origin>Germany</Origin>
+<Color>412</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Used to intensify aroma and color in dark, Munich beers and stouts.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa III</Grain>
+<Origin>Germany</Origin>
+<Color>525</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Dark color and aroma - used in some German beers</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa Special I (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>320</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Chocolate malt. Dark beers, Alts, Bockbiers. Adds color and aroma. De-husked, smoother tasting</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa Special II (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>415</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>De-husked chocolate malt for a smoother flavor. Adds body, color, aroma. Dark beers, Alts, Bockbiers</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafa Special II (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>415</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>De-husked chocolate malt for a smoother flavor. Adds body, color, aroma. Dark beers, Alts, Bockbiers </Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Carafoam</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Significantly increases foam/head retention and body of the beer. Also sold under the names &quot;Dextrine&quot; and &quot;Cara-Pils (TM)&quot;</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>CaraHell</Grain>
+<Origin>German</Origin>
+<Color>11</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel Malt - 120L (Briess)</Grain>
+<Origin>US</Origin>
+<Color>120</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Pronounced Caramel, Burnt Sugar, Raisiny, Prunes Deep Red Color 3-15% in Amber &amp;Red beers. 10-15% in Bock 7-15% in Dark beers 10-15% in Porter &amp;Stout</Notes>
+<Power>0</Power>
+<PH>4.6152</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel Malt - 80L 6-Row (Briess)</Grain>
+<Origin>US</Origin>
+<Color>80</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Pronounced Caramel, Slight Burnt Sugar, Raisniny, PruneRed to Deep Red3-15% in Amber and Red beers.10-15% in Bock beers.7-15% in Dark beers.10-15% in Porter and Stout.</Notes>
+<Power>0</Power>
+<PH>4.8168</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel Wheat Malt</Grain>
+<Origin>Germany</Origin>
+<Color>46</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Caramel wheat malt - emphasizes wheat malt aroma and adds color to the beer. Popular for Dunkelweizens. Also known as Carawheat -- which is a registered trademark of Wyermann Malting.</Notes>
+<Power>0</Power>
+<PH>4.98816</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 10L</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.1696</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 150L</Grain>
+<Origin>US</Origin>
+<Color>150</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>4.464</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 15L</Grain>
+<Origin>US</Origin>
+<Color>15</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.1444</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 20L</Grain>
+<Origin>US</Origin>
+<Color>20</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.1192</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 30L</Grain>
+<Origin>US</Origin>
+<Color>30</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.0688</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 40L</Grain>
+<Origin>US</Origin>
+<Color>40</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.0184</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 60L</Grain>
+<Origin>US</Origin>
+<Color>60</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>4.9176</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 80L</Grain>
+<Origin>US</Origin>
+<Color>80</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>4.8168</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt - 90L</Grain>
+<Origin>US</Origin>
+<Color>90</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>4.7664</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramel/Crystal Malt -120L</Grain>
+<Origin>US</Origin>
+<Color>120</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt. Very Dark</Notes>
+<Power>0</Power>
+<PH>4.6152</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramunich I (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>34.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>German crystal malt. Adds maltiness, flavor, color and aroma. </Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramunich I (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>51</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>German crystal malt. Adds maltiness, flavor, color and aroma. </Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>CaraMunich III</Grain>
+<Origin>German</Origin>
+<Color>57</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramunich III (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>71</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>German crystal malt. Adds maltiness, body, aroma and color.</Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Caramunich Malt</Grain>
+<Origin>Belgium</Origin>
+<Color>56</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Caramel, copper colored malt. Used in Belgian ales and German bocks.</Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Carapils (Briess)</Grain>
+<Origin>US</Origin>
+<Color>1.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>FLAVOR: None COLOR: None ITEM NUMBERS AND PACKAGING OPTIONS adds body, foam retention, and beer stability without influencing color or flavor. non-fermentables to balance body and flavor of dark beers Low usage of 1-5% will help achieve desired resu</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Carapils (Dextrine Malt)</Grain>
+<Origin>American</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Carapils 6-Row (Briess)</Grain>
+<Origin>US</Origin>
+<Color>1.3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>FLAVOR: NoneCOLOR: NoneITEM NUMBERS AND PACKAGING OPTIONSadds body, foam retention, and beer stability without influencing color or flavor.non-fermentables to balance body and flavor of dark beersLow usage of 1-5% will help achieve desired resu</Notes>
+<Power>0</Power>
+<PH>5.79</PH>
+</fermentables>
+<fermentables>
+<Grain>Carared</Grain>
+<Origin>US</Origin>
+<Color>20</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Caravienne Malt</Grain>
+<Origin>Belgium</Origin>
+<Color>22</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Light Belgian crystal malt. Used in light Trappist and Abbey style Belgian ales.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>CHÂTEAU SPELT</Grain>
+<Origin>Belgium</Origin>
+<Color>3.55</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Features: Château Spelt is a pale, well-modified type of malt. Made from a hard-grained species of wheat (heirloom wheat), it has a higher protein level when compared to other wheat malts. Characteristics: Château Spelt malt imparts a sweet nutty flavor, </Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate (Briess)</Grain>
+<Origin>US</Origin>
+<Color>350</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.25</Max_x00A0__x0025_>
+<Notes>FLAVOR: Rich Roasted Coffee COLOR: Brown Hues, depending upon usage color adj with minor/no flavor contribution 1-10% for color in Porter &amp;Stout The choc flavor is very complementary when used in higher % in Brown Ales, Porters, Stouts &amp; other Dark </Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate (Dingemans)</Grain>
+<Origin>Belgium</Origin>
+<Color>340</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.03</Potential>
+<Max_x00A0__x0025_>0.5</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Malt</Grain>
+<Origin>US</Origin>
+<Color>350</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>450</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Malt (Muntons)</Grain>
+<Origin>US</Origin>
+<Color>385</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Malt (Thomas Fawcett)</Grain>
+<Origin>United Kingdom</Origin>
+<Color>508</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark chocolate malt from the UK. Adds strong coffee flavor to your beer.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Malt, Pale</Grain>
+<Origin>US</Origin>
+<Color>225</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt. Lighter than normal chocolate malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Rye Malt</Grain>
+<Origin>Germany</Origin>
+<Color>250</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.031</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Primarily used for color and aroma in top-fermented specialty beers.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Chocolate Wheat Malt</Grain>
+<Origin>Germany</Origin>
+<Color>400</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Intensifies aroma and color in top-fermented beers such as dark wheat beers.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Corn - Yellow, Flaked (Briess)</Grain>
+<Origin>US</Origin>
+<Color>1.3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.039</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>produce a beer with a mild, less malty flavor produce a drier, more crisp beer. APPLICATIONS Use up to 40% as a cereal adjunct in the total grist</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Corn, Flaked</Grain>
+<Origin>US</Origin>
+<Color>1.3</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Generally a neutral flavor, used to reduce maltiness of beer Produces beer with a milder, less malty flavor Uses: Primarily for light Bohemian and Pilsner lagers</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Corn Sugar (Dextrose)</Grain>
+<Origin>-</Origin>
+<Color>0</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Sugar. This may need to be modified.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Crisp Crystal 77L</Grain>
+<Origin>US</Origin>
+<Color>77</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Adds body, color and improves head retention. Also called &quot;Crystal&quot; malt.</Notes>
+<Power>0</Power>
+<PH>4.83192</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal 40, 2-Row, (Great Western)</Grain>
+<Origin>US</Origin>
+<Color>40</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.25</Max_x00A0__x0025_>
+<Notes>Crystal 40 (35-45°L)A fully modified and saccharified two-row crystal malt roasted to a target color of 40° ASBC. A versatile malt providing moderate color and caramel flavor. </Notes>
+<Power>0</Power>
+<PH>5.0184</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal 60, 2-Row, (Great Western)</Grain>
+<Origin>US</Origin>
+<Color>60</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Crystal 60 (55-65°L) Similar to C40 but with a more extensive roasting to a target color of 60° ASBC. Has a more pronounced caramel flavor to coincide with the color. </Notes>
+<Power>0</Power>
+<PH>4.9176</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal 60L</Grain>
+<Origin>United Kingdom</Origin>
+<Color>60</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>4.9176</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal 70/80L</Grain>
+<Origin>United Kingdom</Origin>
+<Color>75</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>120</Power>
+<PH>4.842</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal Malt - 60L (Thomas Fawcett)</Grain>
+<Origin>United Kingdom</Origin>
+<Color>60</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Caramel or crystal malt from Thomas Fawcett. Adds Toffee caramel flavor. Improves head retention and body.</Notes>
+<Power>0</Power>
+<PH>4.9176</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal, Dark (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>80</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Contributes a strong reddish hue to milds, brown ales, and other dark beers. The long kilning of this malt imparts a roasty edge on top of the malty sweetness of a crystal malt.</Notes>
+<Power>0</Power>
+<PH>4.8168</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal, Extra Dark (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>160</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Very dark English crystal malt with deep amber color and burnt sugar and dark fruit flavors.</Notes>
+<Power>0</Power>
+<PH>4.4136</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal, Medium (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>55</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Versatile English crystal malt imparts a rich gold to copper-red color and caramel flavor and increases foam stability.</Notes>
+<Power>0</Power>
+<PH>4.9428</PH>
+</fermentables>
+<fermentables>
+<Grain>Crystal, Medium (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>55</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Versatile English crystal malt imparts a rich gold to copper-red color and caramel flavor and increases foam stability. </Notes>
+<Power>0</Power>
+<PH>4.9428</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Extra Light</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Light</Grain>
+<Origin>US</Origin>
+<Color>4</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Amber</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Wheat</Grain>
+<Origin>US</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Munich</Grain>
+<Origin>US</Origin>
+<Color>8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Dry Malt Extract, Dark</Grain>
+<Origin>US</Origin>
+<Color>30</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.044</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For extract beer. Turn off the heat before adding, and try not to pour directly into the liquid. Wet DME is gross.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Empty</Grain>
+<Color>0</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>0</Potential>
+<Max_x00A0__x0025_>0</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>0</PH>
+</fermentables>
+<fermentables>
+<Grain>English Crystal, 50-60 L</Grain>
+<Origin>-</Origin>
+<Color>55</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>4.9428</PH>
+</fermentables>
+<fermentables>
+<Grain>Floor-Malted Bohemian Pilsner</Grain>
+<Origin>German</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.03</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Golden Promise (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Great base malt that produces a sweet and clean wort. An integral ingredient in Scottish ales and lagers. </Notes>
+<Power>120</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Home Roasted Pilsner</Grain>
+<Origin>Florida</Origin>
+<Color>27</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Toasted in oven at 350 degrees for 30 minutes</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Home Toasted/Roasted Munich Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>27</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Toasted in oven at 350 degrees for 30 minutes</Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Honey</Grain>
+<Origin>US</Origin>
+<Color>5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.1</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Can be used to make mead</Notes>
+<Power>0</Power>
+<PH>3.9</PH>
+</fermentables>
+<fermentables>
+<Grain>Honey Malt</Grain>
+<Origin>Canada</Origin>
+<Color>25</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Intensely sweet - adds a sweet malty flavor sometimes associated with honey. Also called Brumalt.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Honey Malt (Gambrinus)</Grain>
+<Origin>Canada</Origin>
+<Color>25</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>This malt is similar in style to German “brumalt”, but it really doesn’t compare to any other malt with its honey-like taste and residual sweetness. Best used in brown ales, porters, and stouts.</Notes>
+<Power>50</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Kolsch Malt</Grain>
+<Origin>Germany</Origin>
+<Color>4.5</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>For brewing Kolsch-type beers. This malt is produced only in the Cologne region of Germany.</Notes>
+<Power>60</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Lager Malt</Grain>
+<Origin>-</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Very light lager malt used to make Pilsners, Lagers and other light beers. May be used as a base malt.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Light Roasted Barley (Briess)</Grain>
+<Origin>US</Origin>
+<Color>300</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>FLAVOR: Coffee, Intense Bitter COLOR: Red to Deep Brown Use 3-7% for coffee flavor in Porter and Stout Use 2-5% in Nut Brown Ales. Use Chocolate Malt or Black Malt in combination with Roasted Barley to obtain desired color.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Liquid Malt Extract, Pale</Grain>
+<Origin>US</Origin>
+<Color>1.25</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For ectract beer. Make sure to warm the container to get it all out.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Liquid Malt Extract, Wheat </Grain>
+<Origin>US</Origin>
+<Color>1.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For ectract beer. Make sure to warm the container to get it all out.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Liquid Malt Extract, Munich</Grain>
+<Origin>US</Origin>
+<Color>15</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For ectract beer. Make sure to warm the container to get it all out.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Liquid Malt Extract, Dark</Grain>
+<Origin>US</Origin>
+<Color>30</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For ectract beer. Make sure to warm the container to get it all out.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Liquid Malt Extract, Amber</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Sugar. Well, sorta anyway. For ectract beer. Make sure to warm the container to get it all out.</Notes>
+<Power>100</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Maple Syrup</Grain>
+<Origin>-</Origin>
+<Color>5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Sugar. </Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Maris Otter (Crisp)</Grain>
+<Origin>United Kingdom</Origin>
+<Color>4</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Premium base malt from the UK. Popular for many English styles of beer including ales, pale ales and bitters.</Notes>
+<Power>50</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Maris Otter Malt (Muntons)</Grain>
+<Origin>United Kingdom</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Muntons Maris Otter malt is a 2-row winter variety of barley specially bred for use in the brewing industry. It has a low nitrogen content and high quality malt characteristics which give beers a lush, full flavor profile. It is generally regarded as havi</Notes>
+<Power>62</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Melanoiden Malt</Grain>
+<Origin>Germany</Origin>
+<Color>20</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Aromatic malt from Banberg, Germany. Promotes a full flavor and rounds off beer color. Promotes deep red color and malty flavor.</Notes>
+<Power>10</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Melanoidin (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>27</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Red colored malt that improved head retention and stability. Used in red lagers, ales, dark beers. Intense red colour and malty aroma.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Melanoidin (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>30</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Red colored malt that improved head retention and stability. Used in red lagers, ales, dark beers. Intense red colour and malty aroma.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>MFB Pilsen</Grain>
+<Origin>France</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>120</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Mild Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>4</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Also called &quot;English Mild&quot; - a light specialty malt used in Brown Ales</Notes>
+<Power>53</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Molasses</Grain>
+<Origin>US</Origin>
+<Color>40</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.05</Max_x00A0__x0025_>
+<Notes>Sugar. </Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich (BestMälz)</Grain>
+<Origin>Germany</Origin>
+<Color>7.6142132</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Munich intensifies the color of the beer. It emphasizes the malt aroma of dark beer in an exciting way. It forms an excellent enzyme-rich foundation for all color-intensive beer styles. This malt is produced using a special malting process designed t</Notes>
+<Power>150</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich 10L (Briess)</Grain>
+<Origin>US</Origin>
+<Color>7</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>FLAVOR: Robust MaltyCOLOR: Golden to Orange HuesAdds a pronounced malty flavor without adding non-fermentables or affecting foam.Small amounts added to the grist will improve the malty flavor and give a richer color to low gravity brews.</Notes>
+<Power>40</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich 10L (Briess)</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>FLAVOR: Robust Malty COLOR: Golden to Orange Hues Adds a pronounced malty flavor without adding non-fermentables or affecting foam. Small amounts added to the grist will improve the malty flavor and give a richer color to low gravity brews.</Notes>
+<Power>40</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich 10L (Gambrinus)</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a slight orange color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>50</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Dark (BestMälz)</Grain>
+<Origin>Germany</Origin>
+<Color>12.6903553</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Munich Dark gives a pleasant full-bodied and malty flavor. The impact when using this darker malt is similar to BEST Munich: the color is even more intensified, the malt aroma is strengthened. Enzyme richness of this malt offers opportunities for bre</Notes>
+<Power>150</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich I (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>7.1</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Light Munich malt. May be used as a base for many German beer styles. Fest beers, bocks, ales. Enhances malty flavour and aroma</Notes>
+<Power>50</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Light</Grain>
+<Origin>German</Origin>
+<Color>6</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Malt</Grain>
+<Origin>Germany</Origin>
+<Color>9</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a reddish amber color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>72</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Malt (Great Western)</Grain>
+<Origin>Canada</Origin>
+<Color>9</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>This mellow kilned malt is ideal where unique malt flavor and rich aroma, is sought.</Notes>
+<Power>90</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Malt - 10L</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a slight orange color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>50</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Malt - 20L</Grain>
+<Origin>US</Origin>
+<Color>20</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a orange to deep orange color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>25</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Munich Malt, Light (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>5.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a reddish amber color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>72</Power>
+<PH>5.43</PH>
+</fermentables>
+<fermentables>
+<Grain>Oats, Flaked</Grain>
+<Origin>US</Origin>
+<Color>1</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.3</Max_x00A0__x0025_>
+<Notes>Adds body, mouth feel and head retention to the beer Used in oatmeal stouts and porters Adds substantial protein haze to light beers Protein rest recommended unless flakes are pregelatinized</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Oats, Flaked (toasted)</Grain>
+<Origin>US</Origin>
+<Color>15</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.3</Max_x00A0__x0025_>
+<Notes>Adds body, mouth feel and head retention to the beer Used in oatmeal stouts and porters Adds substantial protein haze to light beers Protein rest recommended unless flakes are pregelatinized</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Oats, Golden Naked (Simpsons)</Grain>
+<Origin>UK</Origin>
+<Color>10</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>This unique product from Simpsons has a special, sweet berry-nut flavor. Used at a rate of 4-15% of total grist by weight, Golden Naked Oats will deliver a deep golden hue with light caramel flavors to the finished beer as well as a creamy, satin finish.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Oats, Malted</Grain>
+<Origin>US</Origin>
+<Color>1</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Malted oats. Adds body, mouth feel and head retention to the beer Creates chill haze in lighter beers, so is primarily used in dark ones. </Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale 2-Row</Grain>
+<Origin>American</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale 6-Row</Grain>
+<Origin>American</Origin>
+<Color>1.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.79</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Ale Malt</Grain>
+<Origin>US</Origin>
+<Color>3.5</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>A US alternative to British or Belgian pale ale malts. Slightly darker than 2-row. Yields richer, maltier flavors than standard 2-row.</Notes>
+<Power>85</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Ale Malt 2-Row (Briess)</Grain>
+<Origin>US</Origin>
+<Color>3.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Flavor:MaltyColor Golden HuesCan be used as a base malt.More pronounced malty flavor than 2-Row Brewers Malt.Use with 2-Row Brewers Malt for rich malt flavor and additional color.</Notes>
+<Power>85</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Ale Malt, Full Pint (Great Western)</Grain>
+<Origin>US</Origin>
+<Color>2.25</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>GWM Full Pint Malt (2.0-2.5L) A spring 2-row barley developed at Oregon State University (originally named BCD-47). Described as &quot;very fermentable and having a very nice extract... Full Pint wort also tasted very good, pre and post boiled... a very pleasa</Notes>
+<Power>158</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Chocolate</Grain>
+<Origin>UK</Origin>
+<Color>225</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt (2 Row) Belgian</Grain>
+<Origin>Belgium</Origin>
+<Color>3</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Base malt for all beer styles Higher potential yield than US, English equivalent pale ale malts</Notes>
+<Power>60</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt (2 Row) UK</Grain>
+<Origin>United Kingdom</Origin>
+<Color>3</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Base malt for all English beer styles Lower diastatic power than American 2 Row Pale Malt</Notes>
+<Power>45</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt (2 Row) US</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Base malt for all beer styles</Notes>
+<Power>120</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt (2 Row), NW Pale</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Base malt for all beer styles</Notes>
+<Power>140</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt (6 Row) US</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Base malt for all beer styles</Notes>
+<Power>150</Power>
+<PH>5.79</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt, Golden Promise</Grain>
+<Origin>United Kingdom</Origin>
+<Color>2.5</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Malt from a traditional barley variety grown in Scotland. Golden Promise produces a mellow wort, with a sweet, clean flavor. This base malt is a must for authentic Scottish ales, great for English styles as well. </Notes>
+<Power>70</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt, Golden Promise (Thomas Fawcett)</Grain>
+<Origin>United Kingdom</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Floor malted spring barley from the UK. Suitable base male for all types of ales.</Notes>
+<Power>120</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt, Halcyon</Grain>
+<Origin>United Kingdom</Origin>
+<Color>2.5</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Halcyon Pale Ale Malt is considered to be one of the last remaining traditional English Pale Malts. Adds a degree of biscuit flavor to the beer. Brighter and lighter in flavor than Pearl, Halcyon is a great malt for the production of Real Ales. It tends t</Notes>
+<Power>70</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Pale Malt, Maris Otter</Grain>
+<Origin>United Kingdom</Origin>
+<Color>3</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Premium base malt from the UK. Popular for many English styles of beer including ales, pale ales and bitters.</Notes>
+<Power>120</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Peat Smoked Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>2.8</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Robust smoky malt that provides a smoky flavor. Used in scottish ales and wee heavy ales.</Notes>
+<Power>0</Power>
+<PH>5</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsen (BestMälz)</Grain>
+<Origin>Germany</Origin>
+<Color>1.5228426</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Pilsen Malt gives beer a fresh and rounded taste. It is used for all types of beers based on basically barley malt. It forms an excellent “light” and enzyme-rich foundation for almost all beer styles. Malt characteristics: low protein levels, high ex</Notes>
+<Power>329</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsen (Dingemans)</Grain>
+<Origin>Belgium</Origin>
+<Color>1.6</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>90</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner (2 Row) Belgian</Grain>
+<Origin>Belgium</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Belgian base malt for Continental lagers</Notes>
+<Power>105</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner (2 Row) German</Grain>
+<Origin>Germany</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>German base for Pilsners and Bohemian Lagers</Notes>
+<Power>110</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner (2 Row) UK</Grain>
+<Origin>United Kingdom</Origin>
+<Color>1</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Pilsner base malt</Notes>
+<Power>60</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>1.7</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Pilsner base malt for all pilsners, lagers. Highly modified malt.</Notes>
+<Power>110</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner Malt (Avangard)</Grain>
+<Origin>Germany</Origin>
+<Color>3.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>220</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner Malt (Avangard)</Grain>
+<Origin>Germany</Origin>
+<Color>1.7</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Highly-modified, it has been reported that brewers tend to get excellent efficiency out of this malt. It produces beers with a nice light golden color. Avangard pilsner malt can be used in a range of different styles and in any beer that calls for pilsner</Notes>
+<Power>67</Power>
+<PH>5.75</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner malt, 300 degrees for 25 minutes</Grain>
+<Origin>US</Origin>
+<Color>20</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.8</Max_x00A0__x0025_>
+<Notes>Malty-sweet flavor characteristic and adds a orange to deep orange color to the beer. Does not contribute signficantly to body or head retention. Use for: Bock, Porter, Marzen, Oktoberfest beers</Notes>
+<Power>25</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Pilsner malt, 400 degrees for 50 minutes</Grain>
+<Origin>US</Origin>
+<Color>200</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.028</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Dark malt that gives a rich red or brown color and nutty flavor. Use for: Brown ales, porters, some stouts Maintains some malty flavor, not as dark as roasted malt.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Potato</Grain>
+<Origin>-</Origin>
+<Color>1</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.008</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Boil, crush, and throw in mash.</Notes>
+<Power>200</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>RedX (BestMälz)</Grain>
+<Origin>Alemanha</Origin>
+<Color>15.2284264</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Red X malt is specially created for brewing red-tinted beers. You can use BEST Red X for up to 100% of your grain bill – no other malt is required. Offering exceptional reliability and optimal processability, BEST Red X can be employed to brew consis</Notes>
+<Power>250</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>RedX (BestMälz)</Grain>
+<Origin>Germany</Origin>
+<Color>15.2284264</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Red X® has been invented for brewing red-tinted beers. You can use BEST Red X® for up to 100% of your grain bill - no other malt is required. Offering exceptional reliability and optimal processability, BEST Red X® can be employed to brew consistentl</Notes>
+<Power>250</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Rice, Flaked</Grain>
+<Origin>US</Origin>
+<Color>1</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Used to add fermentables without increasing body or flavor. Produces a milder, less grainy tasting beer. Examples: American lagers, Bohemian lagers, Pilsners</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Rice, Flaked (Briess)</Grain>
+<Origin>US</Origin>
+<Color>1</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.032</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Use up to 40% as a cereal adjunct</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Roasted Barley</Grain>
+<Origin>US</Origin>
+<Color>500</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Roasted at high temperature to create a burnt, grainy, coffee like flavor. Imparts a red to deep brown color to beer, and very strong roasted flavor. Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for coffee flavor.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Roasted Barley</Grain>
+<Origin>United Kingdom</Origin>
+<Color>550</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Roasted at high temperature to create a burnt, grainy, coffee like flavor. Imparts a red to deep brown color to beer, and very strong roasted flavor. Use 2-4% in Brown ales to add a nutty flavor, or 3-10% in Porters and Stouts for coffee flavor.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Rye Malt</Grain>
+<Origin>US</Origin>
+<Color>4.7</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.029</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Adds a dry, crisp character to the beer. Yields a deep red color, and a distinctive rye flavor Must limit to 10-15% of the mash as it tends to produce &quot;stuck&quot; mashes.</Notes>
+<Power>75</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Rye, Flaked</Grain>
+<Origin>US</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Imparts a dry, crisp rye flavor to rye beers. Can be easier to mash than raw rye.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Rye, Flaked (Briess)</Grain>
+<Origin>US</Origin>
+<Color>4.6</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Use up to 40% as a cereal adjunct in the total grist to create Rye Beer. Start at 5-10% and increase in increments of 5% because of the concentrated flavor of Rye Flakes.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Rye, Flaked (toasted)</Grain>
+<Origin>US</Origin>
+<Color>10</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Imparts a more intendse dry, crisp rye flavor to rye beers. Can be easier to mash than raw rye.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Simpson Golden Promise</Grain>
+<Origin>-</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Malt from a traditional barley variety grown in Scotland. Golden Promise produces a mellow wort, with a sweet, clean flavor. This base malt is a must for authentic Scottish ales, great for English styles as well. </Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Smoked Malt</Grain>
+<Origin>Germany</Origin>
+<Color>9</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Malt that has been smoked over an open fire. Creates a distinctive &quot;smoked&quot; flavor and aroma. Used primarily for German Rauchbier but can also be added to Brown Ales and Porters.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Special B (Castle Malting)</Grain>
+<Origin>Belgien</Origin>
+<Color>152.284264</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Mycket speciell belgisk karkellmalt.Ger en djupt röd till mörkt brun-svart färg och fylligare kropp, unik rik maltig smak och arom av russin, nötter och plommon. Används tex till Abbey Ales.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Special B Malt</Grain>
+<Origin>Belgium</Origin>
+<Color>180</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.03</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Extreme caramel aroma and flavored malt. Used in dark Belgian Abbey and Trappist ales. Unique flavor and aroma.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Special Roast</Grain>
+<Origin>US</Origin>
+<Color>50</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Use for English ales, nut brown ales and porters. Adds a toasted, biscuit like flavor and aroma</Notes>
+<Power>6</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Table Sugar (Sucrose)</Grain>
+<Origin>-</Origin>
+<Color>0</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Sugar. This may need to be modified.</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Thomas Fawcett Maris Otter</Grain>
+<Origin>United Kingdom</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Premium base malt from the UK. Popular for many English styles of beer including ales, pale ales and bitters.</Notes>
+<Power>120</Power>
+<PH>5.77</PH>
+</fermentables>
+<fermentables>
+<Grain>Toasted Malt</Grain>
+<Origin>United Kingdom</Origin>
+<Color>27</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Toasted malt can be made at home by toasting pale malted barley for 10-15 minutes at 350 F. Similar to Biscuit or Victory malt - this malt adds reddish/orange color and improved body without sweetness. Toasted flavor. Mashing required to avoid haze.</Notes>
+<Power>0</Power>
+<PH>4.71</PH>
+</fermentables>
+<fermentables>
+<Grain>Triticale, Flaked</Grain>
+<Origin>-</Origin>
+<Color>2</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.033</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Two-Row Pale Malt</Grain>
+<Origin>Pale Moon, Alamosa CO</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Batch from Craft Maltster in Texas - Blacklands Malt</Notes>
+<Power>150</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Victory Malt</Grain>
+<Origin>US</Origin>
+<Color>25</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.034</Potential>
+<Max_x00A0__x0025_>0.15</Max_x00A0__x0025_>
+<Notes>Toasted malt that adds a &quot;Biscuit&quot; or toasted flavor to English ales. Use for: Nut brown ales, porters</Notes>
+<Power>50</Power>
+<PH>5.7</PH>
+</fermentables>
+<fermentables>
+<Grain>Vienna (BestMälz)</Grain>
+<Origin>Germany</Origin>
+<Color>4.0609137</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>BEST Vienna deepens the light and brilliant color of the beer and creates a pleasant, full-bodied and malty taste. Selected malting barley is used to produce the malt and it is created according to a special malting process. This malt has a high enzymatic</Notes>
+<Power>220</Power>
+<PH>6.04</PH>
+</fermentables>
+<fermentables>
+<Grain>Vienna Malt</Grain>
+<Origin>Germany</Origin>
+<Color>3.5</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.9</Max_x00A0__x0025_>
+<Notes>Kiln dried malt darker than Pale Malt, but not as dark as Munich Malt Imparts a golden to orange color to the beer.</Notes>
+<Power>50</Power>
+<PH>6.04</PH>
+</fermentables>
+<fermentables>
+<Grain>Vienna Malt (Avangard)</Grain>
+<Origin>Germnay</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Darker than pale malt, Vienna malt is a great base malt that contributes golden colors and biscuity, malty flavors.</Notes>
+<Power>50</Power>
+<PH>6.04</PH>
+</fermentables>
+<fermentables>
+<Grain>Vienna Malt (Briess)</Grain>
+<Origin>US</Origin>
+<Color>3.5</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>FLAVOR: Malty, Very Slight Biscuit Can be used as a base malt Use with Caramel Malts to produce malty red and amber beers.</Notes>
+<Power>130</Power>
+<PH>6.04</PH>
+</fermentables>
+<fermentables>
+<Grain>Vienna Malt (Weyermann)</Grain>
+<Origin>Germany</Origin>
+<Color>3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.038</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>Vienna base malt - used in many continental beer styles. Full bodied, golden color.</Notes>
+<Power>50</Power>
+<PH>6.04</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat - White Malt (Briess)</Grain>
+<Origin>US</Origin>
+<Color>2.3</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.039</Potential>
+<Max_x00A0__x0025_>1</Max_x00A0__x0025_>
+<Notes>FLAVOR: Creamy, Sweet, Malty, Wheat, Floury Imparts malty flavor not obtainable from raw wheat. Use with rice hulls to improve lautering and help prevent stuck mash. White Wheat Malt contributes to foam production and foam stability.</Notes>
+<Power>145</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat Malt, Bel</Grain>
+<Origin>Belgium</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.037</Potential>
+<Max_x00A0__x0025_>0.6</Max_x00A0__x0025_>
+<Notes>Malted wheat for use in Wheat beers</Notes>
+<Power>74</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat Malt, Dark</Grain>
+<Origin>Germany</Origin>
+<Color>9</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.039</Potential>
+<Max_x00A0__x0025_>0.2</Max_x00A0__x0025_>
+<Notes>Dark malted wheat base for use in dark wheat styles such as Dunkleweizen.</Notes>
+<Power>10</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat Malt, Ger</Grain>
+<Origin>Germany</Origin>
+<Color>2</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.039</Potential>
+<Max_x00A0__x0025_>0.6</Max_x00A0__x0025_>
+<Notes>Malted wheat base for use in all wheat styles</Notes>
+<Power>95</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat Malt, White</Grain>
+<Origin>US</Origin>
+<Color>2.4</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.04</Potential>
+<Max_x00A0__x0025_>0.6</Max_x00A0__x0025_>
+<Notes>White wheat gives a malty flavor not available from raw wheat. Used in Weiss, Wit and White beers</Notes>
+<Power>130</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat Malt, White (Rahr)</Grain>
+<Origin>U.S.</Origin>
+<Color>4</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.039</Potential>
+<Max_x00A0__x0025_>0.5</Max_x00A0__x0025_>
+<Notes>It’s a great base malt for any style wheat beer. It has a doughy, malty, bready flavor and aroma, with white wheat having a slightly milder wheat flavor than red wheat. High protein levels in wheat lend a fullness of body and excellent head retention, but</Notes>
+<Power>130</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat, Flaked</Grain>
+<Origin>US</Origin>
+<Color>1.6</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.035</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Flaked wheat adds to increased body and foam retention Used in place of raw or torrified wheat for faster conversion and better yield. May be used in small amounts to improve head retention and body Examples: Belgian White beer, Wit</Notes>
+<Power>0</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat, Roasted</Grain>
+<Origin>Germany</Origin>
+<Color>425</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.025</Potential>
+<Max_x00A0__x0025_>0.1</Max_x00A0__x0025_>
+<Notes>Also called Chocolate Wheat Malt. Kilned raw wheat - adds a deep, dark brown color to dunkelweizens and other dark beer styles. Roasted, woody, charcoal or burnt toast flavor depending on degree of roasting.</Notes>
+<Power>0</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>Wheat, Torrified</Grain>
+<Origin>US</Origin>
+<Color>1.7</Color>
+<Mash_x003F_>X</Mash_x003F_>
+<Potential>1.036</Potential>
+<Max_x00A0__x0025_>0.4</Max_x00A0__x0025_>
+<Notes>Unmodified wheat that has been &quot;popped&quot; to open the kernels Used primarily in place of raw wheat when making Belgian White and Wit Faster conversion and higher yield than raw wheat Protein rest recommended when mashing</Notes>
+<Power>0</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>White Wheat</Grain>
+<Origin>American</Origin>
+<Color>2.8</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.04</Potential>
+<Max_x00A0__x0025_>0.6</Max_x00A0__x0025_>
+<Notes>-</Notes>
+<Power>0</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables>
+<Grain>White Wheat Malt</Grain>
+<Origin>US</Origin>
+<Color>2.4</Color>
+<Mash_x003F_>-</Mash_x003F_>
+<Potential>1.04</Potential>
+<Max_x00A0__x0025_>0.6</Max_x00A0__x0025_>
+<Notes>White wheat gives a malty flavor not available from raw wheat. Used in Weiss, Wit and White beers</Notes>
+<Power>130</Power>
+<PH>6</PH>
+</fermentables>
+<fermentables/>
+</dataroot>

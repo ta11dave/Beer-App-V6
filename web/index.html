@@ -5,8 +5,39 @@
 </head>
 <body>
 	<div class="grid-container">
+		<div class = "header">
+			<h1>Welcome to the beer maker app!</h1>
+		</div>
 		<div class = "stats">
 			<table>
+				<tr>
+					<td>Brewer:</td>
+					<td id="Brewer">Whatever the brewer's name is</td>
+				</tr>
+				<tr>
+					<td>Co-Brewer:</td>
+					<td id="co-brewer">Whatever their name is</td>
+				</tr>
+				<tr>
+					<td>Recipe Name:</td>
+					<td><input type="text" name="recipe_name"></td>
+				</tr>
+				<tr>
+					<td>Style:</td>
+					<td id="style">There should be a list here?</td>
+				</tr>
+				<tr>
+					<td>Boil Volume:</td>
+					<td id="boil_vol"></td>
+				</tr>
+				<tr>
+					<td>Fermenter Volume:</td>
+					<td><input type="text" name="ferm_vol"></td>
+				</tr>
+				<tr>
+					<td>Pre-boil OG:</td>
+					<td id="pre_boil_OG"></td>
+				</tr>
 				<tr>
 					<td>OG:</td>
 					<td id="OG"></td>
@@ -16,12 +47,52 @@
 					<td id="FG"></td>
 				</tr>
 				<tr>
+					<td>ABV:</td>
+					<td id="abv"></td>
+				</tr>
+				<tr>
+					<td>Mash Efficiency:</td>
+					<td><input type="text" name="mash_eff"></td>
+				</tr>
+				<tr>
 					<td>IBU:</td>
 					<td id="IBU"></td>
 				</tr>
 				<tr>
 					<td>SRM:</td>
 					<td id="SRM"></td>
+				</tr>
+				<tr>
+					<td>Calories:</td>
+					<td id="cal"></td>
+				</tr>
+			</table>
+		</div>
+		<div class = "styleclass">
+			<table>
+				<tr>
+					<th>Style</th>
+				</tr>
+				<tr>
+					<td id="guide"></td>
+				</tr>
+				<tr>
+					<td id="style_name"></td>
+				</tr>
+				<tr>
+					<td id="style_OG"></td>
+				</tr>
+				<tr>
+					<td id="style_FG"></td>
+				</tr>
+				<tr>
+					<td id="style_ABV"></td>
+				</tr>
+				<tr>
+					<td id="style_IBU"></td>
+				</tr>
+				<tr>
+					<td id="style_SRM"></td>
 				</tr>
 			</table>
 		</div>

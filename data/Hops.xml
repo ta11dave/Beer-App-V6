@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Hops.xsd" generated="2020-05-24T17:36:25">
+<Hops>
+<Name>Admiral</Name>
+<AlphaAcidMin>0.135</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>U.K. Target, U.K. Northdown, U.K. Challenger</PossibleSubstitutions>
+<FlavorDescription>Known for its bittering potential.</FlavorDescription>
+<f_x0028_G_x0029_>0.202460560804656</f_x0028_G_x0029_>
+</Hops>
+<Hops>
+<Name>Ahtanum</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.063</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Floral, citrus, sharp, and piney. </FlavorDescription>
+</Hops>
+<Hops>
+<Name>Amarillo</Name>
+<AlphaAcidMin>0.08</AlphaAcidMin>
+<AlphaAcidMax>0.09</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>Cascade, Centennial</PossibleSubstitutions>
+<FlavorDescription>Citrusy, flowery.</FlavorDescription>
+<Field8>boil gravity</Field8>
+<f_x0028_G_x0029_>1.05</f_x0028_G_x0029_>
+</Hops>
+<Hops>
+<Name>Apollo</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.19</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+<Field8>time</Field8>
+<f_x0028_G_x0029_>40</f_x0028_G_x0029_>
+</Hops>
+<Hops>
+<Name>Aurora</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+<Field8>max Utilization</Field8>
+<f_x0028_G_x0029_>4.15</f_x0028_G_x0029_>
+</Hops>
+<Hops>
+<Name>Azacca</Name>
+<AlphaAcidMin>0.14</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>Citra, Mosaic, Galaxy, and other new age fruity hops</PossibleSubstitutions>
+<FlavorDescription>Aromas of tropical fruits and citrus. Tasting notes of spicy mango, pineapple, tangerine and pine.</FlavorDescription>
+</Hops>
+<Hops>
+<Name>B. C. Goldings</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Banner</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Boadicea</Name>
+<AlphaAcidMin>0.08</AlphaAcidMin>
+<AlphaAcidMax>0.1</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Bramling Cross</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.07</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>U.K. Kent Golding, U.K. Progress, Whitbread Golding Variety</PossibleSubstitutions>
+<FlavorDescription>Quite mild, fruity currant aroma.</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Bravo</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Brewer&apos;s Gold</Name>
+<AlphaAcidMin>0.07</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>Northdown, Northern Brewer, Galena, Bullion</PossibleSubstitutions>
+<FlavorDescription>Ale, heavier German-style lagers</FlavorDescription>
+</Hops>
+<Hops>
+<Name>BRU-1</Name>
+<AlphaAcidMin>0.13</AlphaAcidMin>
+<AlphaAcidMax>0.15</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Bullion</Name>
+<AlphaAcidMin>0.065</AlphaAcidMin>
+<AlphaAcidMax>0.09</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>Columbus, Northern Brewer, German Brewer&apos;s Gold</PossibleSubstitutions>
+<FlavorDescription>IPA, ESB, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Calypso</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Cascade</Name>
+<AlphaAcidMin>0.045</AlphaAcidMin>
+<AlphaAcidMax>0.07</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>Centennial, Amarillo, possibly Columbus</PossibleSubstitutions>
+<FlavorDescription>Pale ale, IPA, porter, barleywine</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Cashmere</Name>
+<AlphaAcidMin>0.077</AlphaAcidMin>
+<AlphaAcidMax>0.091</AlphaAcidMax>
+<AverageAA>0.085</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Centennial</Name>
+<AlphaAcidMin>0.08</AlphaAcidMin>
+<AlphaAcidMax>0.115</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>Cascade, possibly Columbus</PossibleSubstitutions>
+<FlavorDescription>All ale styles, has been used with wheat beer</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Challenger</Name>
+<AlphaAcidMin>0.065</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>U.S. or German Perle, Northern Brewer</PossibleSubstitutions>
+<FlavorDescription>English-style ales, porter, stout, ESB, bitter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Chinook</Name>
+<AlphaAcidMin>0.1</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>Nugget, Columbus, Northern Brewer, U.K. Target</PossibleSubstitutions>
+<FlavorDescription>Pale ale, IPA, stout, porter, lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Citra</Name>
+<AlphaAcidMin>0.1</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>Hallertauer, Tettnanger, possibly Columbus</PossibleSubstitutions>
+<FlavorDescription>IPA, pale ale, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Cluster</Name>
+<AlphaAcidMin>0.055</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>Galena</PossibleSubstitutions>
+<FlavorDescription>Ale and lager (good aroma for ale, good bittering for lager)</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Columbia</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Columbus</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>Nugget, Chinook, U.K. Target, Northern Brewer</PossibleSubstitutions>
+<FlavorDescription>IPA, pale ale, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Comet</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Crystal</Name>
+<AlphaAcidMin>0.02</AlphaAcidMin>
+<AlphaAcidMax>0.045</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>Mt. Hood, Hersbrucker, French Strisslespalt, Liberty, Hallertauer</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, ESB</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Dr. Rudi</Name>
+<AlphaAcidMin>0.1</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>East Kent Golding</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>El Dorado</Name>
+<AlphaAcidMin>0.13</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Empty</Name>
+<AlphaAcidMin>0</AlphaAcidMin>
+<AlphaAcidMax>0</AlphaAcidMax>
+<AverageAA>0.00000000001</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Eroica</Name>
+<AlphaAcidMin>0.09</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>Galena, Nugget, Chinook</PossibleSubstitutions>
+<FlavorDescription>Wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Ekuanot</Name>
+<AlphaAcidMin>0.145</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Falconer&apos;s Flight</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Dry Hop</FlavorDescription>
+</Hops>
+<Hops>
+<Name>First Gold</Name>
+<AlphaAcidMin>0.065</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>U.K. Kent Golding, maybe Crystal</PossibleSubstitutions>
+<FlavorDescription>Ale, ESB</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Fuggle</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.K. Fuggle, Willamette, Styrian Golding, U.S. Tettnanger</PossibleSubstitutions>
+<FlavorDescription>Any English-style beer or American ale</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Galaxy</Name>
+<AlphaAcidMin>0.116</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>Citra, Amarillo, Simcoe</PossibleSubstitutions>
+<FlavorDescription>IPA, Saison, Fruit Beers, Wheat Beers, Wild Ales</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Galena</Name>
+<AlphaAcidMin>0.1</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>Nugget, Pride of Ringwood, Chinook</PossibleSubstitutions>
+<FlavorDescription>Ale, porter, stout, ESB, bitter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Glacier</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Golding</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.K. Golding, Whitbread Golding Variety, U.K. Progress, and possibly the Fuggle family</PossibleSubstitutions>
+<FlavorDescription>Pale ale, ESB, all English-style beer</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Green Bullet</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.125</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Hallertauer</Name>
+<AlphaAcidMin>0.035</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>Liberty, Ultra, Hallertauer Tradition</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, bock, wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Hallertau Blanc</Name>
+<AlphaAcidMin>0.09</AlphaAcidMin>
+<AlphaAcidMax>0.11</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Hersbrucker</Name>
+<AlphaAcidMin>0.015</AlphaAcidMin>
+<AlphaAcidMax>0.04</AlphaAcidMax>
+<AverageAA>0.04</AverageAA>
+<PossibleSubstitutions>Mt. Hood, French Strisslespalt</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, bock, wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Hallertauer Mittelfrüh</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.04</AverageAA>
+<PossibleSubstitutions>Liberty, German Tradition, Ultra</PossibleSubstitutions>
+<FlavorDescription>Lager, bock, wheat, maybe pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Horizon</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>Magnum or a high-alpha hop</PossibleSubstitutions>
+<FlavorDescription>Ale, lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Huell Melon</Name>
+<AlphaAcidMin>0.07</AlphaAcidMin>
+<AlphaAcidMax>0.08</AlphaAcidMax>
+<AverageAA>0.075</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Huller Bitterer</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Idaho 7</Name>
+<AlphaAcidMin>0.13</AlphaAcidMin>
+<AlphaAcidMax>0.15</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Idaho Gem</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.125</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Jarrylo</Name>
+<AlphaAcidMin>0.15</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.16</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Kazbek</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.08</AlphaAcidMax>
+<AverageAA>0.065</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Kent Golding</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.S. Golding, Whitbread Golding Variety, U.K. Progress</PossibleSubstitutions>
+<FlavorDescription>All English-style ales, ESB, bitter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Kohatu</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.07</AlphaAcidMax>
+<AverageAA>0.065</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Liberty</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>Hallertauer Tradition, Hallertauer, Mt. Hood</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, bock, wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Loral</Name>
+<AlphaAcidMin>0.1</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>citrus, floral, herbal</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Lublin</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Dry Hop</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Mandarina Bavaria</Name>
+<AlphaAcidMin>0.07</AlphaAcidMin>
+<AlphaAcidMax>0.1</AlphaAcidMax>
+<AverageAA>0.085</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Magnum</Name>
+<AlphaAcidMin>0.13</AlphaAcidMin>
+<AlphaAcidMax>0.15</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>Northern Brewer</PossibleSubstitutions>
+<FlavorDescription>All beers, particularly lager, pilsner, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Medusa</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.038</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>intense guava, melon, apricot, and citrus fruit</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Millenium</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Mosaic</Name>
+<AlphaAcidMin>0.105</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>Simcoe, Citra, Nugget</PossibleSubstitutions>
+<FlavorDescription>IPA, Saison, Fruit Beer, Wheat Beer, Pale Ale
+</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Motueka</Name>
+<AlphaAcidMin>0.065</AlphaAcidMin>
+<AlphaAcidMax>0.075</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Mount Rainier</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Mount Hood</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.08</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>Crystal, French Strisslespalt, Hersbrucker</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, bock, wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Moutere</Name>
+<AlphaAcidMin>0.175</AlphaAcidMin>
+<AlphaAcidMax>0.195</AlphaAcidMax>
+<AverageAA>0.185</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Nelson Sauvin</Name>
+<AlphaAcidMin>0.12</AlphaAcidMin>
+<AlphaAcidMax>0.13</AlphaAcidMax>
+<AverageAA>0.125</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Newport</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Northdown</Name>
+<AlphaAcidMin>0.075</AlphaAcidMin>
+<AlphaAcidMax>0.095</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>All ales, porter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Northern Brewer</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.1</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>Nugget, Chinook</PossibleSubstitutions>
+<FlavorDescription>ESB, bitter, English pale ale, porter, California (steam) beer</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Northwest Golding</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.05</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Ale, porter, stout, ESB, bitter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Nugget</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.145</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>Columbus, Chinook, U.K. Target, Galena</PossibleSubstitutions>
+<FlavorDescription>Light lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Olympic</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.13</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>Chinook</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pacifica</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.055</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pacific Gem</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pacific Jade</Name>
+<AlphaAcidMin>0.12</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Lemon, blackberry, cracked pepper</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pahto</Name>
+<AlphaAcidMin>0.17</AlphaAcidMin>
+<AlphaAcidMax>0.2</AlphaAcidMax>
+<AverageAA>0.185</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Palisade</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Aroma</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Perle</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.095</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>Northern Brewer, Cluster, Galena, Chinook</PossibleSubstitutions>
+<FlavorDescription>Pale ale, porter, German styles</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Phoenix</Name>
+<AlphaAcidMin>0.042</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.K. Northdown, U.K. Kent Golding, U.K. Challenger</PossibleSubstitutions>
+<FlavorDescription>All ales</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pioneer</Name>
+<AlphaAcidMin>0.08</AlphaAcidMin>
+<AlphaAcidMax>0.1</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>U.K. Kent Golding</PossibleSubstitutions>
+<FlavorDescription>Ale, ESB</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Polaris</Name>
+<AlphaAcidMin>0.18</AlphaAcidMin>
+<AlphaAcidMax>0.24</AlphaAcidMax>
+<AverageAA>0.21</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Polish Lublin</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.045</AlphaAcidMax>
+<AverageAA>0.04</AverageAA>
+<PossibleSubstitutions>U.S. Saaz, Czech Saaz, U.S. Tettnanger</PossibleSubstitutions>
+<FlavorDescription>Pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Pride of Ringwood</Name>
+<AlphaAcidMin>0.07</AlphaAcidMin>
+<AlphaAcidMax>0.1</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>Galena, Cluster</PossibleSubstitutions>
+<FlavorDescription>Australian lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Progress</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.075</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>U.K. Kent Golding, Fuggle</PossibleSubstitutions>
+<FlavorDescription>Ale, bitter, ESB, porter</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Rakau</Name>
+<AlphaAcidMin>0.09</AlphaAcidMin>
+<AlphaAcidMax>0.11</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Saaz</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.045</AlphaAcidMax>
+<AverageAA>0.04</AverageAA>
+<PossibleSubstitutions>Polish Lublin</PossibleSubstitutions>
+<FlavorDescription>Pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Sabro</Name>
+<AlphaAcidMin>0.12</AlphaAcidMin>
+<AlphaAcidMax>0.16</AlphaAcidMax>
+<AverageAA>0.14</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Santiam</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.079</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>German Tettnanger, German Spalt, German Spalt Select</PossibleSubstitutions>
+<FlavorDescription>Lager, American ale, pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Saphir</Name>
+<AlphaAcidMin>0.02</AlphaAcidMin>
+<AlphaAcidMax>0.045</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Satus</Name>
+<AlphaAcidMin>0.125</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>Galena</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Simcoe</Name>
+<AlphaAcidMin>0.12</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Sorachi Ace</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Sovereign</Name>
+<AlphaAcidMin>0.045</AlphaAcidMin>
+<AlphaAcidMax>0.065</AlphaAcidMax>
+<AverageAA>0.055</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Spalt</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.S. Saaz, U.S. Tettnanger, German Spalt Select</PossibleSubstitutions>
+<FlavorDescription>Lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Select</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.065</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>Saaz, Tettnanger, Spalt</PossibleSubstitutions>
+<FlavorDescription>Lager, and any beer where noble aroma is wanted</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Smaragd</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Southern Cross</Name>
+<AlphaAcidMin>0.11</AlphaAcidMin>
+<AlphaAcidMax>0.14</AlphaAcidMax>
+<AverageAA>0.125</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Sterling</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.09</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>Saaz, Polish Lublin</PossibleSubstitutions>
+<FlavorDescription>Lager, ale, pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Sticklebract</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.12</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Strisslespalt</Name>
+<AlphaAcidMin>0.03</AlphaAcidMin>
+<AlphaAcidMax>0.05</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>Mt. Hood, Crystal, Hersbrucker</PossibleSubstitutions>
+<FlavorDescription>Pilsner, lager, wheat</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Styrian Golding</Name>
+<AlphaAcidMin>0.045</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.S. Fuggle, U.K. Fuggle, Willamette</PossibleSubstitutions>
+<FlavorDescription>All English-style ales, ESB, bitter, lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Summer</Name>
+<AlphaAcidMin>0.056</AlphaAcidMin>
+<AlphaAcidMax>0.064</AlphaAcidMax>
+<AverageAA>0.058</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Summit</Name>
+<AlphaAcidMin>0.15</AlphaAcidMin>
+<AlphaAcidMax>0.18</AlphaAcidMax>
+<AverageAA>0.18</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Super Alpha</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.13</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Super Styrians</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.09</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Talisman</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.08</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Target</Name>
+<AlphaAcidMin>0.095</AlphaAcidMin>
+<AlphaAcidMax>0.125</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>Fuggle, Willamette</PossibleSubstitutions>
+<FlavorDescription>All ale and lager</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Tettnang</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.055</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>German Spalt, German Spalt Select, U.S. Tettnanger, Saaz</PossibleSubstitutions>
+<FlavorDescription>Lager, ale</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Tomahawk</Name>
+<AlphaAcidMin>0.15</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.16</AverageAA>
+<PossibleSubstitutions>Columbus</PossibleSubstitutions>
+<FlavorDescription>Ale</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Triumph</Name>
+<AlphaAcidMin>0.09</AlphaAcidMin>
+<AlphaAcidMax>0.12</AlphaAcidMax>
+<AverageAA>0.105</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Tradition</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.07</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>Hersbrucker, Hallertauer Mittelfrüh</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Ultra</Name>
+<AlphaAcidMin>0.02</AlphaAcidMin>
+<AlphaAcidMax>0.041</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>Liberty, Hallertauer Tradition, Saaz</PossibleSubstitutions>
+<FlavorDescription>Lager, pilsner, wheat, finish hop in ales</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Vanguard</Name>
+<AlphaAcidMin>0.04</AlphaAcidMin>
+<AlphaAcidMax>0.0567</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>Saaz, Hallertauer Mittelfrüh</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Vic Secret</Name>
+<AlphaAcidMin>0.14</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.155</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Warrior</Name>
+<AlphaAcidMin>0.15</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.16</AverageAA>
+<PossibleSubstitutions>Nugget</PossibleSubstitutions>
+<FlavorDescription>Ale, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Wai-iti</Name>
+<AlphaAcidMin>0.025</AlphaAcidMin>
+<AlphaAcidMax>0.035</AlphaAcidMax>
+<AverageAA>0.03</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Waimea</Name>
+<AlphaAcidMin>0.16</AlphaAcidMin>
+<AlphaAcidMax>0.19</AlphaAcidMax>
+<AverageAA>0.175</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Wakatu</Name>
+<AlphaAcidMin>0.065</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.075</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>WGV (Whitbread Golding Variety)</Name>
+<AlphaAcidMin>0.05</AlphaAcidMin>
+<AlphaAcidMax>0.07</AlphaAcidMax>
+<AverageAA>0.06</AverageAA>
+<PossibleSubstitutions>U.K. Kent Golding, U.K. Progress</PossibleSubstitutions>
+<FlavorDescription>Ale</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Willamette</Name>
+<AlphaAcidMin>0.035</AlphaAcidMin>
+<AlphaAcidMax>0.06</AlphaAcidMax>
+<AverageAA>0.05</AverageAA>
+<PossibleSubstitutions>U.S. Fuggle, U.S. Tettnanger, Styrian Golding</PossibleSubstitutions>
+<FlavorDescription>Pale ale, ESB, bitter, English-style ale, porter, stout</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Wye Target</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Yakima Cluster</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.085</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Yamhill Goldings</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.04</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Aroma</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Zappa</Name>
+<AlphaAcidMin>0.06</AlphaAcidMin>
+<AlphaAcidMax>0.08</AlphaAcidMax>
+<AverageAA>0.07</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Zenith</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.1</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Zeus</Name>
+<AlphaAcidMin>0.13</AlphaAcidMin>
+<AlphaAcidMax>0.17</AlphaAcidMax>
+<AverageAA>0.15</AverageAA>
+<PossibleSubstitutions>Columbus</PossibleSubstitutions>
+<FlavorDescription>-</FlavorDescription>
+</Hops>
+<Hops>
+<Name>Zythos</Name>
+<AlphaAcidMin>-</AlphaAcidMin>
+<AlphaAcidMax>-</AlphaAcidMax>
+<AverageAA>0.11</AverageAA>
+<PossibleSubstitutions>-</PossibleSubstitutions>
+<FlavorDescription>Boil</FlavorDescription>
+</Hops>
+<Hops>
+<Name>END</Name>
+</Hops>
+<Hops/>
+<Hops>
+<Name>Use</Name>
+<AlphaAcidMax>Maximum Utilization</AlphaAcidMax>
+</Hops>
+<Hops>
+<Name>Boil</Name>
+<AlphaAcidMax>3.9</AlphaAcidMax>
+</Hops>
+<Hops>
+<Name>Whirlpool</Name>
+<AlphaAcidMax>Can be adjusted</AlphaAcidMax>
+</Hops>
+<Hops>
+<Name>Dry Hop</Name>
+</Hops>
+<Hops/>
+<Hops>
+<Name>Gravity/ Hops ratio</Name>
+<AlphaAcidMin>Max OG per IBU</AlphaAcidMin>
+<AlphaAcidMax>Min OG per IBU</AlphaAcidMax>
+</Hops>
+<Hops>
+<Name>Extra Malty</Name>
+</Hops>
+<Hops>
+<Name>Malty</Name>
+<Field12>rise1</Field12>
+<Field13>rise2</Field13>
+<Field14>run1</Field14>
+<Field15>run2</Field15>
+<Field16>m</Field16>
+</Hops>
+<Hops>
+<Name>Balanced</Name>
+<Field11>em</Field11>
+<Field12>100</Field12>
+<Field13>25</Field13>
+<Field14>27</Field14>
+<Field15>7</Field15>
+<Field16>3.75</Field16>
+</Hops>
+<Hops>
+<Name>Slightly Hoppy/Bitter</Name>
+<Field11>sm</Field11>
+<Field12>100</Field12>
+<Field13>25</Field13>
+<Field14>36</Field14>
+<Field15>9</Field15>
+<Field16>2.7777777778</Field16>
+</Hops>
+<Hops>
+<Name>Hoppy/Bitter</Name>
+<Field11>eb</Field11>
+<Field12>100</Field12>
+<Field13>25</Field13>
+<Field14>44</Field14>
+<Field15>11</Field15>
+<Field16>2.2727272727</Field16>
+</Hops>
+<Hops>
+<Field11>sh</Field11>
+<Field12>100</Field12>
+<Field13>25</Field13>
+<Field14>53</Field14>
+<Field15>13</Field15>
+<Field16>1.875</Field16>
+</Hops>
+<Hops>
+<Name>OG=</Name>
+<Field11>eh</Field11>
+<Field12>100</Field12>
+<Field13>25</Field13>
+<Field14>62</Field14>
+<Field15>16</Field15>
+<Field16>1.6304347826</Field16>
+</Hops>
+<Hops>
+<Name>Results:</Name>
+<Field11>max</Field11>
+<Field12>77</Field12>
+<Field13>25</Field13>
+<Field14>65</Field14>
+<Field15>22</Field15>
+<Field16>1.2093023256</Field16>
+</Hops>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops/>
+<Hops>
+<Name>IBU/GU:</Name>
+</Hops>
+<Hops>
+<Name>Wheat/Light beers:</Name>
+<AlphaAcidMin>0.25-0.35</AlphaAcidMin>
+</Hops>
+<Hops>
+<Name>Most Ales:</Name>
+<AlphaAcidMin>0.4-0.8</AlphaAcidMin>
+</Hops>
+<Hops>
+<Name>IPAs:</Name>
+<AlphaAcidMin>1+</AlphaAcidMin>
+</Hops>
+</dataroot>

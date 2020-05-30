@@ -1,0 +1,3963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Styles.xsd" generated="2020-05-24T17:36:37">
+<Styles>
+<Beer_x0020_Style>--BJCP--</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>#N/A</BJCP_x0020_Category>
+<Min_x0020_OG>#N/A</Min_x0020_OG>
+<Max_x0020_OG>#N/A</Max_x0020_OG>
+<Min_x0020_FG>#N/A</Min_x0020_FG>
+<Max_x0020_FG>#N/A</Max_x0020_FG>
+<Min_x0020_ABV>#N/A</Min_x0020_ABV>
+<Max_x0020_ABV>#N/A</Max_x0020_ABV>
+<Min_x0020_IBU>#N/A</Min_x0020_IBU>
+<Max_x0020_IBU>#N/A</Max_x0020_IBU>
+<Min_x0020_SRM>#N/A</Min_x0020_SRM>
+<Max_x0020_SRM>#N/A</Max_x0020_SRM>
+<Guide>#N/A</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Altbier</Beer_x0020_Style>
+<Category_x0020_Number>7</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>7B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>17</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Amber Ale</Beer_x0020_Style>
+<Category_x0020_Number>19</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>19A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber &amp; Brown American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.015</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.2%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>17</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Barleywine</Beer_x0020_Style>
+<Category_x0020_Number>22</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>22C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong American Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.120</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.030</Max_x0020_FG>
+<Min_x0020_ABV>8.0%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Brown Ale</Beer_x0020_Style>
+<Category_x0020_Number>19</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>19C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber &amp; Brown American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>6.2%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>18</Min_x0020_SRM>
+<Max_x0020_SRM>35</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>21A</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.070</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Lager</Beer_x0020_Style>
+<Category_x0020_Number>1</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>1B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Standard American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.050</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>18</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Light Lager</Beer_x0020_Style>
+<Category_x0020_Number>1</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>1A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Standard American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.040</Max_x0020_OG>
+<Min_x0020_FG>0.998</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>2.8%</Min_x0020_ABV>
+<Max_x0020_ABV>4.2%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>12</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>3</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>18</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>18B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale American Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.015</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.2%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>10</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Porter</Beer_x0020_Style>
+<Category_x0020_Number>20</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>20A</Style_x0020__x0023_>
+<BJCP_x0020_Category>American Porter &amp; Stout</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.070</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>22</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Stout</Beer_x0020_Style>
+<Category_x0020_Number>20</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>20B</Style_x0020__x0023_>
+<BJCP_x0020_Category>American Porter &amp; Stout</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.0%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>75</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>22</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>22B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong American Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.062</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>7</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American Wheat Beer</Beer_x0020_Style>
+<Category_x0020_Number>1</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>1D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Standard American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Australian Sparkling Ale</Beer_x0020_Style>
+<Category_x0020_Number>12</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>12B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Commonwealth Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.050</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.006</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Baltic Porter</Beer_x0020_Style>
+<Category_x0020_Number>9</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>9C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>6.5%</Min_x0020_ABV>
+<Max_x0020_ABV>9.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>17</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Blond Ale</Beer_x0020_Style>
+<Category_x0020_Number>25</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>25A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong Belgian Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.062</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Dark Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>26</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>26D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Trappist Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.075</Min_x0020_OG>
+<Max_x0020_OG>1.110</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>8.0%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Dubbel</Beer_x0020_Style>
+<Category_x0020_Number>26</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>26B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Trappist Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.062</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.6%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>17</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Golden Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>25</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>25C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong Belgian Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.070</Min_x0020_OG>
+<Max_x0020_OG>1.095</Max_x0020_OG>
+<Min_x0020_FG>1.005</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>7.5%</Min_x0020_ABV>
+<Max_x0020_ABV>10.5%</Max_x0020_ABV>
+<Min_x0020_IBU>22</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.058</Min_x0020_OG>
+<Max_x0020_OG>1.080</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>6.2%</Min_x0020_ABV>
+<Max_x0020_ABV>9.5%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>24</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>24B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian Tripel</Beer_x0020_Style>
+<Category_x0020_Number>26</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>26C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Trappist Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.075</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>7.5%</Min_x0020_ABV>
+<Max_x0020_ABV>9.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>4.5</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Berliner Weisse</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>23A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.032</Max_x0020_OG>
+<Min_x0020_FG>1.003</Min_x0020_FG>
+<Max_x0020_FG>1.006</Max_x0020_FG>
+<Min_x0020_ABV>2.8%</Min_x0020_ABV>
+<Max_x0020_ABV>3.8%</Max_x0020_ABV>
+<Min_x0020_IBU>3</Min_x0020_IBU>
+<Max_x0020_IBU>8</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>3</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Best Bitter</Beer_x0020_Style>
+<Category_x0020_Number>11</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>11B</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>4.6%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>16</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Biere de Garde</Beer_x0020_Style>
+<Category_x0020_Number>24</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>24C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.080</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>6.0%</Min_x0020_ABV>
+<Max_x0020_ABV>8.5%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Black IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>9.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>90</Max_x0020_IBU>
+<Min_x0020_SRM>25</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Blonde Ale</Beer_x0020_Style>
+<Category_x0020_Number>18</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>18A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale American Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Brett Beer</Beer_x0020_Style>
+<Category_x0020_Number>28</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>28A</Style_x0020__x0023_>
+<BJCP_x0020_Category>American Wild Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.000</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>British Brown Ale</Beer_x0020_Style>
+<Category_x0020_Number>13</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>13B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Brown British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>British Golden Ale</Beer_x0020_Style>
+<Category_x0020_Number>12</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>12A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Commonwealth Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.053</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>British Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>17</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>17A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong British Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.055</Min_x0020_OG>
+<Max_x0020_OG>1.080</Max_x0020_OG>
+<Min_x0020_FG>1.015</Min_x0020_FG>
+<Max_x0020_FG>1.022</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>60</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Brown IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.070</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>4</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>California Common</Beer_x0020_Style>
+<Category_x0020_Number>19</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>19B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber &amp; Brown American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.011</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Classic Style Smoked Beer</Beer_x0020_Style>
+<Category_x0020_Number>32</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>32A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Smoked Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Cream Ale</Beer_x0020_Style>
+<Category_x0020_Number>1</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>1C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Standard American Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.042</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>2.5</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Czech Amber Lager</Beer_x0020_Style>
+<Category_x0020_Number>3</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>3C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Czech Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.013</Min_x0020_FG>
+<Max_x0020_FG>1.017</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.8%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>16</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Czech Dark Lager</Beer_x0020_Style>
+<Category_x0020_Number>3</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>3D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Czech Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.013</Min_x0020_FG>
+<Max_x0020_FG>1.017</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.8%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>34</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>35</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Czech Pale Lager</Beer_x0020_Style>
+<Category_x0020_Number>3</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>3A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Czech Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.044</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>3.0%</Min_x0020_ABV>
+<Max_x0020_ABV>4.1%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Czech Premium Lager</Beer_x0020_Style>
+<Category_x0020_Number>3</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>3B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Czech Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.013</Min_x0020_FG>
+<Max_x0020_FG>1.017</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>5.8%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>3.5</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dark Mild</Beer_x0020_Style>
+<Category_x0020_Number>13</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>13A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Brown British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.038</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>3.0%</Min_x0020_ABV>
+<Max_x0020_ABV>3.8%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Doppelbock</Beer_x0020_Style>
+<Category_x0020_Number>9</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>9A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.072</Min_x0020_OG>
+<Max_x0020_OG>1.112</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>16</Min_x0020_IBU>
+<Max_x0020_IBU>26</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Double IPA</Beer_x0020_Style>
+<Category_x0020_Number>22</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>22A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong American Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.065</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>7.5%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>60</Min_x0020_IBU>
+<Max_x0020_IBU>120</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dunkles Bock</Beer_x0020_Style>
+<Category_x0020_Number>6</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>6C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.064</Min_x0020_OG>
+<Max_x0020_OG>1.072</Max_x0020_OG>
+<Min_x0020_FG>1.013</Min_x0020_FG>
+<Max_x0020_FG>1.019</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.2%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>27</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dunkles Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>10</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>10B</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Wheat Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>18</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>23</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Eisbock</Beer_x0020_Style>
+<Category_x0020_Number>9</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>9B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.078</Min_x0020_OG>
+<Max_x0020_OG>1.120</Max_x0020_OG>
+<Min_x0020_FG>1.020</Min_x0020_FG>
+<Max_x0020_FG>1.035</Max_x0020_FG>
+<Min_x0020_ABV>9.0%</Min_x0020_ABV>
+<Max_x0020_ABV>14.0%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>18</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Empty</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>#N/A</BJCP_x0020_Category>
+<Min_x0020_OG>N/A</Min_x0020_OG>
+<Max_x0020_OG>N/A</Max_x0020_OG>
+<Min_x0020_FG>N/A</Min_x0020_FG>
+<Max_x0020_FG>N/A</Max_x0020_FG>
+<Min_x0020_ABV>N/A</Min_x0020_ABV>
+<Max_x0020_ABV>N/A</Max_x0020_ABV>
+<Min_x0020_IBU>N/A</Min_x0020_IBU>
+<Max_x0020_IBU>N/A</Max_x0020_IBU>
+<Min_x0020_SRM>N/A</Min_x0020_SRM>
+<Max_x0020_SRM>N/A</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English Barleywine</Beer_x0020_Style>
+<Category_x0020_Number>17</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>17D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong British Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.120</Max_x0020_OG>
+<Min_x0020_FG>1.018</Min_x0020_FG>
+<Max_x0020_FG>1.030</Max_x0020_FG>
+<Min_x0020_ABV>8.0%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English IPA</Beer_x0020_Style>
+<Category_x0020_Number>12</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>12C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Commonwealth Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>60</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English Porter</Beer_x0020_Style>
+<Category_x0020_Number>13</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>13C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Brown British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Festbier</Beer_x0020_Style>
+<Category_x0020_Number>4</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>4B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.054</Min_x0020_OG>
+<Max_x0020_OG>1.057</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>5.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Flanders Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>23B</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.057</Max_x0020_OG>
+<Min_x0020_FG>1.002</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>16</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Foreign Extra Stout</Beer_x0020_Style>
+<Category_x0020_Number>16</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>16D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Fruit &amp; Spice Beer</Beer_x0020_Style>
+<Category_x0020_Number>29</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>29B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Fruit Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Fruit Beer</Beer_x0020_Style>
+<Category_x0020_Number>29</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>29A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Fruit Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.000</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Fruit Lambic</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>F</Style_x0020_Letter>
+<Style_x0020__x0023_>23F</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>10</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German Helles Exportbier</Beer_x0020_Style>
+<Category_x0020_Number>5</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>5C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.015</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German Leichtbier</Beer_x0020_Style>
+<Category_x0020_Number>5</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>5A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.026</Min_x0020_OG>
+<Max_x0020_OG>1.034</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>2.4%</Min_x0020_ABV>
+<Max_x0020_ABV>3.6%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German Pils</Beer_x0020_Style>
+<Category_x0020_Number>5</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>5D</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.050</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.2%</Max_x0020_ABV>
+<Min_x0020_IBU>22</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Gose</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>27A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>4.8%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>12</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Gueuze</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>E</Style_x0020_Letter>
+<Style_x0020__x0023_>23E</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.000</Min_x0020_FG>
+<Max_x0020_FG>1.006</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>10</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Helles Bock</Beer_x0020_Style>
+<Category_x0020_Number>4</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>4C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.064</Min_x0020_OG>
+<Max_x0020_OG>1.072</Max_x0020_OG>
+<Min_x0020_FG>1.011</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.4%</Max_x0020_ABV>
+<Min_x0020_IBU>23</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>11</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Imperial Stout</Beer_x0020_Style>
+<Category_x0020_Number>20</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>20C</Style_x0020__x0023_>
+<BJCP_x0020_Category>American Porter &amp; Stout</BJCP_x0020_Category>
+<Min_x0020_OG>1.075</Min_x0020_OG>
+<Max_x0020_OG>1.115</Max_x0020_OG>
+<Min_x0020_FG>1.018</Min_x0020_FG>
+<Max_x0020_FG>1.030</Max_x0020_FG>
+<Min_x0020_ABV>8.0%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>90</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>International Amber Lager</Beer_x0020_Style>
+<Category_x0020_Number>2</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>2B</Style_x0020__x0023_>
+<BJCP_x0020_Category>International Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.042</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>7</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>International Dark Lager</Beer_x0020_Style>
+<Category_x0020_Number>2</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>2C</Style_x0020__x0023_>
+<BJCP_x0020_Category>International Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>International Pale Lager</Beer_x0020_Style>
+<Category_x0020_Number>2</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>2A</Style_x0020__x0023_>
+<BJCP_x0020_Category>International Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.042</Min_x0020_OG>
+<Max_x0020_OG>1.050</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Irish Extra Stout</Beer_x0020_Style>
+<Category_x0020_Number>15</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>15C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.052</Min_x0020_OG>
+<Max_x0020_OG>1.062</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>25</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Irish Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>15</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>15A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.046</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Irish Stout</Beer_x0020_Style>
+<Category_x0020_Number>15</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>15B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.044</Max_x0020_OG>
+<Min_x0020_FG>1.007</Min_x0020_FG>
+<Max_x0020_FG>1.011</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>4.5%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>25</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Kentucky Common</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>27A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>20</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Kolsch</Beer_x0020_Style>
+<Category_x0020_Number>5</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>5B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.050</Max_x0020_OG>
+<Min_x0020_FG>1.007</Min_x0020_FG>
+<Max_x0020_FG>1.011</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.2%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>3.5</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Lambic</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>D</Style_x0020_Letter>
+<Style_x0020__x0023_>23D</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.001</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>10</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Lichtenhainer</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>27A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.032</Min_x0020_OG>
+<Max_x0020_OG>1.040</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>4.7%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>12</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Marzen</Beer_x0020_Style>
+<Category_x0020_Number>6</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>6A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.054</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>24</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>17</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Mixed Fermentation Sour Beer</Beer_x0020_Style>
+<Category_x0020_Number>28</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>28B</Style_x0020__x0023_>
+<BJCP_x0020_Category>American Wild Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.000</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Munich Dunkel</Beer_x0020_Style>
+<Category_x0020_Number>8</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>8A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>28</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Munich Helles</Beer_x0020_Style>
+<Category_x0020_Number>4</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>4A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Pale Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.7%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>16</Min_x0020_IBU>
+<Max_x0020_IBU>22</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Oatmeal Stout</Beer_x0020_Style>
+<Category_x0020_Number>16</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>16B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.065</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>5.9%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>22</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Old Ale</Beer_x0020_Style>
+<Category_x0020_Number>17</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>17B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong British Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.055</Min_x0020_OG>
+<Max_x0020_OG>1.088</Max_x0020_OG>
+<Min_x0020_FG>1.015</Min_x0020_FG>
+<Max_x0020_FG>1.022</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>9.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>60</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Ordinary Bitter</Beer_x0020_Style>
+<Category_x0020_Number>11</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>11A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.039</Max_x0020_OG>
+<Min_x0020_FG>1.007</Min_x0020_FG>
+<Max_x0020_FG>1.011</Max_x0020_FG>
+<Min_x0020_ABV>3.2%</Min_x0020_ABV>
+<Max_x0020_ABV>3.8%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Oud Bruin</Beer_x0020_Style>
+<Category_x0020_Number>23</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>23C</Style_x0020__x0023_>
+<BJCP_x0020_Category>European Sour Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.074</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>15</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Pale Kellerbier</Beer_x0020_Style>
+<Category_x0020_Number>7</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>7C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.051</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.7%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Piwo Grodziskie</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>E</Style_x0020_Letter>
+<Style_x0020__x0023_>27E</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.032</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>2.5%</Min_x0020_ABV>
+<Max_x0020_ABV>3.3%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Pre-Prohibition Porter</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>G</Style_x0020_Letter>
+<Style_x0020__x0023_>27G</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.046</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>18</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Rauchbier</Beer_x0020_Style>
+<Category_x0020_Number>6</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>6B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Malty European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.057</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Red IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.070</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Roggenbier</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>H</Style_x0020_Letter>
+<Style_x0020__x0023_>27H</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.046</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Rye IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>75</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Sahti</Beer_x0020_Style>
+<Category_x0020_Number>27</Category_x0020_Number>
+<Style_x0020_Letter>I</Style_x0020_Letter>
+<Style_x0020__x0023_>27I</Style_x0020__x0023_>
+<BJCP_x0020_Category>Historical Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.076</Min_x0020_OG>
+<Max_x0020_OG>1.120</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.020</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>11.0%</Max_x0020_ABV>
+<Min_x0020_IBU>7</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Saison</Beer_x0020_Style>
+<Category_x0020_Number>25</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>25B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong Belgian Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.065</Max_x0020_OG>
+<Min_x0020_FG>1.002</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>9.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Schwarzbier</Beer_x0020_Style>
+<Category_x0020_Number>8</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>8B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark European Lager</BJCP_x0020_Category>
+<Min_x0020_OG>1.046</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>17</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish Export</Beer_x0020_Style>
+<Category_x0020_Number>14</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>14C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Scottish Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.9%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>13</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish Heavy</Beer_x0020_Style>
+<Category_x0020_Number>14</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>14B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Scottish Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.035</Min_x0020_OG>
+<Max_x0020_OG>1.040</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.015</Max_x0020_FG>
+<Min_x0020_ABV>3.2%</Min_x0020_ABV>
+<Max_x0020_ABV>3.9%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>13</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish Light</Beer_x0020_Style>
+<Category_x0020_Number>14</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>14A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Scottish Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.035</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.013</Max_x0020_FG>
+<Min_x0020_ABV>2.5%</Min_x0020_ABV>
+<Max_x0020_ABV>3.2%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>17</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Specialty Fruit Beer</Beer_x0020_Style>
+<Category_x0020_Number>29</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>29C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Fruit Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Specialty IPA</Beer_x0020_Style>
+<Category_x0020_Number>21</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>21B</Style_x0020__x0023_>
+<BJCP_x0020_Category>IPA</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>3.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Specialty Smoked Beer</Beer_x0020_Style>
+<Category_x0020_Number>32</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>32B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Smoked Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Specialty Wood Aged Beer</Beer_x0020_Style>
+<Category_x0020_Number>33</Category_x0020_Number>
+<Style_x0020_Letter>B</Style_x0020_Letter>
+<Style_x0020__x0023_>33B</Style_x0020__x0023_>
+<BJCP_x0020_Category>Wood Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Spice, Herb or Vegetable Beer</Beer_x0020_Style>
+<Category_x0020_Number>30</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>30A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Spiced Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.020</Min_x0020_OG>
+<Max_x0020_OG>1.090</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>2.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Strong Bitter</Beer_x0020_Style>
+<Category_x0020_Number>11</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>11C</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>6.2%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Sweet Stout</Beer_x0020_Style>
+<Category_x0020_Number>16</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>16A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.060</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Trappist Single</Beer_x0020_Style>
+<Category_x0020_Number>26</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>26A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Trappist Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.010</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Tropical Stout</Beer_x0020_Style>
+<Category_x0020_Number>16</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>16C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Dark British Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>8.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Vienna Lager</Beer_x0020_Style>
+<Category_x0020_Number>7</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>7A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Amber Bitter European Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.7%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Wee Heavy</Beer_x0020_Style>
+<Category_x0020_Number>17</Category_x0020_Number>
+<Style_x0020_Letter>C</Style_x0020_Letter>
+<Style_x0020__x0023_>17C</Style_x0020__x0023_>
+<BJCP_x0020_Category>Strong British Ale</BJCP_x0020_Category>
+<Min_x0020_OG>1.070</Min_x0020_OG>
+<Max_x0020_OG>1.130</Max_x0020_OG>
+<Min_x0020_FG>1.018</Min_x0020_FG>
+<Max_x0020_FG>1.040</Max_x0020_FG>
+<Min_x0020_ABV>6.5%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>17</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>10</Category_x0020_Number>
+<Style_x0020_Letter>A</Style_x0020_Letter>
+<Style_x0020__x0023_>10A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Wheat Beer</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.010</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>BJCP</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>-AHA-</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>#N/A</BJCP_x0020_Category>
+<Min_x0020_OG>#N/A</Min_x0020_OG>
+<Max_x0020_OG>#N/A</Max_x0020_OG>
+<Min_x0020_FG>#N/A</Min_x0020_FG>
+<Max_x0020_FG>#N/A</Max_x0020_FG>
+<Min_x0020_ABV>#N/A</Min_x0020_ABV>
+<Max_x0020_ABV>#N/A</Max_x0020_ABV>
+<Min_x0020_IBU>#N/A</Min_x0020_IBU>
+<Max_x0020_IBU>#N/A</Max_x0020_IBU>
+<Min_x0020_SRM>#N/A</Min_x0020_SRM>
+<Max_x0020_SRM>#N/A</Max_x0020_SRM>
+<Guide>#N/A</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Ordinary Bitter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.033</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>3.0%</Min_x0020_ABV>
+<Max_x0020_ABV>4.1%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>12</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Special/Best Bitter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.045</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>4.8%</Max_x0020_ABV>
+<Min_x0020_IBU>28</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>ESB</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.046</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.8%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish-Style Light Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.035</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>2.8%</Min_x0020_ABV>
+<Max_x0020_ABV>3.5%</Max_x0020_ABV>
+<Min_x0020_IBU>9</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish-Style Heavy Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.035</Min_x0020_OG>
+<Max_x0020_OG>1.04</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>4.0%</Max_x0020_ABV>
+<Min_x0020_IBU>12</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scottish-Style Export Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English-Style Summer Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>3.6%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English-Style Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>12</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English IPA</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.064</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>7.0%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>63</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.125</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.04</Max_x0020_FG>
+<Min_x0020_ABV>6.9%</Min_x0020_ABV>
+<Max_x0020_ABV>11.1%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>65</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>21</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Old Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.058</Min_x0020_OG>
+<Max_x0020_OG>1.088</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.03</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>9.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>65</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English-Style Pale Mild Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.036</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.4%</Min_x0020_ABV>
+<Max_x0020_ABV>4.3%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English-Style Dark Mild Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.030</Min_x0020_OG>
+<Max_x0020_OG>1.036</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.4%</Min_x0020_ABV>
+<Max_x0020_ABV>4.3%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>24</Max_x0020_IBU>
+<Min_x0020_SRM>17</Min_x0020_SRM>
+<Max_x0020_SRM>34</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>English-Style Brown Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>5.9%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Brown Porter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.9%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>35</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Robust Porter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>30</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Sweet Stout or Cream Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>3.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>150</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Oatmeal Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>60</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Scotch Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.072</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.028</Max_x0020_FG>
+<Min_x0020_ABV>6.5%</Min_x0020_ABV>
+<Max_x0020_ABV>8.4%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>15</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>British-Style Imperial Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.1</Max_x0020_OG>
+<Min_x0020_FG>1.02</Min_x0020_FG>
+<Max_x0020_FG>1.03</Max_x0020_FG>
+<Min_x0020_ABV>6.9%</Min_x0020_ABV>
+<Max_x0020_ABV>11.9%</Max_x0020_ABV>
+<Min_x0020_IBU>45</Min_x0020_IBU>
+<Max_x0020_IBU>65</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>British-Style Barley Wine Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>British Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.085</Min_x0020_OG>
+<Max_x0020_OG>1.12</Max_x0020_OG>
+<Min_x0020_FG>1.024</Min_x0020_FG>
+<Max_x0020_FG>1.028</Max_x0020_FG>
+<Min_x0020_ABV>8.4%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>60</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Irish-Style Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>4.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Irish-Style Dry Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Foreign (Export)-Style Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Irish Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.052</Min_x0020_OG>
+<Max_x0020_OG>1.072</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>5.6%</Min_x0020_ABV>
+<Max_x0020_ABV>9.4%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>60</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Golden or Blonde Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Amber/Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.058</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Strong Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.5%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>40</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style India Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Pale American-Belgo-Style Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dark American-Belgo-Style Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>16</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Brown Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>15</Min_x0020_SRM>
+<Max_x0020_SRM>26</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Black Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.056</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>70</Max_x0020_IBU>
+<Min_x0020_SRM>35</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Imperial Stout</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.1</Max_x0020_OG>
+<Min_x0020_FG>1.02</Min_x0020_FG>
+<Max_x0020_FG>1.03</Max_x0020_FG>
+<Min_x0020_ABV>6.9%</Min_x0020_ABV>
+<Max_x0020_ABV>11.9%</Max_x0020_ABV>
+<Min_x0020_IBU>50</Min_x0020_IBU>
+<Max_x0020_IBU>80</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Imperial Porter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.1</Max_x0020_OG>
+<Min_x0020_FG>1.02</Min_x0020_FG>
+<Max_x0020_FG>1.03</Max_x0020_FG>
+<Min_x0020_ABV>6.9%</Min_x0020_ABV>
+<Max_x0020_ABV>11.9%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Imperial or Double India Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.075</Min_x0020_OG>
+<Max_x0020_OG>1.1</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>7.5%</Min_x0020_ABV>
+<Max_x0020_ABV>10.5%</Max_x0020_ABV>
+<Min_x0020_IBU>65</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>16</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Imperial or Double Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.080</Min_x0020_OG>
+<Max_x0020_OG>1.1</Max_x0020_OG>
+<Min_x0020_FG>1.02</Min_x0020_FG>
+<Max_x0020_FG>1.028</Max_x0020_FG>
+<Min_x0020_ABV>7.9%</Min_x0020_ABV>
+<Max_x0020_ABV>10.5%</Max_x0020_ABV>
+<Min_x0020_IBU>55</Min_x0020_IBU>
+<Max_x0020_IBU>85</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>17</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Barley Wine Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.090</Min_x0020_OG>
+<Max_x0020_OG>1.12</Max_x0020_OG>
+<Min_x0020_FG>1.024</Min_x0020_FG>
+<Max_x0020_FG>1.028</Max_x0020_FG>
+<Min_x0020_ABV>8.4%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>60</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Wheat Wine Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.088</Min_x0020_OG>
+<Max_x0020_OG>1.12</Max_x0020_OG>
+<Min_x0020_FG>1.024</Min_x0020_FG>
+<Max_x0020_FG>1.032</Max_x0020_FG>
+<Min_x0020_ABV>8.4%</Min_x0020_ABV>
+<Max_x0020_ABV>12.0%</Max_x0020_ABV>
+<Min_x0020_IBU>45</Min_x0020_IBU>
+<Max_x0020_IBU>85</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Smoke Porter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.0%</Min_x0020_ABV>
+<Max_x0020_ABV>8.8%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Brett Beer</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Sour Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Kölsch/Köln-Style Kölsch</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.042</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Altbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.5%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>52</Max_x0020_IBU>
+<Min_x0020_SRM>11</Min_x0020_SRM>
+<Max_x0020_SRM>19</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Kellerbier (Cellar beer) or Zwickelbier - Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Berliner-Style Weisse (Wheat)</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.032</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.006</Max_x0020_FG>
+<Min_x0020_ABV>2.8%</Min_x0020_ABV>
+<Max_x0020_ABV>3.4%</Max_x0020_ABV>
+<Min_x0020_IBU>3</Min_x0020_IBU>
+<Max_x0020_IBU>6</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Leipzig-Style Gose</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>South German-Style Hefeweizen/Hefeweissbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.047</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.9%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>South German-Style Kristal Weizen/Kristal Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.047</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.9%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Leichtes Weizen/Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.044</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>2.5%</Min_x0020_ABV>
+<Max_x0020_ABV>3.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>3.5</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>South German-Style Bernsteinfarbenes Weizen/Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>13</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>South German-Style Dunkel Weizen/Dunkel Weissbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>10</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>South German-Style Weizenbock/Weissbock</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.066</Min_x0020_OG>
+<Max_x0020_OG>1.08</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.028</Max_x0020_FG>
+<Min_x0020_ABV>6.9%</Min_x0020_ABV>
+<Max_x0020_ABV>9.4%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>4.5</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Bamberg-Style Weiss Rauchbier (smoked Helles or Dunkel)</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>German Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.047</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.9%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>18</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Blonde Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.054</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>12</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Pale Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.064</Min_x0020_OG>
+<Max_x0020_OG>1.096</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>11.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>3.5</Min_x0020_SRM>
+<Max_x0020_SRM>10</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Dark Strong Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.064</Min_x0020_OG>
+<Max_x0020_OG>1.096</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>11.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>35</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Dubbel</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.075</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.5%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>16</Min_x0020_SRM>
+<Max_x0020_SRM>36</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Tripel</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.070</Min_x0020_OG>
+<Max_x0020_OG>1.092</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>10.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Quadrupel</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.084</Min_x0020_OG>
+<Max_x0020_OG>1.12</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>9.0%</Min_x0020_ABV>
+<Max_x0020_ABV>14.0%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>20</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>French-Style Bière de Garde</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.060</Min_x0020_OG>
+<Max_x0020_OG>1.08</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>7.9%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>7</Min_x0020_SRM>
+<Max_x0020_SRM>16</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>French &amp; Belgian-Style Saison</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.055</Min_x0020_OG>
+<Max_x0020_OG>1.08</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>8.3%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Flanders Oud Bruin or Oud Red Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.5%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style White (or Wit)/Belgian-Style Wheat</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.5%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>17</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Lambic</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.047</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>8.2%</Max_x0020_ABV>
+<Min_x0020_IBU>9</Min_x0020_IBU>
+<Max_x0020_IBU>23</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>13</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Gueuze Lambic</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>7.0%</Min_x0020_ABV>
+<Max_x0020_ABV>8.9%</Max_x0020_ABV>
+<Min_x0020_IBU>11</Min_x0020_IBU>
+<Max_x0020_IBU>23</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>13</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Fruit Lambic</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.072</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>5.7%</Min_x0020_ABV>
+<Max_x0020_ABV>8.9%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>21</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>20</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Other Belgian-Style Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Belgian-Style Table Beer</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Belgian and French Origin Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.008</Min_x0020_OG>
+<Max_x0020_OG>1.038</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.034</Max_x0020_FG>
+<Min_x0020_ABV>0.5%</Min_x0020_ABV>
+<Max_x0020_ABV>3.5%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Grodziskie</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.028</Min_x0020_OG>
+<Max_x0020_OG>1.036</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>2.7%</Min_x0020_ABV>
+<Max_x0020_ABV>3.7%</Max_x0020_ABV>
+<Min_x0020_IBU>15</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Adambier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.070</Min_x0020_OG>
+<Max_x0020_OG>1.09</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>9.0%</Min_x0020_ABV>
+<Max_x0020_ABV>11.0%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>50</Max_x0020_IBU>
+<Min_x0020_SRM>15</Min_x0020_SRM>
+<Max_x0020_SRM>35</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dutch-Style Kuit (Kuyt, Koyt)</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.08</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.015</Max_x0020_FG>
+<Min_x0020_ABV>4.7%</Min_x0020_ABV>
+<Max_x0020_ABV>7.9%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>12.5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Australian-Style Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>4.2%</Min_x0020_ABV>
+<Max_x0020_ABV>6.2%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>International-Style Pale Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Ale Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.4%</Min_x0020_ABV>
+<Max_x0020_ABV>6.6%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>42</Max_x0020_IBU>
+<Min_x0020_SRM>5</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Pilsener</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.055</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Bohemian-Style Pilsener</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>30</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>7</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Münchner (Munich)-Style Helles</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>5.5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dortmunder/European-Style Export</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.1%</Max_x0020_ABV>
+<Min_x0020_IBU>23</Min_x0020_IBU>
+<Max_x0020_IBU>29</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Vienna-Style Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.046</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>22</Min_x0020_IBU>
+<Max_x0020_IBU>28</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>26</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Märzen</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>5.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Oktoberfest/Wiezen</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>5.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.1%</Max_x0020_ABV>
+<Min_x0020_IBU>23</Min_x0020_IBU>
+<Max_x0020_IBU>29</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>European-Style Dark/Münchner Dunkel</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.048</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>16</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>15</Min_x0020_SRM>
+<Max_x0020_SRM>20</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Schwarzbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>4.9%</Max_x0020_ABV>
+<Min_x0020_IBU>22</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>25</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>European Low-Alcohol Lager/German Leicht(bier)</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.026</Min_x0020_OG>
+<Max_x0020_OG>1.034</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>2.5%</Min_x0020_ABV>
+<Max_x0020_ABV>3.7%</Max_x0020_ABV>
+<Min_x0020_IBU>16</Min_x0020_IBU>
+<Max_x0020_IBU>24</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Bamberg-Style Helles Rauchbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>5.5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Bamberg-Style Märzen Rauchbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>5.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Bamberg-Style Bock Rauchbier</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.066</Min_x0020_OG>
+<Max_x0020_OG>1.074</Max_x0020_OG>
+<Min_x0020_FG>1.018</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.6%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Heller Bock/Maibock</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.066</Min_x0020_OG>
+<Max_x0020_OG>1.074</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>8.1%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>38</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>9</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Traditional German-Style Bock</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.066</Min_x0020_OG>
+<Max_x0020_OG>1.074</Max_x0020_OG>
+<Min_x0020_FG>1.018</Min_x0020_FG>
+<Max_x0020_FG>1.024</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.6%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>20</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Doppelbock</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.074</Min_x0020_OG>
+<Max_x0020_OG>1.08</Max_x0020_OG>
+<Min_x0020_FG>1.014</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>6.6%</Min_x0020_ABV>
+<Max_x0020_ABV>7.9%</Max_x0020_ABV>
+<Min_x0020_IBU>17</Min_x0020_IBU>
+<Max_x0020_IBU>27</Max_x0020_IBU>
+<Min_x0020_SRM>12</Min_x0020_SRM>
+<Max_x0020_SRM>30</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>German-Style Eisbock</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.074</Min_x0020_OG>
+<Max_x0020_OG>1.116</Max_x0020_OG>
+<Min_x0020_FG>0</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>8.6%</Min_x0020_ABV>
+<Max_x0020_ABV>14.3%</Max_x0020_ABV>
+<Min_x0020_IBU>26</Min_x0020_IBU>
+<Max_x0020_IBU>33</Max_x0020_IBU>
+<Min_x0020_SRM>18</Min_x0020_SRM>
+<Max_x0020_SRM>50</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Kellerbier (Cellar beer) or Zwickelbier - Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>European-Germanic Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.048</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>5</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Light (Low Calorie) &amp; Low Carbohydrate Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.024</Min_x0020_OG>
+<Max_x0020_OG>1.04</Max_x0020_OG>
+<Min_x0020_FG>0.992</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>4.4%</Max_x0020_ABV>
+<Min_x0020_IBU>4</Min_x0020_IBU>
+<Max_x0020_IBU>10</Max_x0020_IBU>
+<Min_x0020_SRM>1.5</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Amber (Low Calorie) Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.024</Min_x0020_OG>
+<Max_x0020_OG>1.04</Max_x0020_OG>
+<Min_x0020_FG>1.002</Min_x0020_FG>
+<Max_x0020_FG>1.008</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>4.4%</Max_x0020_ABV>
+<Min_x0020_IBU>8</Min_x0020_IBU>
+<Max_x0020_IBU>15</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>12</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Pilsener</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.9%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>25</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>6</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Ice Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.014</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>6.3%</Max_x0020_ABV>
+<Min_x0020_IBU>7</Min_x0020_IBU>
+<Max_x0020_IBU>20</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>8</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Malt Liquor</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>6.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.6%</Max_x0020_ABV>
+<Min_x0020_IBU>12</Min_x0020_IBU>
+<Max_x0020_IBU>23</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Amber Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.042</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.4%</Max_x0020_ABV>
+<Min_x0020_IBU>18</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>6</Min_x0020_SRM>
+<Max_x0020_SRM>14</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Màrzen/Oktoberfest</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.050</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.012</Min_x0020_FG>
+<Max_x0020_FG>1.02</Max_x0020_FG>
+<Min_x0020_ABV>5.1%</Min_x0020_ABV>
+<Max_x0020_ABV>6.0%</Max_x0020_ABV>
+<Min_x0020_IBU>20</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Dark Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>North American Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.012</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>14</Min_x0020_IBU>
+<Max_x0020_IBU>24</Max_x0020_IBU>
+<Min_x0020_SRM>14</Min_x0020_SRM>
+<Max_x0020_SRM>25</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Baltic-Style Porter</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.072</Min_x0020_OG>
+<Max_x0020_OG>1.085</Max_x0020_OG>
+<Min_x0020_FG>1.016</Min_x0020_FG>
+<Max_x0020_FG>1.022</Max_x0020_FG>
+<Min_x0020_ABV>7.6%</Min_x0020_ABV>
+<Max_x0020_ABV>9.1%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>40</Max_x0020_IBU>
+<Min_x0020_SRM>40</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Australasian, Latin American or Tropical-Style Light Lager</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.038</Min_x0020_OG>
+<Max_x0020_OG>1.046</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.1%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>9</Min_x0020_IBU>
+<Max_x0020_IBU>18</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>International-Style Pilsener</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>Other Origin Lager Styles</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>5.3%</Max_x0020_ABV>
+<Min_x0020_IBU>17</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>3</Min_x0020_SRM>
+<Max_x0020_SRM>4</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Session Beer</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.034</Min_x0020_OG>
+<Max_x0020_OG>1.04</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.0%</Min_x0020_ABV>
+<Max_x0020_ABV>5.0%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>30</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>40</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>American-Style Cream Ale</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.044</Min_x0020_OG>
+<Max_x0020_OG>1.052</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.01</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>5.7%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>22</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>5</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>California Common Beer</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.045</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.01</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.6%</Min_x0020_ABV>
+<Max_x0020_ABV>5.7%</Max_x0020_ABV>
+<Min_x0020_IBU>35</Min_x0020_IBU>
+<Max_x0020_IBU>45</Max_x0020_IBU>
+<Min_x0020_SRM>8</Min_x0020_SRM>
+<Max_x0020_SRM>15</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Light American Wheat Beer with Yeast</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.056</Max_x0020_OG>
+<Min_x0020_FG>1.006</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>3.5%</Min_x0020_ABV>
+<Max_x0020_ABV>5.6%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>10</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Light American Wheat Beer without Yeast</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>10</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dark American Wheat Beer with Yeast</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Dark American Wheat Beer without Yeast</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>9</Min_x0020_SRM>
+<Max_x0020_SRM>22</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Fruit Wheat Beer with or without Yeast</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.036</Min_x0020_OG>
+<Max_x0020_OG>1.05</Max_x0020_OG>
+<Min_x0020_FG>1.004</Min_x0020_FG>
+<Max_x0020_FG>1.016</Max_x0020_FG>
+<Min_x0020_ABV>3.8%</Min_x0020_ABV>
+<Max_x0020_ABV>5.1%</Max_x0020_ABV>
+<Min_x0020_IBU>10</Min_x0020_IBU>
+<Max_x0020_IBU>25</Max_x0020_IBU>
+<Min_x0020_SRM>2</Min_x0020_SRM>
+<Max_x0020_SRM>10</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Japanese Sake-Yeast Beer</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.040</Min_x0020_OG>
+<Max_x0020_OG>1.06</Max_x0020_OG>
+<Min_x0020_FG>1.008</Min_x0020_FG>
+<Max_x0020_FG>1.018</Max_x0020_FG>
+<Min_x0020_ABV>4.3%</Min_x0020_ABV>
+<Max_x0020_ABV>7.1%</Max_x0020_ABV>
+<Min_x0020_IBU>12</Min_x0020_IBU>
+<Max_x0020_IBU>35</Max_x0020_IBU>
+<Min_x0020_SRM>4</Min_x0020_SRM>
+<Max_x0020_SRM>20</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+<Styles>
+<Beer_x0020_Style>Other</Beer_x0020_Style>
+<Category_x0020_Number>#N/A</Category_x0020_Number>
+<Style_x0020_Letter>#N/A</Style_x0020_Letter>
+<Style_x0020__x0023_>#N/A</Style_x0020__x0023_>
+<BJCP_x0020_Category>All Origin Hybrid/Mixed Lagers or Ales</BJCP_x0020_Category>
+<Min_x0020_OG>1.000</Min_x0020_OG>
+<Max_x0020_OG>2</Max_x0020_OG>
+<Min_x0020_FG>1</Min_x0020_FG>
+<Max_x0020_FG>2</Max_x0020_FG>
+<Min_x0020_ABV>0.0%</Min_x0020_ABV>
+<Max_x0020_ABV>100.0%</Max_x0020_ABV>
+<Min_x0020_IBU>0</Min_x0020_IBU>
+<Max_x0020_IBU>100</Max_x0020_IBU>
+<Min_x0020_SRM>0</Min_x0020_SRM>
+<Max_x0020_SRM>100</Max_x0020_SRM>
+<Guide>AHA</Guide>
+</Styles>
+</dataroot>
