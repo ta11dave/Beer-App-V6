@@ -29,43 +29,43 @@ class recipe:
 	def update_name(self, myname):
 		self.name = myname
 
-	def add_fermentable(self, myfermentable):
-		x = input("What how many oz? ")
-		self.fermentables.append((myfermentable, x))
+	def add_fermentable(self, myfermentable, amt):
+		self.fermentables.append((myfermentable, amt))
 
 	def remove_fermentable(self, myfermentable):
 		for ferm in self.fermentables:
 			if ferm[0] == myfermentable:
-				self.fermentables.remove(myfermentable)
+				self.fermentables.remove(ferm)
 
-	def add_hop(self, myhop):
-		x = input("What how many oz? ")
-		y = input("What long in the boil? ")
-		self.hops.append((myhop, x, y))
+	def add_hop(self, myhop, amt, minutes):
+		self.hops.append((myhop, amt, minutes))
 
 	def remove_hop(self, myhop):
+		whichitem = 0
+		#input the name of the hop only
 		for ahop in self.hops:
+			print(ahop[0], myhop)
 			if ahop[0] == myhop:
-				self.hops.remove(myhop)
+				self.hops.remove(ahop)
 
-	def update_yeast(self, myyeast):
+	def update_yeast(self, myyeast, amt):
 		self.yeast = myyeast
 
-	def add_mashstep(self, mymashsteps):
-		self.mashsteps.append(mymashsteps)
+	def add_mashstep(self, mymashsteps, temp, minutes):
+		self.mashsteps.append((mymashsteps, temp, minutes))
 
 	def remove_mashstep(self, mymashstep):
 		for amashstep in self.mashsteps:
 			if amashstep[0] == mymashstep:
-				self.mashsteps.remove(mymashstep)
+				self.mashsteps.remove(amashstep)
 
-	def add_adjunct(self, myadjuncts):
-		self.adjuncts.append(myadjuncts)
+	def add_adjunct(self, myadjuncts, amt, minutes):
+		self.adjuncts.append((myadjuncts, amt, minutes))
 
 	def remove_adjunct(self, myadjunct):
 		for aadjunct in self.adjuncts:
 			if aadjunct[0] == myadjunct:
-				self.adjuncts.remove(myadjunct)
+				self.adjuncts.remove(aadjunct)
 
 	def update_water(self, Ca, Mg, SO4, Na, Cl, HCO3):
 		self.water = [Ca, Mg, SO4, Na, Cl, HCO3]
@@ -74,13 +74,13 @@ class recipe:
 		print('**' + self.name + '**')
 		print("Fermentables: ")
 		for x in self.fermentables:
-			print(x[0].name, x[1])
+			print(x[0], x[1])
 		print("Hops: ")
 		for x in self.hops:
-			print(x[0].name, x[1], x[2])
+			print(x[0], x[1], x[2])
 		print("Mash Steps: ")
 		for x in self.mashsteps:
-			print(x)
+			print(x[0], x[1], x[2])
 		print("Adjuncts: ")
 		for x in self.adjuncts:
 			print(x)
@@ -94,10 +94,14 @@ class recipe:
 		print("  Cl: " + str(self.water[4]))
 		print("  HCO3: " + str(self.water[5]))
 
-#tests
-db.load_all()
-testrecipe = recipe("My beer")
-testrecipe.show()
-#print("X")
-#testrecipe.add_hop(db.hops[0])
-#testrecipe.show()
+#testing stuff
+def test_me():
+	db.load_all()
+	testrecipe = recipe("My beer")
+	testrecipe.add_fermentable("2-row", 3.125)
+	testrecipe.add_hop("Citra", "5 oz", "whirlpool")
+	testrecipe.add_mashstep("Saccrification", 67, 16)
+	return testrecipe
+
+
+

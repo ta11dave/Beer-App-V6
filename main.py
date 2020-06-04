@@ -5,7 +5,7 @@ import databases
 
 def main(args):
 	#load databases
-	databases.update_data_on_load()
+	databases.load_all()
 	eel_gui
 
 if __name__ == '__main__':

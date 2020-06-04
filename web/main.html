@@ -1,16 +1,25 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link rel="stylesheet" type="text/css" href="mainstyle.css">
-</head>
-<body>
-
-<form class = "box" action = "index.html" method = "GET">
-	<h1>Who is making a recipe?</h1>
-	<input type="text" name="1" placeholder="Brewer">
-	<input type="text" name="2" placeholder="Co-Brewer">
-	<input type="submit" name="" value="Login">
-</form>
-
-</body>
+    <head>
+        <title>Beer App V6</title>
+        
+        <!-- Include eel.js - note this file doesn't exist in the 'web' directory -->
+        <script type="text/javascript" src="/eel.js"></script>
+        <script type="text/javascript">
+        
+        eel.expose(say_hello_js);               // Expose this function to Python
+        function say_hello_js(x) {
+            console.log("Hello from " + x);
+        }
+        
+        say_hello_js("Javascript World!");
+        eel.say_hello_py("Javascript World!");  // Call a Python function
+	// eel.python_function();
+        
+        </script>
+    </head>
+    
+    <body>
+        <p>Hello, World!</p>
+    </body>
 </html>

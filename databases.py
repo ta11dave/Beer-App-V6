@@ -1,6 +1,4 @@
-"""#grab the data from the json files. If the data 
-changes, the json files should have the oppurtunity
-to be updated."""
+"""Well, the databases are currently xml files."""
 import xml.etree.ElementTree as ET
 
 malts = []
@@ -9,6 +7,8 @@ styles = []
 waters = []
 yeasts = []
 mashsteps = []
+malt_names = []
+hop_names = []
 
 #=====================================================================
 #classes for holding the values
@@ -144,9 +144,19 @@ def load_styles():
 		myobj = style(child[0].text, child[1].text, child[2].text, child[3].text, child[4].text, child[5].text, child[6].text, child[7].text, child[8].text, child[9].text, child[10].text, child[11].text, child[12].text, child[13].text, child[14].text, child[15].text)
 		styles.append(myobj)
 
+def get_malt_names():
+	for each in malts:
+		malt_names.append(each.name)
+
+def get_hop_names():
+	for each in hops:
+		hop_names.append(each.name)
+
 def load_all():
 	load_water()
 	load_ferms()
 	load_hops()
 	load_yeasts()
 	load_styles()
+	get_malt_names()
+	get_hop_names()

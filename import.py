@@ -1,6 +1,6 @@
 #shamelessly steal the vba module and convert to python
 #give option to load ALL recipes
-
+import recipes as rp
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 

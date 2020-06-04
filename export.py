@@ -1,153 +1,153 @@
 #shamelessly steal the vba module and convert to python
 import recipes
 
-
 filename = "blah.xml"
 myfile = open(filename, "w+")
 
 #myfile.write("<?xml version=" & Chr(34) & "1.0" & Chr(34) & " encoding=" & Chr(34) & "ISO-8859-1" & Chr(34) & "?>")
 myfile.write("<RECIPES>")
 
-#for each recipe in the array recipes.
-myfile.write("<RECIPE>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION></VERSION>")
-myfile.write("<TYPE></TYPE>")
-myfile.write("<BREWER></BREWER>")
-myfile.write("<BATCH_SIZE></BATCH_SIZE>")
-myfile.write("<BOIL_SIZE></BOIL_SIZE>")
-myfile.write("<BOIL_TIME></BOIL_TIME>")
-myfile.write("<EFFICIENCY>""</EFFICIENCY>")
-myfile.write("<TASTE_NOTES>""</TASTE_NOTES>")
+for aRecipe in recipes.recipes:
+	#for each recipe in the array recipes.
+	myfile.write("<RECIPE>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<TYPE></TYPE>")
+	myfile.write("<BREWER></BREWER>")
+	myfile.write("<BATCH_SIZE></BATCH_SIZE>")
+	myfile.write("<BOIL_SIZE></BOIL_SIZE>")
+	myfile.write("<BOIL_TIME></BOIL_TIME>")
+	myfile.write("<EFFICIENCY>""</EFFICIENCY>")
+	myfile.write("<TASTE_NOTES>""</TASTE_NOTES>")
 
-myfile.write("<STYLE>")
-myfile.write("<NAME></NAME>")
-myfile.write("<CATEGORY></CATEGORY>")
-myfile.write("<VERSION></VERSION>")
-myfile.write("<STYLE_GUIDE></STYLE_GUIDE>")
-myfile.write("<TYPE></TYPE>")
-myfile.write("<OG_MIN></OG_MIN>")
-myfile.write("<OG_MAX></OG_MAX>")
-myfile.write("<FG_MIN></FG_MIN>")
-myfile.write("<FG_MAX></FG_MAX>")
-myfile.write("<IBU_MIN></IBU_MIN>")
-myfile.write("<IBU_MAX></IBU_MAX>")
-myfile.write("<COLOR_MIN></COLOR_MIN>")
-myfile.write("<COLOR_MAX></COLOR_MAX>")
-myfile.write("<ABV_MIN></ABV_MIN>")
-myfile.write("<ABV_MAX></ABV_MAX>")
-myfile.write("</STYLE>")
+	myfile.write("<STYLE>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<CATEGORY></CATEGORY>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<STYLE_GUIDE></STYLE_GUIDE>")
+	myfile.write("<TYPE></TYPE>")
+	myfile.write("<OG_MIN></OG_MIN>")
+	myfile.write("<OG_MAX></OG_MAX>")
+	myfile.write("<FG_MIN></FG_MIN>")
+	myfile.write("<FG_MAX></FG_MAX>")
+	myfile.write("<IBU_MIN></IBU_MIN>")
+	myfile.write("<IBU_MAX></IBU_MAX>")
+	myfile.write("<COLOR_MIN></COLOR_MIN>")
+	myfile.write("<COLOR_MAX></COLOR_MAX>")
+	myfile.write("<ABV_MIN></ABV_MIN>")
+	myfile.write("<ABV_MAX></ABV_MAX>")
+	myfile.write("</STYLE>")
 
-#For the mash
-myfile.write("<MASH>")
-myfile.write("<NAME>s Mash Schedule</NAME>")
-myfile.write("<VERSION>1</VERSION>")
-myfile.write("<MASH_STEPS>")
+	#For the mash
+	myfile.write("<MASH>")
+	myfile.write("<NAME>s Mash Schedule</NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<MASH_STEPS>")
 
-#log the mash steps
-myfile.write("<MASH_STEP>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION>1</VERSION>")
+	#log the mash steps
+	myfile.write("<MASH_STEP>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
 
-myfile.write("<TYPE>Infusion</TYPE>")
-myfile.write("<INFUSE_AMOUNT></INFUSE_AMOUNT>")
-myfile.write("<STEP_TEMP></STEP_TEMP>")
-myfile.write("<STEP_TIME></STEP_TIME>")
-myfile.write("</MASH_STEP>")
-myfile.write("</MASH_STEPS>")
-myfile.write("</MASH>")
+	myfile.write("<TYPE>Infusion</TYPE>")
+	myfile.write("<INFUSE_AMOUNT></INFUSE_AMOUNT>")
+	myfile.write("<STEP_TEMP></STEP_TEMP>")
+	myfile.write("<STEP_TIME></STEP_TIME>")
+	myfile.write("</MASH_STEP>")
+	myfile.write("</MASH_STEPS>")
+	myfile.write("</MASH>")
 
 
 
-#For entering the hops
-myfile.write("<HOPS>")
+	#For entering the hops
+	myfile.write("<HOPS>")
 
-#for each hop
-#log the hop
-#If MyCell.Value != "Empty":
-myfile.write("<HOP>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION>1</VERSION>")
-myfile.write("<ALPHA></ALPHA>")
-myfile.write("<AMOUNT></AMOUNT>")
-myfile.write("<USE></USE>")
-#if "Use" = "Dry Hop":
-myfile.write("<TIME></TIME>")
-myfile.write("<DISPLAY_AMOUNT> oz</DISPLAY_AMOUNT>")
-myfile.write("</HOP>")
-myfile.write("</HOPS>")
+	#for each hop
+	#log the hop
+	#If MyCell.Value != "Empty":
+	myfile.write("<HOP>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<ALPHA></ALPHA>")
+	myfile.write("<AMOUNT></AMOUNT>")
+	myfile.write("<USE></USE>")
+	#if "Use" = "Dry Hop":
+	myfile.write("<TIME></TIME>")
+	myfile.write("<DISPLAY_AMOUNT> oz</DISPLAY_AMOUNT>")
+	myfile.write("</HOP>")
+	myfile.write("</HOPS>")
 
-#For entering the malts
-myfile.write("<FERMENTABLES>")
+	#For entering the malts
+	myfile.write("<FERMENTABLES>")
 
-#for each fermentable
-#log the malt
-#if MyCell.Value != "Empty":
-myfile.write("<FERMENTABLE>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION></VERSION>")
-myfile.write("<TYPE>Grain</TYPE>")
-myfile.write("<AMOUNT></AMOUNT>")
-myfile.write("<YIELD></YIELD>")
-myfile.write("<COLOR></COLOR>")
-myfile.write("<ORIGIN></ORIGIN>")
+	#for each fermentable
+	#log the malt
+	#if MyCell.Value != "Empty":
+	myfile.write("<FERMENTABLE>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<TYPE>Grain</TYPE>")
+	myfile.write("<AMOUNT></AMOUNT>")
+	myfile.write("<YIELD></YIELD>")
+	myfile.write("<COLOR></COLOR>")
+	myfile.write("<ORIGIN></ORIGIN>")
 
-myfile.write("</FERMENTABLE>")
-#next
-myfile.write("</FERMENTABLES>")
+	myfile.write("</FERMENTABLE>")
+	#next
+	myfile.write("</FERMENTABLES>")
 
-#Start Misc Additions
-myfile.write("<MISCS>")
+	#Start Misc Additions
+	myfile.write("<MISCS>")
 
-#For Each MyCell In Range(MiscRng)
-#log the adjuncts
-#if MyCell.Value <> "Empty" Then
-myfile.write("<MISC>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION>1</VERSION>")
-myfile.write("<TYPE></TYPE>")
-myfile.write("<USE></USE>")
-myfile.write("<AMOUNT></AMOUNT>") #g or L; idk which
-myfile.write("<AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>")
-myfile.write("<TIME></TIME>")
-myfile.write("<NOTES></NOTES>")
-myfile.write("</MISC>")
-myfile.write("</MISCS>")
+	#For Each MyCell In Range(MiscRng)
+	#log the adjuncts
+	#if MyCell.Value <> "Empty" Then
+	myfile.write("<MISC>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<TYPE></TYPE>")
+	myfile.write("<USE></USE>")
+	myfile.write("<AMOUNT></AMOUNT>") #g or L; idk which
+	myfile.write("<AMOUNT_IS_WEIGHT>TRUE</AMOUNT_IS_WEIGHT>")
+	myfile.write("<TIME></TIME>")
+	myfile.write("<NOTES></NOTES>")
+	myfile.write("</MISC>")
+	myfile.write("</MISCS>")
 
-#Yeast
-myfile.write("<YEASTS>")
-myfile.write("<YEAST>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION></VERSION>")
-myfile.write("<TYPE></TYPE>")
-myfile.write("<FORM></FORM>")
-myfile.write("<AMOUNT>1</AMOUNT>") #lol deal with it
-myfile.write("<LABORATORY></LABORATORY>")
-myfile.write("<PRODUCT_ID></PRODUCT_ID>")
-myfile.write("<MIN_TEMPERATURE></MIN_TEMPERATURE>")
-myfile.write("<MAX_TEMPERATURE></MAX_TEMPERATURE>")
-myfile.write("<FLOCCULATION></FLOCCULATION>")
-myfile.write("<ATTENUATION></ATTENUATION>")
-myfile.write("</YEAST>")
-myfile.write("</YEASTS>")
+	#Yeast
+	myfile.write("<YEASTS>")
+	myfile.write("<YEAST>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<TYPE></TYPE>")
+	myfile.write("<FORM></FORM>")
+	myfile.write("<AMOUNT>1</AMOUNT>") #lol deal with it
+	myfile.write("<LABORATORY></LABORATORY>")
+	myfile.write("<PRODUCT_ID></PRODUCT_ID>")
+	myfile.write("<MIN_TEMPERATURE></MIN_TEMPERATURE>")
+	myfile.write("<MAX_TEMPERATURE></MAX_TEMPERATURE>")
+	myfile.write("<FLOCCULATION></FLOCCULATION>")
+	myfile.write("<ATTENUATION></ATTENUATION>")
+	myfile.write("</YEAST>")
+	myfile.write("</YEASTS>")
 
-#Water
-myfile.write("<WATERS>")
-myfile.write("<WATER>")
-myfile.write("<NAME></NAME>")
-myfile.write("<VERSION></VERSION>")
-myfile.write("<AMOUNT></AMOUNT>")
-myfile.write("<CALCIUM></CALCIUM>")
-myfile.write("<BICARBONATE></BICARBONATE>")
-myfile.write("<SULFATE></SULFATE>")
-myfile.write("<CHLORIDE></CHLORIDE>")
-myfile.write("<SODIUM></SODIUM>")
-myfile.write("<MAGNESIUM></MAGNESIUM>")
-myfile.write("</WATER>")
-myfile.write("</WATERS>")
+	#Water
+	myfile.write("<WATERS>")
+	myfile.write("<WATER>")
+	myfile.write("<NAME></NAME>")
+	myfile.write("<VERSION>1</VERSION>")
+	myfile.write("<AMOUNT></AMOUNT>")
+	myfile.write("<CALCIUM></CALCIUM>")
+	myfile.write("<BICARBONATE></BICARBONATE>")
+	myfile.write("<SULFATE></SULFATE>")
+	myfile.write("<CHLORIDE></CHLORIDE>")
+	myfile.write("<SODIUM></SODIUM>")
+	myfile.write("<MAGNESIUM></MAGNESIUM>")
+	myfile.write("</WATER>")
+	myfile.write("</WATERS>")
 
-#End
-myfile.write("</RECIPE>")
+	#End
+	myfile.write("</RECIPE>")
 myfile.write("</RECIPES>")
 
 
