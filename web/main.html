@@ -1,25 +1,40 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Beer App V6</title>
-        
-        <!-- Include eel.js - note this file doesn't exist in the 'web' directory -->
-        <script type="text/javascript" src="/eel.js"></script>
-        <script type="text/javascript">
-        
-        eel.expose(say_hello_js);               // Expose this function to Python
-        function say_hello_js(x) {
-            console.log("Hello from " + x);
-        }
-        
-        say_hello_js("Javascript World!");
-        eel.say_hello_py("Javascript World!");  // Call a Python function
+	<head>
+		<title>Beer App V6</title>
+		
+		<!-- Include eel.js - note this file doesn't exist in the 'web' directory -->
+		<script type="text/javascript" src="/eel.js"></script>
+		<script type="text/javascript">
+		
+		eel.expose(say_hello_js);               // Expose this function to Python
+		function say_hello_js(x) {
+			console.log("Hello from " + x);
+		}
+		
+		say_hello_js("Javascript World!");
+		eel.say_hello_py("Javascript World!");  // Call a Python function
 	// eel.python_function();
-        
-        </script>
-    </head>
-    
-    <body>
-        <p>Hello, World!</p>
-    </body>
+		
+
+		</script>
+	</head>
+	<body>
+		<p id="beerName"></p>
+		<p id="Fermentables"></p>
+		<p id="hops"></p>
+		
+		<script type="text/javascript" src="/eel.js"></script>
+		<script>
+			
+		eel.expose(get_beer_info);
+		function get_beer_info(name, malts, hops){
+			console.log(name);
+			document.getElementById("beerName").innerHTML = name;
+			document.getElementById("Fermentables").innerHTML = malts;
+			document.getElementById("hops").innerHTML = hops;
+		}
+		
+		</script>
+	</body>
 </html>

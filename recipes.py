@@ -94,14 +94,13 @@ class recipe:
 		print("  Cl: " + str(self.water[4]))
 		print("  HCO3: " + str(self.water[5]))
 
-#testing stuff
-def test_me():
+def default_recipe():
 	db.load_all()
-	testrecipe = recipe("My beer")
-	testrecipe.add_fermentable("2-row", 3.125)
-	testrecipe.add_hop("Citra", "5 oz", "whirlpool")
-	testrecipe.add_mashstep("Saccrification", 67, 16)
-	return testrecipe
+	defaultRecipe = recipe("My glorious beer")
+	defaultRecipe.add_fermentable("2-row", 3.125)
+	defaultRecipe.add_hop("Citra", "5 oz", "whirlpool")
+	defaultRecipe.add_mashstep("Saccrification", 67, 16)
+	return defaultRecipe
 
 
 

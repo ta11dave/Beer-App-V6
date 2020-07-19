@@ -3,14 +3,15 @@
 import recipes as rp
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
+from xml.dom import minidom
 
 #get file from tk file picker
 Tk().withdraw()
 filename = askopenfilename()
-datasource = open(filename)
+mydoc = minidom.parse(filename)
 
-# parse an open file
-mydoc = parse(datasource)
+#get "recipe" in DOM
+
 
 #for each recipe in the file
 #make a new recipe instance
@@ -84,6 +85,7 @@ While i < root.ChildNodes.Length
     Else
     'And if it doesn't exist?
       MsgBox "Not a BJCP Style..."
+      
       '<NAME>American Lager</NAME>
       '<CATEGORY>Standard American Beer</CATEGORY>
       '<VERSION>1</VERSION>

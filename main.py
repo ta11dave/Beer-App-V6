@@ -4,9 +4,7 @@ import eel_gui
 import databases
 
 def main(args):
-	#load databases
-	databases.load_all()
-	eel_gui
+	eel_gui.start_up()
 
 if __name__ == '__main__':
     import sys
